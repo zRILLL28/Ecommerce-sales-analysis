@@ -1,0 +1,2001 @@
+order_id,date,category,city,payment_method,status,unit_price,quantity,revenue,month,month_n,quarter
+ORD-1000,2023-05-17,Fashion,Bandung,E-Wallet,Completed,311820,3,935460,2023-05,5,Q2
+ORD-1001,2023-12-14,Electronics,Yogyakarta,Credit Card,Completed,1748736,2,3497472,2023-12,12,Q4
+ORD-1002,2023-09-25,Sports,Medan,COD,Completed,357969,4,1431876,2023-09,9,Q3
+ORD-1003,2023-08-07,Electronics,Jakarta,E-Wallet,Returned,2571800,1,0,2023-08,8,Q3
+ORD-1004,2023-02-26,Fashion,Jakarta,Credit Card,Completed,363312,2,726624,2023-02,2,Q1
+ORD-1005,2023-02-26,Home & Living,Jakarta,COD,Completed,780990,1,780990,2023-02,2,Q1
+ORD-1006,2023-01-22,Fashion,Surabaya,Bank Transfer,Completed,141054,4,564216,2023-01,1,Q1
+ORD-1007,2023-11-13,Home & Living,Surabaya,Credit Card,Completed,625707,1,625707,2023-11,11,Q4
+ORD-1008,2023-08-08,Electronics,Bandung,E-Wallet,Completed,3038846,1,3038846,2023-08,8,Q3
+ORD-1009,2023-09-16,Beauty & Health,Jakarta,Credit Card,Completed,363415,5,1817075,2023-09,9,Q3
+ORD-1010,2023-01-08,Electronics,Jakarta,E-Wallet,Cancelled,3408221,1,0,2023-01,1,Q1
+ORD-1011,2023-12-21,Electronics,Surabaya,E-Wallet,Completed,2937101,1,2937101,2023-12,12,Q4
+ORD-1012,2023-10-31,Sports,Medan,COD,Completed,989360,4,3957440,2023-10,10,Q4
+ORD-1013,2023-03-19,Electronics,Jakarta,Bank Transfer,Completed,1747969,1,1747969,2023-03,3,Q1
+ORD-1014,2023-03-08,Beauty & Health,Bandung,Bank Transfer,Completed,271155,1,271155,2023-03,3,Q1
+ORD-1015,2023-03-08,Fashion,Jakarta,E-Wallet,Completed,132039,2,264078,2023-03,3,Q1
+ORD-1016,2023-04-22,Fashion,Semarang,Credit Card,Completed,128478,2,256956,2023-04,4,Q2
+ORD-1017,2023-07-11,Sports,Semarang,Bank Transfer,Completed,411706,4,1646824,2023-07,7,Q3
+ORD-1018,2023-06-07,Electronics,Jakarta,Bank Transfer,Completed,1052421,1,1052421,2023-06,6,Q2
+ORD-1019,2023-04-17,Home & Living,Jakarta,Credit Card,Cancelled,357147,2,0,2023-04,4,Q2
+ORD-1020,2023-08-12,Books & Stationery,Surabaya,Bank Transfer,Completed,81138,1,81138,2023-08,8,Q3
+ORD-1021,2023-02-20,Beauty & Health,Jakarta,COD,Cancelled,100267,1,0,2023-02,2,Q1
+ORD-1022,2023-04-17,Books & Stationery,Bandung,COD,Cancelled,220267,3,0,2023-04,4,Q2
+ORD-1023,2023-05-14,Electronics,Yogyakarta,Credit Card,Completed,774669,3,2324007,2023-05,5,Q2
+ORD-1024,2023-06-16,Fashion,Bandung,Credit Card,Completed,493041,4,1972164,2023-06,6,Q2
+ORD-1025,2023-10-14,Fashion,Yogyakarta,Credit Card,Completed,201073,1,201073,2023-10,10,Q4
+ORD-1026,2023-03-14,Home & Living,Surabaya,COD,Cancelled,813560,1,0,2023-03,3,Q1
+ORD-1027,2023-07-07,Books & Stationery,Jakarta,Credit Card,Completed,217131,5,1085655,2023-07,7,Q3
+ORD-1028,2023-08-05,Fashion,Medan,E-Wallet,Completed,451950,1,451950,2023-08,8,Q3
+ORD-1029,2023-01-17,Home & Living,Surabaya,Credit Card,Cancelled,645563,1,0,2023-01,1,Q1
+ORD-1030,2023-08-10,Electronics,Bandung,E-Wallet,Completed,766017,1,766017,2023-08,8,Q3
+ORD-1031,2023-03-04,Beauty & Health,Jakarta,Bank Transfer,Completed,444553,1,444553,2023-03,3,Q1
+ORD-1032,2023-01-24,Fashion,Jakarta,E-Wallet,Completed,563916,5,2819580,2023-01,1,Q1
+ORD-1033,2023-12-13,Books & Stationery,Makassar,Credit Card,Completed,217570,4,870280,2023-12,12,Q4
+ORD-1034,2023-12-19,Beauty & Health,Jakarta,E-Wallet,Cancelled,327328,1,0,2023-12,12,Q4
+ORD-1035,2023-10-23,Fashion,Makassar,Credit Card,Completed,297393,2,594786,2023-10,10,Q4
+ORD-1036,2023-04-22,Electronics,Makassar,E-Wallet,Completed,3430945,1,3430945,2023-04,4,Q2
+ORD-1037,2023-02-05,Electronics,Medan,COD,Cancelled,1624550,1,0,2023-02,2,Q1
+ORD-1038,2023-09-07,Electronics,Bandung,Credit Card,Completed,2438134,3,7314402,2023-09,9,Q3
+ORD-1039,2023-06-10,Fashion,Bandung,COD,Returned,174865,3,0,2023-06,6,Q2
+ORD-1040,2023-02-14,Sports,Yogyakarta,E-Wallet,Returned,984442,5,0,2023-02,2,Q1
+ORD-1041,2023-06-30,Beauty & Health,Jakarta,Credit Card,Completed,140677,4,562708,2023-06,6,Q2
+ORD-1042,2023-01-13,Beauty & Health,Surabaya,Bank Transfer,Completed,170962,1,170962,2023-01,1,Q1
+ORD-1043,2023-11-28,Electronics,Bandung,Credit Card,Completed,2424402,5,12122010,2023-11,11,Q4
+ORD-1044,2023-04-05,Sports,Surabaya,E-Wallet,Completed,851838,4,3407352,2023-04,4,Q2
+ORD-1045,2023-08-30,Home & Living,Surabaya,E-Wallet,Completed,608545,2,1217090,2023-08,8,Q3
+ORD-1046,2023-04-24,Electronics,Jakarta,Credit Card,Completed,1446401,2,2892802,2023-04,4,Q2
+ORD-1047,2023-07-09,Home & Living,Bandung,Bank Transfer,Completed,175660,2,351320,2023-07,7,Q3
+ORD-1048,2023-07-19,Beauty & Health,Yogyakarta,E-Wallet,Cancelled,362574,1,0,2023-07,7,Q3
+ORD-1049,2023-03-09,Electronics,Jakarta,COD,Completed,3705621,3,11116863,2023-03,3,Q1
+ORD-1050,2023-12-20,Fashion,Semarang,Bank Transfer,Completed,529956,1,529956,2023-12,12,Q4
+ORD-1051,2023-10-10,Beauty & Health,Medan,COD,Completed,255674,3,767022,2023-10,10,Q4
+ORD-1052,2023-12-09,Electronics,Yogyakarta,Bank Transfer,Returned,3461301,2,0,2023-12,12,Q4
+ORD-1053,2023-11-23,Books & Stationery,Bandung,Bank Transfer,Completed,125371,1,125371,2023-11,11,Q4
+ORD-1054,2023-08-07,Sports,Medan,COD,Cancelled,650944,5,0,2023-08,8,Q3
+ORD-1055,2023-12-03,Home & Living,Jakarta,Bank Transfer,Completed,508990,4,2035960,2023-12,12,Q4
+ORD-1056,2023-02-02,Fashion,Yogyakarta,Bank Transfer,Completed,348811,1,348811,2023-02,2,Q1
+ORD-1057,2023-03-13,Fashion,Jakarta,Bank Transfer,Completed,512595,3,1537785,2023-03,3,Q1
+ORD-1058,2023-01-17,Home & Living,Semarang,COD,Completed,543738,1,543738,2023-01,1,Q1
+ORD-1059,2023-04-29,Beauty & Health,Makassar,COD,Completed,204018,1,204018,2023-04,4,Q2
+ORD-1060,2023-05-22,Electronics,Jakarta,Bank Transfer,Completed,1524474,4,6097896,2023-05,5,Q2
+ORD-1061,2023-04-10,Beauty & Health,Jakarta,Bank Transfer,Completed,103589,1,103589,2023-04,4,Q2
+ORD-1062,2023-10-30,Sports,Medan,Bank Transfer,Returned,699883,3,0,2023-10,10,Q4
+ORD-1063,2023-05-11,Fashion,Jakarta,E-Wallet,Completed,239980,5,1199900,2023-05,5,Q2
+ORD-1064,2023-04-13,Electronics,Yogyakarta,Credit Card,Returned,1194401,1,0,2023-04,4,Q2
+ORD-1065,2023-07-18,Home & Living,Jakarta,E-Wallet,Completed,632680,2,1265360,2023-07,7,Q3
+ORD-1066,2023-02-21,Electronics,Jakarta,Bank Transfer,Completed,2793627,4,11174508,2023-02,2,Q1
+ORD-1067,2023-10-20,Fashion,Makassar,Bank Transfer,Completed,501077,2,1002154,2023-10,10,Q4
+ORD-1068,2023-01-28,Electronics,Bandung,Credit Card,Completed,2260730,1,2260730,2023-01,1,Q1
+ORD-1069,2023-12-27,Fashion,Yogyakarta,Credit Card,Completed,572027,3,1716081,2023-12,12,Q4
+ORD-1070,2023-10-09,Home & Living,Jakarta,COD,Completed,830439,5,4152195,2023-10,10,Q4
+ORD-1071,2023-03-14,Beauty & Health,Bandung,Bank Transfer,Completed,380653,1,380653,2023-03,3,Q1
+ORD-1072,2023-01-03,Electronics,Bandung,Credit Card,Completed,2656780,2,5313560,2023-01,1,Q1
+ORD-1073,2023-10-25,Sports,Bandung,Bank Transfer,Completed,465125,2,930250,2023-10,10,Q4
+ORD-1074,2023-09-16,Sports,Medan,Bank Transfer,Cancelled,1035673,1,0,2023-09,9,Q3
+ORD-1075,2023-09-24,Sports,Bandung,Credit Card,Completed,440274,3,1320822,2023-09,9,Q3
+ORD-1076,2023-10-09,Electronics,Surabaya,Bank Transfer,Completed,1357970,5,6789850,2023-10,10,Q4
+ORD-1077,2023-01-28,Fashion,Jakarta,Bank Transfer,Completed,346077,4,1384308,2023-01,1,Q1
+ORD-1078,2023-05-11,Books & Stationery,Medan,E-Wallet,Completed,58299,1,58299,2023-05,5,Q2
+ORD-1079,2023-02-12,Home & Living,Jakarta,Bank Transfer,Completed,859946,4,3439784,2023-02,2,Q1
+ORD-1080,2023-11-12,Electronics,Medan,Bank Transfer,Completed,2515300,1,2515300,2023-11,11,Q4
+ORD-1081,2023-08-16,Electronics,Jakarta,COD,Completed,2420856,5,12104280,2023-08,8,Q3
+ORD-1082,2023-05-01,Fashion,Bandung,Bank Transfer,Completed,452898,2,905796,2023-05,5,Q2
+ORD-1083,2023-01-24,Sports,Medan,Credit Card,Completed,627499,4,2509996,2023-01,1,Q1
+ORD-1084,2023-04-24,Beauty & Health,Jakarta,Credit Card,Completed,101542,5,507710,2023-04,4,Q2
+ORD-1085,2023-04-29,Beauty & Health,Jakarta,Bank Transfer,Completed,310432,1,310432,2023-04,4,Q2
+ORD-1086,2023-09-24,Electronics,Jakarta,E-Wallet,Returned,2898521,1,0,2023-09,9,Q3
+ORD-1087,2023-08-21,Home & Living,Bandung,Credit Card,Completed,466724,3,1400172,2023-08,8,Q3
+ORD-1088,2023-11-20,Sports,Yogyakarta,E-Wallet,Completed,846128,1,846128,2023-11,11,Q4
+ORD-1089,2023-06-22,Fashion,Jakarta,Credit Card,Cancelled,238500,3,0,2023-06,6,Q2
+ORD-1090,2023-02-13,Home & Living,Medan,Bank Transfer,Cancelled,329893,5,0,2023-02,2,Q1
+ORD-1091,2023-09-18,Books & Stationery,Jakarta,E-Wallet,Completed,78169,1,78169,2023-09,9,Q3
+ORD-1092,2023-10-05,Electronics,Surabaya,Bank Transfer,Completed,1865984,2,3731968,2023-10,10,Q4
+ORD-1093,2023-07-24,Beauty & Health,Semarang,E-Wallet,Returned,394924,1,0,2023-07,7,Q3
+ORD-1094,2023-10-09,Fashion,Jakarta,Credit Card,Completed,538956,5,2694780,2023-10,10,Q4
+ORD-1095,2023-06-30,Home & Living,Surabaya,E-Wallet,Cancelled,442976,1,0,2023-06,6,Q2
+ORD-1096,2023-07-10,Beauty & Health,Jakarta,Credit Card,Completed,302082,1,302082,2023-07,7,Q3
+ORD-1097,2023-06-06,Beauty & Health,Jakarta,COD,Completed,349493,1,349493,2023-06,6,Q2
+ORD-1098,2023-01-10,Home & Living,Jakarta,Credit Card,Completed,343844,2,687688,2023-01,1,Q1
+ORD-1099,2023-02-09,Fashion,Jakarta,COD,Completed,209070,4,836280,2023-02,2,Q1
+ORD-1100,2023-01-12,Sports,Bandung,Bank Transfer,Cancelled,1026560,4,0,2023-01,1,Q1
+ORD-1101,2023-08-21,Beauty & Health,Surabaya,E-Wallet,Returned,312320,5,0,2023-08,8,Q3
+ORD-1102,2023-04-25,Electronics,Bandung,Bank Transfer,Completed,3694247,1,3694247,2023-04,4,Q2
+ORD-1103,2023-07-05,Home & Living,Jakarta,COD,Completed,411429,1,411429,2023-07,7,Q3
+ORD-1104,2023-11-28,Home & Living,Jakarta,Credit Card,Cancelled,667122,4,0,2023-11,11,Q4
+ORD-1105,2023-04-01,Fashion,Bandung,Credit Card,Completed,236301,3,708903,2023-04,4,Q2
+ORD-1106,2023-05-30,Sports,Makassar,Bank Transfer,Completed,429408,1,429408,2023-05,5,Q2
+ORD-1107,2023-10-03,Sports,Jakarta,Credit Card,Completed,639997,2,1279994,2023-10,10,Q4
+ORD-1108,2023-03-25,Fashion,Semarang,Credit Card,Completed,284809,1,284809,2023-03,3,Q1
+ORD-1109,2023-01-29,Books & Stationery,Bandung,COD,Completed,79348,3,238044,2023-01,1,Q1
+ORD-1110,2023-04-16,Electronics,Bandung,COD,Completed,1538642,4,6154568,2023-04,4,Q2
+ORD-1111,2023-02-28,Electronics,Surabaya,Bank Transfer,Completed,857245,3,2571735,2023-02,2,Q1
+ORD-1112,2023-12-06,Electronics,Jakarta,COD,Returned,2863270,1,0,2023-12,12,Q4
+ORD-1113,2023-10-22,Sports,Jakarta,Bank Transfer,Completed,623377,2,1246754,2023-10,10,Q4
+ORD-1114,2023-08-20,Home & Living,Bandung,Credit Card,Completed,240970,1,240970,2023-08,8,Q3
+ORD-1115,2023-11-15,Electronics,Jakarta,E-Wallet,Completed,1265081,2,2530162,2023-11,11,Q4
+ORD-1116,2023-10-21,Fashion,Semarang,E-Wallet,Completed,176267,1,176267,2023-10,10,Q4
+ORD-1117,2023-03-10,Beauty & Health,Surabaya,COD,Completed,310533,1,310533,2023-03,3,Q1
+ORD-1118,2023-11-22,Electronics,Jakarta,Credit Card,Completed,1032631,3,3097893,2023-11,11,Q4
+ORD-1119,2023-07-16,Sports,Medan,E-Wallet,Completed,843597,3,2530791,2023-07,7,Q3
+ORD-1120,2023-10-22,Sports,Jakarta,Credit Card,Completed,227229,1,227229,2023-10,10,Q4
+ORD-1121,2023-11-24,Beauty & Health,Surabaya,Credit Card,Completed,179775,3,539325,2023-11,11,Q4
+ORD-1122,2023-04-27,Books & Stationery,Medan,Credit Card,Completed,216726,2,433452,2023-04,4,Q2
+ORD-1123,2023-02-10,Fashion,Semarang,COD,Completed,484265,1,484265,2023-02,2,Q1
+ORD-1124,2023-03-25,Books & Stationery,Medan,E-Wallet,Completed,61363,1,61363,2023-03,3,Q1
+ORD-1125,2023-06-05,Home & Living,Bandung,E-Wallet,Completed,749788,1,749788,2023-06,6,Q2
+ORD-1126,2023-10-26,Beauty & Health,Bandung,Bank Transfer,Completed,267492,1,267492,2023-10,10,Q4
+ORD-1127,2023-11-11,Electronics,Semarang,Bank Transfer,Returned,3290349,1,0,2023-11,11,Q4
+ORD-1128,2023-01-03,Sports,Jakarta,Credit Card,Cancelled,714621,1,0,2023-01,1,Q1
+ORD-1129,2023-07-06,Fashion,Jakarta,Credit Card,Completed,465916,1,465916,2023-07,7,Q3
+ORD-1130,2023-06-02,Electronics,Jakarta,Bank Transfer,Completed,3730504,1,3730504,2023-06,6,Q2
+ORD-1131,2023-03-23,Electronics,Jakarta,E-Wallet,Completed,1447006,1,1447006,2023-03,3,Q1
+ORD-1132,2023-02-13,Beauty & Health,Bandung,Bank Transfer,Returned,314620,2,0,2023-02,2,Q1
+ORD-1133,2023-05-04,Beauty & Health,Bandung,Credit Card,Completed,255715,1,255715,2023-05,5,Q2
+ORD-1134,2023-12-11,Home & Living,Bandung,Credit Card,Completed,202616,1,202616,2023-12,12,Q4
+ORD-1135,2023-04-28,Sports,Jakarta,Credit Card,Completed,222155,5,1110775,2023-04,4,Q2
+ORD-1136,2023-07-09,Electronics,Medan,Bank Transfer,Completed,1107685,3,3323055,2023-07,7,Q3
+ORD-1137,2023-09-14,Home & Living,Jakarta,COD,Returned,629364,4,0,2023-09,9,Q3
+ORD-1138,2023-05-13,Electronics,Bandung,E-Wallet,Completed,2451489,1,2451489,2023-05,5,Q2
+ORD-1139,2023-12-21,Sports,Bandung,E-Wallet,Completed,674880,3,2024640,2023-12,12,Q4
+ORD-1140,2023-12-18,Sports,Jakarta,Bank Transfer,Completed,236759,1,236759,2023-12,12,Q4
+ORD-1141,2023-04-02,Beauty & Health,Jakarta,Bank Transfer,Completed,258949,2,517898,2023-04,4,Q2
+ORD-1142,2023-07-01,Home & Living,Jakarta,Credit Card,Completed,822235,4,3288940,2023-07,7,Q3
+ORD-1143,2023-04-20,Fashion,Yogyakarta,COD,Completed,323795,3,971385,2023-04,4,Q2
+ORD-1144,2023-04-14,Beauty & Health,Semarang,E-Wallet,Returned,314972,1,0,2023-04,4,Q2
+ORD-1145,2023-01-14,Sports,Bandung,Credit Card,Completed,865047,4,3460188,2023-01,1,Q1
+ORD-1146,2023-08-11,Fashion,Jakarta,Bank Transfer,Completed,516962,1,516962,2023-08,8,Q3
+ORD-1147,2023-07-03,Fashion,Surabaya,Bank Transfer,Returned,384640,1,0,2023-07,7,Q3
+ORD-1148,2023-01-19,Beauty & Health,Medan,E-Wallet,Completed,398862,1,398862,2023-01,1,Q1
+ORD-1149,2023-04-12,Sports,Medan,COD,Completed,538757,4,2155028,2023-04,4,Q2
+ORD-1150,2023-11-28,Fashion,Jakarta,E-Wallet,Completed,569346,2,1138692,2023-11,11,Q4
+ORD-1151,2023-03-29,Electronics,Jakarta,Bank Transfer,Cancelled,1470681,2,0,2023-03,3,Q1
+ORD-1152,2023-02-22,Home & Living,Medan,Credit Card,Completed,371151,5,1855755,2023-02,2,Q1
+ORD-1153,2023-06-28,Sports,Surabaya,Credit Card,Returned,254621,3,0,2023-06,6,Q2
+ORD-1154,2023-12-26,Electronics,Jakarta,Credit Card,Cancelled,3136745,1,0,2023-12,12,Q4
+ORD-1155,2023-03-30,Electronics,Jakarta,Credit Card,Completed,2001165,5,10005825,2023-03,3,Q1
+ORD-1156,2023-09-03,Electronics,Bandung,E-Wallet,Completed,1437349,1,1437349,2023-09,9,Q3
+ORD-1157,2023-10-05,Fashion,Yogyakarta,E-Wallet,Completed,240895,2,481790,2023-10,10,Q4
+ORD-1158,2023-03-28,Fashion,Makassar,Credit Card,Completed,575699,5,2878495,2023-03,3,Q1
+ORD-1159,2023-09-23,Home & Living,Bandung,COD,Cancelled,758741,3,0,2023-09,9,Q3
+ORD-1160,2023-05-15,Home & Living,Surabaya,Credit Card,Returned,562471,1,0,2023-05,5,Q2
+ORD-1161,2023-08-19,Beauty & Health,Jakarta,Bank Transfer,Completed,311799,1,311799,2023-08,8,Q3
+ORD-1162,2023-08-20,Fashion,Bandung,Credit Card,Completed,362162,4,1448648,2023-08,8,Q3
+ORD-1163,2023-07-15,Sports,Surabaya,Bank Transfer,Completed,538999,1,538999,2023-07,7,Q3
+ORD-1164,2023-02-02,Beauty & Health,Bandung,Credit Card,Completed,419571,4,1678284,2023-02,2,Q1
+ORD-1165,2023-11-01,Books & Stationery,Surabaya,Bank Transfer,Completed,71366,3,214098,2023-11,11,Q4
+ORD-1166,2023-04-28,Beauty & Health,Jakarta,Bank Transfer,Completed,240640,1,240640,2023-04,4,Q2
+ORD-1167,2023-03-10,Electronics,Jakarta,COD,Completed,1783685,5,8918425,2023-03,3,Q1
+ORD-1168,2023-01-15,Home & Living,Jakarta,Credit Card,Completed,523705,1,523705,2023-01,1,Q1
+ORD-1169,2023-08-04,Fashion,Jakarta,Credit Card,Completed,353815,1,353815,2023-08,8,Q3
+ORD-1170,2023-09-05,Home & Living,Jakarta,Credit Card,Cancelled,538222,2,0,2023-09,9,Q3
+ORD-1171,2023-01-07,Electronics,Makassar,E-Wallet,Cancelled,1169756,2,0,2023-01,1,Q1
+ORD-1172,2023-07-06,Electronics,Surabaya,Credit Card,Completed,2289424,1,2289424,2023-07,7,Q3
+ORD-1173,2023-03-24,Sports,Bandung,COD,Completed,413631,1,413631,2023-03,3,Q1
+ORD-1174,2023-08-24,Electronics,Yogyakarta,Bank Transfer,Completed,1302994,2,2605988,2023-08,8,Q3
+ORD-1175,2023-03-05,Sports,Makassar,Bank Transfer,Completed,264460,2,528920,2023-03,3,Q1
+ORD-1176,2023-09-10,Fashion,Bandung,E-Wallet,Completed,506326,1,506326,2023-09,9,Q3
+ORD-1177,2023-05-22,Beauty & Health,Yogyakarta,Credit Card,Completed,243879,2,487758,2023-05,5,Q2
+ORD-1178,2023-12-08,Home & Living,Jakarta,Credit Card,Completed,613650,3,1840950,2023-12,12,Q4
+ORD-1179,2023-02-20,Beauty & Health,Jakarta,Bank Transfer,Completed,351933,2,703866,2023-02,2,Q1
+ORD-1180,2023-05-05,Fashion,Surabaya,E-Wallet,Completed,464658,1,464658,2023-05,5,Q2
+ORD-1181,2023-02-11,Electronics,Bandung,Credit Card,Completed,2161502,3,6484506,2023-02,2,Q1
+ORD-1182,2023-12-04,Electronics,Medan,Credit Card,Completed,1913695,3,5741085,2023-12,12,Q4
+ORD-1183,2023-11-17,Fashion,Jakarta,COD,Returned,312979,1,0,2023-11,11,Q4
+ORD-1184,2023-04-05,Home & Living,Jakarta,Credit Card,Completed,623034,2,1246068,2023-04,4,Q2
+ORD-1185,2023-08-29,Books & Stationery,Bandung,E-Wallet,Completed,141510,1,141510,2023-08,8,Q3
+ORD-1186,2023-10-26,Sports,Jakarta,E-Wallet,Completed,923271,4,3693084,2023-10,10,Q4
+ORD-1187,2023-07-22,Home & Living,Bandung,Credit Card,Returned,787291,1,0,2023-07,7,Q3
+ORD-1188,2023-07-13,Home & Living,Medan,Credit Card,Completed,294392,1,294392,2023-07,7,Q3
+ORD-1189,2023-03-30,Home & Living,Medan,Credit Card,Completed,270363,2,540726,2023-03,3,Q1
+ORD-1190,2023-02-03,Fashion,Medan,E-Wallet,Cancelled,440200,1,0,2023-02,2,Q1
+ORD-1191,2023-11-24,Sports,Yogyakarta,E-Wallet,Completed,463029,2,926058,2023-11,11,Q4
+ORD-1192,2023-11-25,Home & Living,Surabaya,E-Wallet,Completed,187999,1,187999,2023-11,11,Q4
+ORD-1193,2023-08-20,Beauty & Health,Medan,COD,Completed,409911,1,409911,2023-08,8,Q3
+ORD-1194,2023-05-04,Electronics,Bandung,E-Wallet,Completed,1430702,1,1430702,2023-05,5,Q2
+ORD-1195,2023-05-08,Fashion,Jakarta,Credit Card,Completed,589640,1,589640,2023-05,5,Q2
+ORD-1196,2023-09-22,Fashion,Jakarta,Credit Card,Completed,483717,2,967434,2023-09,9,Q3
+ORD-1197,2023-11-24,Sports,Jakarta,COD,Completed,850628,1,850628,2023-11,11,Q4
+ORD-1198,2023-11-20,Beauty & Health,Surabaya,Credit Card,Completed,162526,4,650104,2023-11,11,Q4
+ORD-1199,2023-10-12,Fashion,Bandung,Credit Card,Completed,242097,5,1210485,2023-10,10,Q4
+ORD-1200,2023-08-23,Books & Stationery,Yogyakarta,E-Wallet,Completed,146540,2,293080,2023-08,8,Q3
+ORD-1201,2023-01-31,Electronics,Jakarta,Bank Transfer,Completed,1266299,1,1266299,2023-01,1,Q1
+ORD-1202,2023-02-28,Fashion,Jakarta,COD,Returned,277715,2,0,2023-02,2,Q1
+ORD-1203,2023-11-24,Electronics,Makassar,E-Wallet,Completed,1714387,1,1714387,2023-11,11,Q4
+ORD-1204,2023-08-10,Home & Living,Jakarta,Credit Card,Completed,286740,1,286740,2023-08,8,Q3
+ORD-1205,2023-01-04,Sports,Surabaya,COD,Completed,382353,3,1147059,2023-01,1,Q1
+ORD-1206,2023-02-07,Fashion,Bandung,Credit Card,Completed,519275,5,2596375,2023-02,2,Q1
+ORD-1207,2023-08-31,Sports,Bandung,Bank Transfer,Completed,350444,1,350444,2023-08,8,Q3
+ORD-1208,2023-01-02,Fashion,Jakarta,Bank Transfer,Completed,139228,1,139228,2023-01,1,Q1
+ORD-1209,2023-02-28,Sports,Jakarta,Credit Card,Completed,738658,4,2954632,2023-02,2,Q1
+ORD-1210,2023-07-20,Home & Living,Jakarta,Bank Transfer,Completed,858188,2,1716376,2023-07,7,Q3
+ORD-1211,2023-09-10,Sports,Bandung,Credit Card,Completed,488219,1,488219,2023-09,9,Q3
+ORD-1212,2023-08-26,Electronics,Bandung,Bank Transfer,Completed,1105967,2,2211934,2023-08,8,Q3
+ORD-1213,2023-03-23,Books & Stationery,Jakarta,Bank Transfer,Completed,155873,3,467619,2023-03,3,Q1
+ORD-1214,2023-09-17,Home & Living,Bandung,E-Wallet,Completed,809447,1,809447,2023-09,9,Q3
+ORD-1215,2023-03-28,Fashion,Yogyakarta,E-Wallet,Completed,517030,1,517030,2023-03,3,Q1
+ORD-1216,2023-04-29,Sports,Jakarta,Credit Card,Completed,732913,2,1465826,2023-04,4,Q2
+ORD-1217,2023-09-30,Fashion,Surabaya,Bank Transfer,Completed,282528,1,282528,2023-09,9,Q3
+ORD-1218,2023-08-26,Sports,Medan,Bank Transfer,Completed,665179,1,665179,2023-08,8,Q3
+ORD-1219,2023-11-06,Electronics,Jakarta,Credit Card,Completed,1023734,5,5118670,2023-11,11,Q4
+ORD-1220,2023-08-29,Home & Living,Jakarta,E-Wallet,Cancelled,650261,2,0,2023-08,8,Q3
+ORD-1221,2023-07-27,Beauty & Health,Bandung,E-Wallet,Completed,351034,3,1053102,2023-07,7,Q3
+ORD-1222,2023-02-04,Electronics,Semarang,Credit Card,Completed,3645094,4,14580376,2023-02,2,Q1
+ORD-1223,2023-05-15,Electronics,Yogyakarta,Bank Transfer,Cancelled,1531192,2,0,2023-05,5,Q2
+ORD-1224,2023-04-07,Electronics,Bandung,Credit Card,Completed,805369,4,3221476,2023-04,4,Q2
+ORD-1225,2023-03-31,Fashion,Medan,E-Wallet,Completed,397804,3,1193412,2023-03,3,Q1
+ORD-1226,2023-12-22,Fashion,Surabaya,Credit Card,Completed,478395,4,1913580,2023-12,12,Q4
+ORD-1227,2023-05-24,Beauty & Health,Bandung,COD,Completed,374546,3,1123638,2023-05,5,Q2
+ORD-1228,2023-11-22,Fashion,Surabaya,E-Wallet,Completed,221869,1,221869,2023-11,11,Q4
+ORD-1229,2023-08-19,Fashion,Jakarta,Bank Transfer,Completed,255876,1,255876,2023-08,8,Q3
+ORD-1230,2023-10-18,Home & Living,Medan,E-Wallet,Completed,533813,2,1067626,2023-10,10,Q4
+ORD-1231,2023-07-03,Electronics,Bandung,COD,Completed,1741802,1,1741802,2023-07,7,Q3
+ORD-1232,2023-07-30,Sports,Surabaya,E-Wallet,Cancelled,932829,5,0,2023-07,7,Q3
+ORD-1233,2023-06-29,Sports,Semarang,Credit Card,Completed,607958,5,3039790,2023-06,6,Q2
+ORD-1234,2023-03-13,Home & Living,Jakarta,Bank Transfer,Completed,734705,1,734705,2023-03,3,Q1
+ORD-1235,2023-09-21,Beauty & Health,Jakarta,COD,Completed,299023,1,299023,2023-09,9,Q3
+ORD-1236,2023-04-13,Sports,Jakarta,E-Wallet,Completed,859395,3,2578185,2023-04,4,Q2
+ORD-1237,2023-01-09,Electronics,Medan,E-Wallet,Cancelled,1748018,3,0,2023-01,1,Q1
+ORD-1238,2023-08-24,Electronics,Medan,COD,Completed,3244249,1,3244249,2023-08,8,Q3
+ORD-1239,2023-03-06,Electronics,Jakarta,COD,Completed,1573716,2,3147432,2023-03,3,Q1
+ORD-1240,2023-12-10,Home & Living,Bandung,COD,Completed,557269,3,1671807,2023-12,12,Q4
+ORD-1241,2023-12-15,Electronics,Surabaya,Credit Card,Completed,1392021,1,1392021,2023-12,12,Q4
+ORD-1242,2023-11-30,Beauty & Health,Medan,Bank Transfer,Completed,261189,3,783567,2023-11,11,Q4
+ORD-1243,2023-05-16,Books & Stationery,Surabaya,E-Wallet,Completed,107953,2,215906,2023-05,5,Q2
+ORD-1244,2023-01-06,Sports,Surabaya,E-Wallet,Completed,434030,3,1302090,2023-01,1,Q1
+ORD-1245,2023-12-05,Beauty & Health,Semarang,E-Wallet,Completed,438114,1,438114,2023-12,12,Q4
+ORD-1246,2023-06-06,Electronics,Jakarta,Credit Card,Completed,1230222,1,1230222,2023-06,6,Q2
+ORD-1247,2023-12-19,Sports,Jakarta,E-Wallet,Completed,871353,4,3485412,2023-12,12,Q4
+ORD-1248,2023-12-18,Beauty & Health,Bandung,E-Wallet,Cancelled,444299,5,0,2023-12,12,Q4
+ORD-1249,2023-11-08,Electronics,Makassar,Credit Card,Cancelled,809704,1,0,2023-11,11,Q4
+ORD-1250,2023-04-18,Electronics,Surabaya,Bank Transfer,Returned,2847082,1,0,2023-04,4,Q2
+ORD-1251,2023-05-21,Sports,Jakarta,Credit Card,Returned,422445,2,0,2023-05,5,Q2
+ORD-1252,2023-11-07,Home & Living,Jakarta,Bank Transfer,Completed,203341,3,610023,2023-11,11,Q4
+ORD-1253,2023-04-26,Sports,Surabaya,Credit Card,Completed,548427,1,548427,2023-04,4,Q2
+ORD-1254,2023-03-03,Sports,Jakarta,Bank Transfer,Completed,995582,2,1991164,2023-03,3,Q1
+ORD-1255,2023-07-23,Beauty & Health,Bandung,Bank Transfer,Cancelled,94235,1,0,2023-07,7,Q3
+ORD-1256,2023-12-08,Beauty & Health,Makassar,E-Wallet,Completed,301638,2,603276,2023-12,12,Q4
+ORD-1257,2023-09-12,Fashion,Surabaya,E-Wallet,Returned,375698,5,0,2023-09,9,Q3
+ORD-1258,2023-07-28,Fashion,Surabaya,COD,Completed,561692,5,2808460,2023-07,7,Q3
+ORD-1259,2023-02-05,Fashion,Surabaya,Credit Card,Cancelled,167000,3,0,2023-02,2,Q1
+ORD-1260,2023-08-13,Home & Living,Jakarta,Credit Card,Completed,652068,1,652068,2023-08,8,Q3
+ORD-1261,2023-12-28,Beauty & Health,Semarang,COD,Completed,334839,3,1004517,2023-12,12,Q4
+ORD-1262,2023-02-21,Sports,Surabaya,Credit Card,Completed,772027,2,1544054,2023-02,2,Q1
+ORD-1263,2023-07-09,Fashion,Surabaya,COD,Completed,596167,1,596167,2023-07,7,Q3
+ORD-1264,2023-11-17,Beauty & Health,Bandung,COD,Cancelled,386311,1,0,2023-11,11,Q4
+ORD-1265,2023-09-28,Beauty & Health,Surabaya,Bank Transfer,Completed,105110,1,105110,2023-09,9,Q3
+ORD-1266,2023-09-12,Beauty & Health,Bandung,COD,Completed,259589,5,1297945,2023-09,9,Q3
+ORD-1267,2023-09-14,Home & Living,Jakarta,Credit Card,Completed,453567,1,453567,2023-09,9,Q3
+ORD-1268,2023-05-12,Electronics,Yogyakarta,Bank Transfer,Completed,1680441,1,1680441,2023-05,5,Q2
+ORD-1269,2023-04-18,Beauty & Health,Semarang,E-Wallet,Completed,252481,3,757443,2023-04,4,Q2
+ORD-1270,2023-10-23,Electronics,Bandung,Bank Transfer,Completed,1902582,1,1902582,2023-10,10,Q4
+ORD-1271,2023-10-23,Fashion,Makassar,COD,Completed,341166,1,341166,2023-10,10,Q4
+ORD-1272,2023-11-13,Beauty & Health,Jakarta,Credit Card,Completed,442534,3,1327602,2023-11,11,Q4
+ORD-1273,2023-11-30,Home & Living,Surabaya,Bank Transfer,Completed,237043,2,474086,2023-11,11,Q4
+ORD-1274,2023-07-06,Books & Stationery,Bandung,E-Wallet,Completed,222723,1,222723,2023-07,7,Q3
+ORD-1275,2023-07-03,Beauty & Health,Bandung,E-Wallet,Completed,262885,2,525770,2023-07,7,Q3
+ORD-1276,2023-10-19,Home & Living,Surabaya,Credit Card,Completed,611619,1,611619,2023-10,10,Q4
+ORD-1277,2023-08-26,Beauty & Health,Jakarta,Bank Transfer,Completed,388865,1,388865,2023-08,8,Q3
+ORD-1278,2023-09-14,Beauty & Health,Jakarta,COD,Completed,219766,1,219766,2023-09,9,Q3
+ORD-1279,2023-10-18,Electronics,Surabaya,Credit Card,Completed,2041265,1,2041265,2023-10,10,Q4
+ORD-1280,2023-11-21,Fashion,Jakarta,E-Wallet,Completed,329759,2,659518,2023-11,11,Q4
+ORD-1281,2023-05-04,Fashion,Medan,E-Wallet,Returned,312365,1,0,2023-05,5,Q2
+ORD-1282,2023-05-18,Beauty & Health,Jakarta,E-Wallet,Cancelled,423190,1,0,2023-05,5,Q2
+ORD-1283,2023-02-04,Electronics,Jakarta,E-Wallet,Completed,3236789,2,6473578,2023-02,2,Q1
+ORD-1284,2023-07-31,Electronics,Bandung,Credit Card,Completed,1076999,1,1076999,2023-07,7,Q3
+ORD-1285,2023-01-14,Fashion,Bandung,E-Wallet,Cancelled,179061,1,0,2023-01,1,Q1
+ORD-1286,2023-06-19,Books & Stationery,Yogyakarta,COD,Completed,128795,2,257590,2023-06,6,Q2
+ORD-1287,2023-07-18,Fashion,Bandung,Bank Transfer,Completed,174328,2,348656,2023-07,7,Q3
+ORD-1288,2023-04-15,Beauty & Health,Jakarta,COD,Completed,312873,1,312873,2023-04,4,Q2
+ORD-1289,2023-08-04,Electronics,Yogyakarta,Bank Transfer,Completed,1181074,1,1181074,2023-08,8,Q3
+ORD-1290,2023-01-12,Beauty & Health,Bandung,Credit Card,Returned,278054,2,0,2023-01,1,Q1
+ORD-1291,2023-01-14,Fashion,Jakarta,Bank Transfer,Completed,128609,1,128609,2023-01,1,Q1
+ORD-1292,2023-10-28,Electronics,Bandung,COD,Completed,1699789,1,1699789,2023-10,10,Q4
+ORD-1293,2023-05-12,Beauty & Health,Semarang,Bank Transfer,Completed,333788,5,1668940,2023-05,5,Q2
+ORD-1294,2023-02-16,Electronics,Surabaya,COD,Completed,2202116,1,2202116,2023-02,2,Q1
+ORD-1295,2023-07-10,Electronics,Jakarta,COD,Cancelled,3684808,5,0,2023-07,7,Q3
+ORD-1296,2023-10-09,Electronics,Jakarta,Bank Transfer,Completed,3372311,1,3372311,2023-10,10,Q4
+ORD-1297,2023-03-20,Electronics,Jakarta,Credit Card,Completed,1827212,1,1827212,2023-03,3,Q1
+ORD-1298,2023-08-16,Electronics,Surabaya,E-Wallet,Completed,886459,5,4432295,2023-08,8,Q3
+ORD-1299,2023-02-01,Fashion,Bandung,Bank Transfer,Cancelled,547813,3,0,2023-02,2,Q1
+ORD-1300,2023-01-19,Sports,Jakarta,E-Wallet,Cancelled,975436,1,0,2023-01,1,Q1
+ORD-1301,2023-07-13,Beauty & Health,Semarang,Bank Transfer,Completed,385425,5,1927125,2023-07,7,Q3
+ORD-1302,2023-07-17,Beauty & Health,Medan,Bank Transfer,Completed,136061,2,272122,2023-07,7,Q3
+ORD-1303,2023-08-21,Fashion,Bandung,E-Wallet,Completed,623957,4,2495828,2023-08,8,Q3
+ORD-1304,2023-09-23,Books & Stationery,Yogyakarta,Bank Transfer,Completed,96631,4,386524,2023-09,9,Q3
+ORD-1305,2023-12-23,Fashion,Jakarta,Bank Transfer,Completed,487102,4,1948408,2023-12,12,Q4
+ORD-1306,2023-07-08,Electronics,Surabaya,Bank Transfer,Completed,3474104,4,13896416,2023-07,7,Q3
+ORD-1307,2023-04-28,Beauty & Health,Bandung,Bank Transfer,Completed,174847,3,524541,2023-04,4,Q2
+ORD-1308,2023-10-18,Electronics,Yogyakarta,Bank Transfer,Completed,3474775,1,3474775,2023-10,10,Q4
+ORD-1309,2023-04-09,Fashion,Medan,E-Wallet,Completed,279740,5,1398700,2023-04,4,Q2
+ORD-1310,2023-06-10,Beauty & Health,Jakarta,Bank Transfer,Completed,441508,1,441508,2023-06,6,Q2
+ORD-1311,2023-01-29,Sports,Semarang,Bank Transfer,Completed,446258,2,892516,2023-01,1,Q1
+ORD-1312,2023-01-10,Beauty & Health,Jakarta,E-Wallet,Completed,433236,4,1732944,2023-01,1,Q1
+ORD-1313,2023-12-18,Home & Living,Yogyakarta,Credit Card,Completed,212481,1,212481,2023-12,12,Q4
+ORD-1314,2023-11-02,Books & Stationery,Makassar,Credit Card,Completed,182261,4,729044,2023-11,11,Q4
+ORD-1315,2023-09-12,Electronics,Jakarta,COD,Completed,2346333,4,9385332,2023-09,9,Q3
+ORD-1316,2023-05-30,Fashion,Medan,E-Wallet,Cancelled,363938,1,0,2023-05,5,Q2
+ORD-1317,2023-03-05,Fashion,Jakarta,E-Wallet,Completed,236747,3,710241,2023-03,3,Q1
+ORD-1318,2023-02-27,Fashion,Surabaya,E-Wallet,Cancelled,477797,1,0,2023-02,2,Q1
+ORD-1319,2023-04-02,Fashion,Surabaya,Credit Card,Completed,220404,1,220404,2023-04,4,Q2
+ORD-1320,2023-07-20,Sports,Bandung,E-Wallet,Completed,674387,3,2023161,2023-07,7,Q3
+ORD-1321,2023-09-18,Home & Living,Semarang,Bank Transfer,Completed,352271,1,352271,2023-09,9,Q3
+ORD-1322,2023-08-29,Beauty & Health,Bandung,Bank Transfer,Completed,434023,1,434023,2023-08,8,Q3
+ORD-1323,2023-04-13,Fashion,Surabaya,Bank Transfer,Completed,139315,4,557260,2023-04,4,Q2
+ORD-1324,2023-12-15,Sports,Yogyakarta,Credit Card,Completed,377771,1,377771,2023-12,12,Q4
+ORD-1325,2023-09-27,Books & Stationery,Makassar,Credit Card,Cancelled,93539,3,0,2023-09,9,Q3
+ORD-1326,2023-07-22,Sports,Jakarta,COD,Completed,557816,2,1115632,2023-07,7,Q3
+ORD-1327,2023-08-12,Electronics,Makassar,Bank Transfer,Cancelled,1448190,3,0,2023-08,8,Q3
+ORD-1328,2023-06-03,Beauty & Health,Jakarta,Bank Transfer,Cancelled,266885,2,0,2023-06,6,Q2
+ORD-1329,2023-04-01,Electronics,Yogyakarta,Credit Card,Completed,3367396,2,6734792,2023-04,4,Q2
+ORD-1330,2023-05-10,Fashion,Jakarta,Credit Card,Completed,481031,2,962062,2023-05,5,Q2
+ORD-1331,2023-10-04,Electronics,Jakarta,E-Wallet,Completed,2489885,5,12449425,2023-10,10,Q4
+ORD-1332,2023-01-06,Beauty & Health,Surabaya,Bank Transfer,Cancelled,122041,5,0,2023-01,1,Q1
+ORD-1333,2023-02-12,Home & Living,Bandung,Bank Transfer,Completed,660794,3,1982382,2023-02,2,Q1
+ORD-1334,2023-01-17,Electronics,Surabaya,Credit Card,Cancelled,1249242,2,0,2023-01,1,Q1
+ORD-1335,2023-01-15,Fashion,Jakarta,E-Wallet,Completed,518183,2,1036366,2023-01,1,Q1
+ORD-1336,2023-11-09,Fashion,Bandung,Credit Card,Returned,250028,1,0,2023-11,11,Q4
+ORD-1337,2023-09-14,Fashion,Semarang,Credit Card,Completed,333524,3,1000572,2023-09,9,Q3
+ORD-1338,2023-06-23,Electronics,Surabaya,Bank Transfer,Completed,1801410,3,5404230,2023-06,6,Q2
+ORD-1339,2023-02-05,Fashion,Jakarta,Credit Card,Cancelled,554406,1,0,2023-02,2,Q1
+ORD-1340,2023-06-29,Home & Living,Surabaya,Credit Card,Cancelled,263581,3,0,2023-06,6,Q2
+ORD-1341,2023-06-22,Electronics,Jakarta,E-Wallet,Completed,2446934,4,9787736,2023-06,6,Q2
+ORD-1342,2023-03-05,Electronics,Yogyakarta,E-Wallet,Completed,1176184,5,5880920,2023-03,3,Q1
+ORD-1343,2023-06-08,Fashion,Yogyakarta,E-Wallet,Completed,477397,4,1909588,2023-06,6,Q2
+ORD-1344,2023-05-26,Books & Stationery,Bandung,Bank Transfer,Returned,219464,3,0,2023-05,5,Q2
+ORD-1345,2023-08-13,Home & Living,Surabaya,Credit Card,Completed,479225,5,2396125,2023-08,8,Q3
+ORD-1346,2023-08-20,Home & Living,Medan,Credit Card,Cancelled,516664,5,0,2023-08,8,Q3
+ORD-1347,2023-01-17,Fashion,Bandung,COD,Completed,588711,1,588711,2023-01,1,Q1
+ORD-1348,2023-05-17,Beauty & Health,Yogyakarta,E-Wallet,Completed,277556,1,277556,2023-05,5,Q2
+ORD-1349,2023-08-17,Electronics,Bandung,E-Wallet,Completed,2212795,1,2212795,2023-08,8,Q3
+ORD-1350,2023-07-03,Beauty & Health,Medan,Credit Card,Cancelled,298198,2,0,2023-07,7,Q3
+ORD-1351,2023-11-09,Sports,Bandung,Bank Transfer,Completed,788952,2,1577904,2023-11,11,Q4
+ORD-1352,2023-08-29,Beauty & Health,Surabaya,Credit Card,Cancelled,128478,1,0,2023-08,8,Q3
+ORD-1353,2023-03-01,Sports,Makassar,E-Wallet,Completed,899732,1,899732,2023-03,3,Q1
+ORD-1354,2023-01-26,Home & Living,Bandung,COD,Completed,479853,4,1919412,2023-01,1,Q1
+ORD-1355,2023-08-23,Electronics,Bandung,COD,Completed,967045,4,3868180,2023-08,8,Q3
+ORD-1356,2023-01-10,Sports,Jakarta,Bank Transfer,Completed,870393,4,3481572,2023-01,1,Q1
+ORD-1357,2023-08-02,Electronics,Bandung,Bank Transfer,Completed,1880849,1,1880849,2023-08,8,Q3
+ORD-1358,2023-12-10,Beauty & Health,Bandung,COD,Completed,126132,5,630660,2023-12,12,Q4
+ORD-1359,2023-07-30,Electronics,Jakarta,E-Wallet,Completed,2651337,4,10605348,2023-07,7,Q3
+ORD-1360,2023-05-22,Electronics,Jakarta,Credit Card,Cancelled,3390394,2,0,2023-05,5,Q2
+ORD-1361,2023-08-23,Fashion,Bandung,Bank Transfer,Completed,568876,2,1137752,2023-08,8,Q3
+ORD-1362,2023-06-17,Fashion,Medan,Credit Card,Completed,603831,3,1811493,2023-06,6,Q2
+ORD-1363,2023-07-19,Beauty & Health,Surabaya,Bank Transfer,Completed,402373,3,1207119,2023-07,7,Q3
+ORD-1364,2023-12-10,Beauty & Health,Jakarta,Bank Transfer,Completed,90770,1,90770,2023-12,12,Q4
+ORD-1365,2023-05-21,Electronics,Bandung,E-Wallet,Completed,1890723,2,3781446,2023-05,5,Q2
+ORD-1366,2023-12-17,Electronics,Jakarta,Bank Transfer,Completed,3205627,1,3205627,2023-12,12,Q4
+ORD-1367,2023-11-27,Beauty & Health,Surabaya,Credit Card,Cancelled,221851,2,0,2023-11,11,Q4
+ORD-1368,2023-03-13,Fashion,Jakarta,Bank Transfer,Completed,425774,1,425774,2023-03,3,Q1
+ORD-1369,2023-01-26,Home & Living,Jakarta,COD,Completed,599421,1,599421,2023-01,1,Q1
+ORD-1370,2023-02-06,Home & Living,Jakarta,E-Wallet,Completed,430517,1,430517,2023-02,2,Q1
+ORD-1371,2023-01-07,Sports,Surabaya,Bank Transfer,Completed,969758,1,969758,2023-01,1,Q1
+ORD-1372,2023-02-04,Home & Living,Jakarta,COD,Completed,527259,2,1054518,2023-02,2,Q1
+ORD-1373,2023-09-07,Fashion,Surabaya,COD,Completed,357392,4,1429568,2023-09,9,Q3
+ORD-1374,2023-01-26,Home & Living,Surabaya,Credit Card,Completed,873259,1,873259,2023-01,1,Q1
+ORD-1375,2023-04-27,Fashion,Surabaya,Credit Card,Completed,371750,4,1487000,2023-04,4,Q2
+ORD-1376,2023-11-05,Fashion,Surabaya,E-Wallet,Completed,214199,2,428398,2023-11,11,Q4
+ORD-1377,2023-01-09,Home & Living,Yogyakarta,E-Wallet,Completed,534148,1,534148,2023-01,1,Q1
+ORD-1378,2023-10-25,Fashion,Jakarta,COD,Completed,532008,4,2128032,2023-10,10,Q4
+ORD-1379,2023-04-13,Home & Living,Surabaya,COD,Completed,718802,2,1437604,2023-04,4,Q2
+ORD-1380,2023-02-13,Sports,Jakarta,E-Wallet,Completed,872408,4,3489632,2023-02,2,Q1
+ORD-1381,2023-09-12,Sports,Jakarta,Bank Transfer,Completed,804739,1,804739,2023-09,9,Q3
+ORD-1382,2023-08-18,Sports,Bandung,Credit Card,Completed,423542,1,423542,2023-08,8,Q3
+ORD-1383,2023-11-17,Fashion,Bandung,Credit Card,Cancelled,556042,3,0,2023-11,11,Q4
+ORD-1384,2023-09-26,Fashion,Yogyakarta,Bank Transfer,Completed,571721,1,571721,2023-09,9,Q3
+ORD-1385,2023-10-21,Beauty & Health,Bandung,E-Wallet,Completed,159894,3,479682,2023-10,10,Q4
+ORD-1386,2023-04-13,Fashion,Makassar,E-Wallet,Returned,190227,1,0,2023-04,4,Q2
+ORD-1387,2023-03-06,Beauty & Health,Jakarta,E-Wallet,Completed,441217,2,882434,2023-03,3,Q1
+ORD-1388,2023-10-01,Home & Living,Jakarta,Credit Card,Completed,782826,2,1565652,2023-10,10,Q4
+ORD-1389,2023-10-22,Home & Living,Jakarta,E-Wallet,Completed,800265,2,1600530,2023-10,10,Q4
+ORD-1390,2023-12-28,Fashion,Jakarta,Credit Card,Completed,568188,3,1704564,2023-12,12,Q4
+ORD-1391,2023-05-31,Electronics,Bandung,Bank Transfer,Completed,2375060,5,11875300,2023-05,5,Q2
+ORD-1392,2023-05-16,Fashion,Bandung,E-Wallet,Returned,448200,5,0,2023-05,5,Q2
+ORD-1393,2023-10-11,Electronics,Jakarta,E-Wallet,Completed,2386088,2,4772176,2023-10,10,Q4
+ORD-1394,2023-05-05,Sports,Semarang,COD,Cancelled,253013,4,0,2023-05,5,Q2
+ORD-1395,2023-12-06,Fashion,Yogyakarta,Credit Card,Completed,497751,2,995502,2023-12,12,Q4
+ORD-1396,2023-11-10,Electronics,Jakarta,Bank Transfer,Completed,2265996,5,11329980,2023-11,11,Q4
+ORD-1397,2023-06-06,Electronics,Jakarta,Bank Transfer,Completed,2693127,2,5386254,2023-06,6,Q2
+ORD-1398,2023-10-02,Beauty & Health,Jakarta,Bank Transfer,Cancelled,270950,1,0,2023-10,10,Q4
+ORD-1399,2023-10-03,Beauty & Health,Jakarta,COD,Returned,267052,1,0,2023-10,10,Q4
+ORD-1400,2023-02-07,Fashion,Jakarta,E-Wallet,Completed,210894,5,1054470,2023-02,2,Q1
+ORD-1401,2023-11-26,Electronics,Surabaya,COD,Returned,1586141,5,0,2023-11,11,Q4
+ORD-1402,2023-07-04,Fashion,Jakarta,Credit Card,Completed,204426,1,204426,2023-07,7,Q3
+ORD-1403,2023-10-29,Fashion,Surabaya,COD,Completed,222833,2,445666,2023-10,10,Q4
+ORD-1404,2023-04-27,Home & Living,Makassar,Credit Card,Completed,856084,2,1712168,2023-04,4,Q2
+ORD-1405,2023-11-23,Beauty & Health,Medan,COD,Completed,145120,2,290240,2023-11,11,Q4
+ORD-1406,2023-05-23,Fashion,Semarang,Bank Transfer,Completed,259635,2,519270,2023-05,5,Q2
+ORD-1407,2023-01-04,Electronics,Jakarta,Bank Transfer,Completed,2521768,2,5043536,2023-01,1,Q1
+ORD-1408,2023-11-27,Books & Stationery,Surabaya,Bank Transfer,Completed,163433,5,817165,2023-11,11,Q4
+ORD-1409,2023-02-03,Fashion,Bandung,COD,Completed,201987,1,201987,2023-02,2,Q1
+ORD-1410,2023-04-27,Home & Living,Jakarta,Credit Card,Completed,730602,4,2922408,2023-04,4,Q2
+ORD-1411,2023-12-13,Electronics,Jakarta,Bank Transfer,Returned,3105608,4,0,2023-12,12,Q4
+ORD-1412,2023-12-13,Beauty & Health,Bandung,COD,Completed,175434,2,350868,2023-12,12,Q4
+ORD-1413,2023-07-29,Electronics,Bandung,Bank Transfer,Completed,1615998,1,1615998,2023-07,7,Q3
+ORD-1414,2023-08-19,Beauty & Health,Surabaya,Credit Card,Completed,427675,1,427675,2023-08,8,Q3
+ORD-1415,2023-06-13,Books & Stationery,Surabaya,Bank Transfer,Completed,204377,4,817508,2023-06,6,Q2
+ORD-1416,2023-04-18,Fashion,Surabaya,Bank Transfer,Completed,473898,5,2369490,2023-04,4,Q2
+ORD-1417,2023-04-30,Electronics,Jakarta,COD,Completed,996699,1,996699,2023-04,4,Q2
+ORD-1418,2023-09-03,Electronics,Jakarta,E-Wallet,Completed,2004792,2,4009584,2023-09,9,Q3
+ORD-1419,2023-10-02,Fashion,Jakarta,Bank Transfer,Completed,404650,1,404650,2023-10,10,Q4
+ORD-1420,2023-10-16,Electronics,Jakarta,COD,Completed,1312233,4,5248932,2023-10,10,Q4
+ORD-1421,2023-10-16,Electronics,Makassar,Bank Transfer,Completed,2094679,4,8378716,2023-10,10,Q4
+ORD-1422,2023-02-03,Home & Living,Bandung,Credit Card,Completed,595718,3,1787154,2023-02,2,Q1
+ORD-1423,2023-06-30,Fashion,Medan,Credit Card,Completed,288688,1,288688,2023-06,6,Q2
+ORD-1424,2023-01-22,Fashion,Jakarta,Bank Transfer,Completed,515472,1,515472,2023-01,1,Q1
+ORD-1425,2023-07-20,Sports,Surabaya,Credit Card,Completed,915977,1,915977,2023-07,7,Q3
+ORD-1426,2023-06-11,Electronics,Jakarta,COD,Completed,1720828,1,1720828,2023-06,6,Q2
+ORD-1427,2023-11-21,Books & Stationery,Jakarta,E-Wallet,Returned,206844,5,0,2023-11,11,Q4
+ORD-1428,2023-05-09,Fashion,Jakarta,Credit Card,Completed,176788,1,176788,2023-05,5,Q2
+ORD-1429,2023-02-12,Sports,Medan,E-Wallet,Completed,913692,1,913692,2023-02,2,Q1
+ORD-1430,2023-02-22,Beauty & Health,Bandung,E-Wallet,Completed,144990,2,289980,2023-02,2,Q1
+ORD-1431,2023-10-05,Sports,Bandung,COD,Completed,279658,3,838974,2023-10,10,Q4
+ORD-1432,2023-08-14,Books & Stationery,Surabaya,COD,Completed,169437,1,169437,2023-08,8,Q3
+ORD-1433,2023-02-06,Fashion,Semarang,Bank Transfer,Cancelled,360968,1,0,2023-02,2,Q1
+ORD-1434,2023-01-31,Books & Stationery,Jakarta,E-Wallet,Returned,219999,4,0,2023-01,1,Q1
+ORD-1435,2023-09-13,Fashion,Jakarta,E-Wallet,Completed,306594,1,306594,2023-09,9,Q3
+ORD-1436,2023-01-27,Fashion,Jakarta,E-Wallet,Completed,268576,1,268576,2023-01,1,Q1
+ORD-1437,2023-10-27,Fashion,Medan,Credit Card,Completed,375367,3,1126101,2023-10,10,Q4
+ORD-1438,2023-09-15,Beauty & Health,Makassar,Credit Card,Completed,254140,1,254140,2023-09,9,Q3
+ORD-1439,2023-01-30,Electronics,Jakarta,Bank Transfer,Completed,1783284,3,5349852,2023-01,1,Q1
+ORD-1440,2023-01-31,Beauty & Health,Yogyakarta,Credit Card,Completed,339746,3,1019238,2023-01,1,Q1
+ORD-1441,2023-12-27,Beauty & Health,Yogyakarta,Credit Card,Completed,363442,4,1453768,2023-12,12,Q4
+ORD-1442,2023-05-17,Home & Living,Jakarta,E-Wallet,Completed,772088,1,772088,2023-05,5,Q2
+ORD-1443,2023-05-16,Sports,Surabaya,Credit Card,Completed,1027199,3,3081597,2023-05,5,Q2
+ORD-1444,2023-10-24,Fashion,Surabaya,E-Wallet,Completed,258328,1,258328,2023-10,10,Q4
+ORD-1445,2023-12-12,Fashion,Makassar,Bank Transfer,Completed,483046,1,483046,2023-12,12,Q4
+ORD-1446,2023-12-26,Fashion,Jakarta,COD,Completed,322129,3,966387,2023-12,12,Q4
+ORD-1447,2023-10-02,Electronics,Medan,Bank Transfer,Cancelled,2781245,5,0,2023-10,10,Q4
+ORD-1448,2023-05-18,Electronics,Jakarta,Credit Card,Completed,2177945,1,2177945,2023-05,5,Q2
+ORD-1449,2023-01-31,Fashion,Medan,E-Wallet,Cancelled,621886,1,0,2023-01,1,Q1
+ORD-1450,2023-10-11,Fashion,Surabaya,COD,Completed,489451,4,1957804,2023-10,10,Q4
+ORD-1451,2023-07-23,Books & Stationery,Bandung,COD,Completed,228473,5,1142365,2023-07,7,Q3
+ORD-1452,2023-06-04,Beauty & Health,Yogyakarta,Bank Transfer,Completed,390589,5,1952945,2023-06,6,Q2
+ORD-1453,2023-11-27,Fashion,Yogyakarta,Bank Transfer,Completed,576450,2,1152900,2023-11,11,Q4
+ORD-1454,2023-02-10,Beauty & Health,Yogyakarta,COD,Returned,383190,1,0,2023-02,2,Q1
+ORD-1455,2023-06-29,Electronics,Jakarta,Credit Card,Completed,2127477,5,10637385,2023-06,6,Q2
+ORD-1456,2023-01-05,Fashion,Medan,E-Wallet,Completed,250894,1,250894,2023-01,1,Q1
+ORD-1457,2023-06-21,Beauty & Health,Jakarta,Bank Transfer,Completed,223315,1,223315,2023-06,6,Q2
+ORD-1458,2023-01-21,Beauty & Health,Surabaya,Credit Card,Returned,97285,3,0,2023-01,1,Q1
+ORD-1459,2023-02-13,Fashion,Bandung,Bank Transfer,Completed,386996,1,386996,2023-02,2,Q1
+ORD-1460,2023-02-12,Books & Stationery,Surabaya,Credit Card,Returned,143460,2,0,2023-02,2,Q1
+ORD-1461,2023-08-25,Sports,Surabaya,E-Wallet,Cancelled,651210,2,0,2023-08,8,Q3
+ORD-1462,2023-09-30,Beauty & Health,Makassar,COD,Completed,440651,1,440651,2023-09,9,Q3
+ORD-1463,2023-08-01,Beauty & Health,Jakarta,Credit Card,Cancelled,418123,1,0,2023-08,8,Q3
+ORD-1464,2023-12-18,Beauty & Health,Bandung,E-Wallet,Returned,148216,2,0,2023-12,12,Q4
+ORD-1465,2023-05-17,Electronics,Surabaya,Credit Card,Completed,1856647,2,3713294,2023-05,5,Q2
+ORD-1466,2023-04-15,Fashion,Jakarta,Bank Transfer,Completed,336978,3,1010934,2023-04,4,Q2
+ORD-1467,2023-11-14,Electronics,Jakarta,Credit Card,Completed,1831598,1,1831598,2023-11,11,Q4
+ORD-1468,2023-03-23,Beauty & Health,Semarang,COD,Completed,377458,2,754916,2023-03,3,Q1
+ORD-1469,2023-12-18,Beauty & Health,Yogyakarta,E-Wallet,Completed,278653,1,278653,2023-12,12,Q4
+ORD-1470,2023-01-05,Electronics,Semarang,E-Wallet,Completed,2466299,2,4932598,2023-01,1,Q1
+ORD-1471,2023-12-21,Books & Stationery,Makassar,E-Wallet,Completed,209572,2,419144,2023-12,12,Q4
+ORD-1472,2023-01-16,Sports,Jakarta,E-Wallet,Completed,886979,3,2660937,2023-01,1,Q1
+ORD-1473,2023-11-22,Home & Living,Surabaya,COD,Completed,267548,3,802644,2023-11,11,Q4
+ORD-1474,2023-07-12,Beauty & Health,Bandung,E-Wallet,Cancelled,347009,3,0,2023-07,7,Q3
+ORD-1475,2023-12-29,Sports,Surabaya,COD,Completed,575766,2,1151532,2023-12,12,Q4
+ORD-1476,2023-01-27,Electronics,Surabaya,Bank Transfer,Completed,1633946,1,1633946,2023-01,1,Q1
+ORD-1477,2023-07-22,Home & Living,Surabaya,Credit Card,Completed,210013,1,210013,2023-07,7,Q3
+ORD-1478,2023-12-20,Electronics,Bandung,Bank Transfer,Completed,2211748,5,11058740,2023-12,12,Q4
+ORD-1479,2023-07-10,Home & Living,Bandung,Credit Card,Returned,423805,2,0,2023-07,7,Q3
+ORD-1480,2023-08-18,Fashion,Jakarta,E-Wallet,Completed,250756,1,250756,2023-08,8,Q3
+ORD-1481,2023-09-11,Sports,Surabaya,Bank Transfer,Completed,793524,4,3174096,2023-09,9,Q3
+ORD-1482,2023-06-15,Books & Stationery,Bandung,E-Wallet,Returned,193702,2,0,2023-06,6,Q2
+ORD-1483,2023-08-18,Electronics,Bandung,Credit Card,Returned,1484368,5,0,2023-08,8,Q3
+ORD-1484,2023-08-02,Fashion,Jakarta,Credit Card,Completed,149723,3,449169,2023-08,8,Q3
+ORD-1485,2023-11-25,Books & Stationery,Medan,Bank Transfer,Completed,208763,5,1043815,2023-11,11,Q4
+ORD-1486,2023-01-17,Beauty & Health,Jakarta,COD,Completed,93585,1,93585,2023-01,1,Q1
+ORD-1487,2023-04-13,Sports,Surabaya,Bank Transfer,Completed,997174,1,997174,2023-04,4,Q2
+ORD-1488,2023-12-13,Beauty & Health,Medan,Bank Transfer,Completed,315943,2,631886,2023-12,12,Q4
+ORD-1489,2023-11-21,Fashion,Bandung,E-Wallet,Completed,285923,2,571846,2023-11,11,Q4
+ORD-1490,2023-06-16,Fashion,Jakarta,E-Wallet,Cancelled,248238,4,0,2023-06,6,Q2
+ORD-1491,2023-08-15,Electronics,Medan,Credit Card,Completed,777016,5,3885080,2023-08,8,Q3
+ORD-1492,2023-04-12,Home & Living,Bandung,Bank Transfer,Completed,339829,3,1019487,2023-04,4,Q2
+ORD-1493,2023-03-10,Fashion,Medan,Credit Card,Returned,193864,1,0,2023-03,3,Q1
+ORD-1494,2023-06-19,Beauty & Health,Medan,COD,Completed,310379,4,1241516,2023-06,6,Q2
+ORD-1495,2023-05-09,Beauty & Health,Bandung,Credit Card,Returned,149956,4,0,2023-05,5,Q2
+ORD-1496,2023-08-02,Beauty & Health,Surabaya,Bank Transfer,Returned,280306,1,0,2023-08,8,Q3
+ORD-1497,2023-01-29,Sports,Jakarta,Credit Card,Completed,705697,1,705697,2023-01,1,Q1
+ORD-1498,2023-12-22,Books & Stationery,Jakarta,Credit Card,Completed,104127,5,520635,2023-12,12,Q4
+ORD-1499,2023-12-26,Fashion,Surabaya,E-Wallet,Completed,142532,4,570128,2023-12,12,Q4
+ORD-1500,2023-09-12,Sports,Bandung,Credit Card,Completed,241293,1,241293,2023-09,9,Q3
+ORD-1501,2023-07-15,Home & Living,Surabaya,Credit Card,Completed,193443,1,193443,2023-07,7,Q3
+ORD-1502,2023-04-23,Beauty & Health,Jakarta,Bank Transfer,Completed,356084,1,356084,2023-04,4,Q2
+ORD-1503,2023-10-25,Books & Stationery,Jakarta,Credit Card,Returned,107921,1,0,2023-10,10,Q4
+ORD-1504,2023-09-07,Electronics,Surabaya,Credit Card,Completed,3138900,4,12555600,2023-09,9,Q3
+ORD-1505,2023-03-01,Electronics,Jakarta,E-Wallet,Completed,2045198,2,4090396,2023-03,3,Q1
+ORD-1506,2023-11-29,Sports,Medan,E-Wallet,Completed,590518,2,1181036,2023-11,11,Q4
+ORD-1507,2023-10-28,Fashion,Jakarta,COD,Completed,381441,3,1144323,2023-10,10,Q4
+ORD-1508,2023-12-13,Sports,Bandung,COD,Cancelled,808946,5,0,2023-12,12,Q4
+ORD-1509,2023-09-22,Sports,Semarang,E-Wallet,Completed,439742,1,439742,2023-09,9,Q3
+ORD-1510,2023-08-12,Electronics,Jakarta,Credit Card,Completed,1114762,5,5573810,2023-08,8,Q3
+ORD-1511,2023-06-02,Sports,Surabaya,E-Wallet,Completed,677088,3,2031264,2023-06,6,Q2
+ORD-1512,2023-12-07,Fashion,Jakarta,COD,Completed,288488,3,865464,2023-12,12,Q4
+ORD-1513,2023-11-13,Beauty & Health,Bandung,E-Wallet,Completed,249296,3,747888,2023-11,11,Q4
+ORD-1514,2023-01-17,Beauty & Health,Bandung,Bank Transfer,Completed,322900,3,968700,2023-01,1,Q1
+ORD-1515,2023-01-10,Books & Stationery,Surabaya,Credit Card,Completed,141383,2,282766,2023-01,1,Q1
+ORD-1516,2023-05-18,Electronics,Surabaya,COD,Returned,2610836,4,0,2023-05,5,Q2
+ORD-1517,2023-10-23,Beauty & Health,Semarang,E-Wallet,Returned,285912,4,0,2023-10,10,Q4
+ORD-1518,2023-12-27,Home & Living,Jakarta,COD,Completed,692857,2,1385714,2023-12,12,Q4
+ORD-1519,2023-02-24,Home & Living,Jakarta,Credit Card,Cancelled,669155,1,0,2023-02,2,Q1
+ORD-1520,2023-08-05,Home & Living,Yogyakarta,Credit Card,Completed,548932,2,1097864,2023-08,8,Q3
+ORD-1521,2023-05-20,Electronics,Bandung,Credit Card,Completed,2786709,1,2786709,2023-05,5,Q2
+ORD-1522,2023-12-21,Fashion,Semarang,E-Wallet,Completed,561779,2,1123558,2023-12,12,Q4
+ORD-1523,2023-11-04,Fashion,Bandung,Credit Card,Completed,341135,4,1364540,2023-11,11,Q4
+ORD-1524,2023-11-02,Sports,Yogyakarta,Credit Card,Completed,556720,1,556720,2023-11,11,Q4
+ORD-1525,2023-06-21,Fashion,Surabaya,COD,Completed,507122,1,507122,2023-06,6,Q2
+ORD-1526,2023-06-01,Electronics,Medan,Credit Card,Completed,2497661,4,9990644,2023-06,6,Q2
+ORD-1527,2023-04-10,Books & Stationery,Semarang,COD,Cancelled,60991,2,0,2023-04,4,Q2
+ORD-1528,2023-01-21,Electronics,Bandung,Bank Transfer,Completed,3426336,2,6852672,2023-01,1,Q1
+ORD-1529,2023-11-12,Books & Stationery,Jakarta,COD,Completed,53348,2,106696,2023-11,11,Q4
+ORD-1530,2023-10-24,Home & Living,Jakarta,E-Wallet,Cancelled,698877,2,0,2023-10,10,Q4
+ORD-1531,2023-12-31,Sports,Jakarta,COD,Completed,847387,1,847387,2023-12,12,Q4
+ORD-1532,2023-12-30,Fashion,Jakarta,COD,Completed,601555,1,601555,2023-12,12,Q4
+ORD-1533,2023-07-22,Electronics,Jakarta,Credit Card,Cancelled,912403,1,0,2023-07,7,Q3
+ORD-1534,2023-10-08,Home & Living,Bandung,Credit Card,Completed,592799,1,592799,2023-10,10,Q4
+ORD-1535,2023-12-11,Sports,Bandung,Credit Card,Completed,569386,4,2277544,2023-12,12,Q4
+ORD-1536,2023-11-07,Home & Living,Surabaya,E-Wallet,Completed,406443,1,406443,2023-11,11,Q4
+ORD-1537,2023-04-01,Electronics,Bandung,COD,Cancelled,1020955,1,0,2023-04,4,Q2
+ORD-1538,2023-06-14,Home & Living,Jakarta,Bank Transfer,Completed,568857,5,2844285,2023-06,6,Q2
+ORD-1539,2023-02-17,Home & Living,Jakarta,E-Wallet,Cancelled,510328,3,0,2023-02,2,Q1
+ORD-1540,2023-12-15,Home & Living,Jakarta,Credit Card,Completed,248188,3,744564,2023-12,12,Q4
+ORD-1541,2023-08-10,Home & Living,Surabaya,E-Wallet,Completed,603742,1,603742,2023-08,8,Q3
+ORD-1542,2023-03-25,Sports,Jakarta,COD,Cancelled,829880,1,0,2023-03,3,Q1
+ORD-1543,2023-09-03,Beauty & Health,Jakarta,Credit Card,Completed,366220,1,366220,2023-09,9,Q3
+ORD-1544,2023-08-14,Electronics,Surabaya,Bank Transfer,Completed,3466119,2,6932238,2023-08,8,Q3
+ORD-1545,2023-05-11,Beauty & Health,Yogyakarta,Credit Card,Completed,237409,4,949636,2023-05,5,Q2
+ORD-1546,2023-02-11,Electronics,Jakarta,E-Wallet,Cancelled,3609218,2,0,2023-02,2,Q1
+ORD-1547,2023-09-03,Fashion,Bandung,Bank Transfer,Completed,557714,4,2230856,2023-09,9,Q3
+ORD-1548,2023-07-09,Fashion,Bandung,Credit Card,Completed,273250,1,273250,2023-07,7,Q3
+ORD-1549,2023-10-09,Electronics,Medan,Bank Transfer,Completed,1227849,3,3683547,2023-10,10,Q4
+ORD-1550,2023-07-09,Fashion,Semarang,Bank Transfer,Cancelled,342694,5,0,2023-07,7,Q3
+ORD-1551,2023-11-08,Electronics,Jakarta,Bank Transfer,Completed,1955696,3,5867088,2023-11,11,Q4
+ORD-1552,2023-07-21,Sports,Jakarta,E-Wallet,Completed,693604,1,693604,2023-07,7,Q3
+ORD-1553,2023-07-24,Books & Stationery,Semarang,Credit Card,Completed,158343,4,633372,2023-07,7,Q3
+ORD-1554,2023-11-16,Electronics,Surabaya,E-Wallet,Completed,2999960,5,14999800,2023-11,11,Q4
+ORD-1555,2023-05-28,Books & Stationery,Bandung,E-Wallet,Completed,144379,1,144379,2023-05,5,Q2
+ORD-1556,2023-02-18,Beauty & Health,Bandung,Bank Transfer,Completed,127736,1,127736,2023-02,2,Q1
+ORD-1557,2023-01-11,Fashion,Bandung,Credit Card,Completed,554145,5,2770725,2023-01,1,Q1
+ORD-1558,2023-10-03,Electronics,Semarang,E-Wallet,Completed,1679293,4,6717172,2023-10,10,Q4
+ORD-1559,2023-08-15,Beauty & Health,Makassar,COD,Cancelled,439667,5,0,2023-08,8,Q3
+ORD-1560,2023-09-14,Home & Living,Medan,Credit Card,Completed,257502,1,257502,2023-09,9,Q3
+ORD-1561,2023-03-19,Home & Living,Jakarta,Bank Transfer,Cancelled,845775,1,0,2023-03,3,Q1
+ORD-1562,2023-02-19,Electronics,Yogyakarta,Credit Card,Completed,1023035,4,4092140,2023-02,2,Q1
+ORD-1563,2023-01-06,Electronics,Jakarta,E-Wallet,Cancelled,1443108,1,0,2023-01,1,Q1
+ORD-1564,2023-05-08,Fashion,Jakarta,Credit Card,Completed,148289,2,296578,2023-05,5,Q2
+ORD-1565,2023-08-04,Fashion,Semarang,Bank Transfer,Completed,477556,2,955112,2023-08,8,Q3
+ORD-1566,2023-05-24,Electronics,Jakarta,E-Wallet,Cancelled,3300896,3,0,2023-05,5,Q2
+ORD-1567,2023-06-09,Fashion,Jakarta,E-Wallet,Cancelled,342035,2,0,2023-06,6,Q2
+ORD-1568,2023-11-27,Sports,Jakarta,Bank Transfer,Completed,989958,4,3959832,2023-11,11,Q4
+ORD-1569,2023-05-08,Books & Stationery,Yogyakarta,Bank Transfer,Completed,159656,2,319312,2023-05,5,Q2
+ORD-1570,2023-07-07,Fashion,Surabaya,E-Wallet,Completed,440003,2,880006,2023-07,7,Q3
+ORD-1571,2023-10-14,Sports,Bandung,Credit Card,Completed,920152,5,4600760,2023-10,10,Q4
+ORD-1572,2023-05-25,Fashion,Jakarta,Credit Card,Completed,273400,1,273400,2023-05,5,Q2
+ORD-1573,2023-08-16,Beauty & Health,Medan,COD,Completed,217535,3,652605,2023-08,8,Q3
+ORD-1574,2023-11-11,Electronics,Medan,Credit Card,Cancelled,3467855,1,0,2023-11,11,Q4
+ORD-1575,2023-12-13,Beauty & Health,Jakarta,E-Wallet,Completed,414346,3,1243038,2023-12,12,Q4
+ORD-1576,2023-02-23,Books & Stationery,Surabaya,COD,Completed,233031,3,699093,2023-02,2,Q1
+ORD-1577,2023-12-05,Beauty & Health,Jakarta,Credit Card,Completed,414661,3,1243983,2023-12,12,Q4
+ORD-1578,2023-06-29,Fashion,Makassar,Bank Transfer,Completed,188686,1,188686,2023-06,6,Q2
+ORD-1579,2023-04-05,Beauty & Health,Bandung,E-Wallet,Completed,386540,1,386540,2023-04,4,Q2
+ORD-1580,2023-06-17,Electronics,Semarang,COD,Completed,1979515,1,1979515,2023-06,6,Q2
+ORD-1581,2023-12-24,Sports,Jakarta,COD,Completed,1042273,1,1042273,2023-12,12,Q4
+ORD-1582,2023-06-29,Beauty & Health,Medan,E-Wallet,Cancelled,260021,1,0,2023-06,6,Q2
+ORD-1583,2023-04-30,Fashion,Medan,Credit Card,Completed,401918,2,803836,2023-04,4,Q2
+ORD-1584,2023-08-20,Beauty & Health,Medan,E-Wallet,Completed,280718,2,561436,2023-08,8,Q3
+ORD-1585,2023-03-29,Beauty & Health,Makassar,Bank Transfer,Completed,205825,5,1029125,2023-03,3,Q1
+ORD-1586,2023-01-28,Electronics,Surabaya,Bank Transfer,Cancelled,975066,1,0,2023-01,1,Q1
+ORD-1587,2023-02-17,Home & Living,Jakarta,Credit Card,Completed,801955,1,801955,2023-02,2,Q1
+ORD-1588,2023-02-16,Electronics,Bandung,Credit Card,Completed,3158027,1,3158027,2023-02,2,Q1
+ORD-1589,2023-02-25,Home & Living,Medan,E-Wallet,Completed,272668,5,1363340,2023-02,2,Q1
+ORD-1590,2023-02-20,Sports,Bandung,Bank Transfer,Cancelled,862485,1,0,2023-02,2,Q1
+ORD-1591,2023-08-22,Sports,Jakarta,Bank Transfer,Completed,735711,4,2942844,2023-08,8,Q3
+ORD-1592,2023-03-08,Beauty & Health,Surabaya,Bank Transfer,Completed,237291,1,237291,2023-03,3,Q1
+ORD-1593,2023-05-07,Beauty & Health,Jakarta,COD,Cancelled,181447,1,0,2023-05,5,Q2
+ORD-1594,2023-11-24,Electronics,Surabaya,E-Wallet,Completed,3329186,1,3329186,2023-11,11,Q4
+ORD-1595,2023-06-22,Home & Living,Bandung,Credit Card,Completed,665131,1,665131,2023-06,6,Q2
+ORD-1596,2023-09-01,Fashion,Medan,Credit Card,Completed,398869,1,398869,2023-09,9,Q3
+ORD-1597,2023-03-04,Beauty & Health,Jakarta,Credit Card,Completed,309444,2,618888,2023-03,3,Q1
+ORD-1598,2023-03-12,Fashion,Surabaya,COD,Completed,170533,5,852665,2023-03,3,Q1
+ORD-1599,2023-01-15,Electronics,Jakarta,E-Wallet,Completed,2171759,2,4343518,2023-01,1,Q1
+ORD-1600,2023-03-03,Beauty & Health,Jakarta,Bank Transfer,Completed,159732,5,798660,2023-03,3,Q1
+ORD-1601,2023-04-12,Electronics,Medan,E-Wallet,Completed,1375151,1,1375151,2023-04,4,Q2
+ORD-1602,2023-03-06,Home & Living,Semarang,Bank Transfer,Cancelled,637912,5,0,2023-03,3,Q1
+ORD-1603,2023-02-02,Fashion,Surabaya,E-Wallet,Completed,580628,3,1741884,2023-02,2,Q1
+ORD-1604,2023-02-14,Electronics,Medan,Bank Transfer,Completed,1961269,4,7845076,2023-02,2,Q1
+ORD-1605,2023-06-18,Beauty & Health,Semarang,Credit Card,Completed,164789,4,659156,2023-06,6,Q2
+ORD-1606,2023-03-17,Electronics,Yogyakarta,Credit Card,Completed,2696240,1,2696240,2023-03,3,Q1
+ORD-1607,2023-05-13,Fashion,Jakarta,Bank Transfer,Completed,560593,3,1681779,2023-05,5,Q2
+ORD-1608,2023-07-03,Home & Living,Makassar,COD,Completed,698823,4,2795292,2023-07,7,Q3
+ORD-1609,2023-09-09,Electronics,Surabaya,Bank Transfer,Cancelled,3356271,2,0,2023-09,9,Q3
+ORD-1610,2023-01-15,Sports,Jakarta,COD,Completed,660705,1,660705,2023-01,1,Q1
+ORD-1611,2023-10-19,Electronics,Jakarta,E-Wallet,Cancelled,3005628,1,0,2023-10,10,Q4
+ORD-1612,2023-08-18,Electronics,Surabaya,Credit Card,Returned,1170193,2,0,2023-08,8,Q3
+ORD-1613,2023-01-30,Home & Living,Jakarta,Credit Card,Completed,418792,5,2093960,2023-01,1,Q1
+ORD-1614,2023-11-15,Fashion,Jakarta,Credit Card,Completed,319774,1,319774,2023-11,11,Q4
+ORD-1615,2023-12-03,Electronics,Jakarta,E-Wallet,Returned,2283887,5,0,2023-12,12,Q4
+ORD-1616,2023-01-23,Fashion,Yogyakarta,Credit Card,Returned,589538,2,0,2023-01,1,Q1
+ORD-1617,2023-04-12,Fashion,Yogyakarta,Bank Transfer,Completed,562148,2,1124296,2023-04,4,Q2
+ORD-1618,2023-10-22,Sports,Jakarta,Bank Transfer,Completed,323001,2,646002,2023-10,10,Q4
+ORD-1619,2023-10-01,Fashion,Yogyakarta,E-Wallet,Completed,211394,1,211394,2023-10,10,Q4
+ORD-1620,2023-03-09,Home & Living,Yogyakarta,Credit Card,Returned,425348,5,0,2023-03,3,Q1
+ORD-1621,2023-03-18,Sports,Medan,Bank Transfer,Completed,454224,3,1362672,2023-03,3,Q1
+ORD-1622,2023-05-16,Fashion,Jakarta,Bank Transfer,Completed,432385,1,432385,2023-05,5,Q2
+ORD-1623,2023-06-26,Sports,Medan,Bank Transfer,Cancelled,968331,4,0,2023-06,6,Q2
+ORD-1624,2023-08-14,Fashion,Semarang,E-Wallet,Completed,606145,3,1818435,2023-08,8,Q3
+ORD-1625,2023-05-15,Books & Stationery,Medan,Credit Card,Completed,171684,3,515052,2023-05,5,Q2
+ORD-1626,2023-06-18,Electronics,Jakarta,E-Wallet,Completed,3264477,3,9793431,2023-06,6,Q2
+ORD-1627,2023-09-30,Home & Living,Surabaya,E-Wallet,Cancelled,542641,3,0,2023-09,9,Q3
+ORD-1628,2023-01-14,Beauty & Health,Bandung,E-Wallet,Completed,164997,2,329994,2023-01,1,Q1
+ORD-1629,2023-04-03,Fashion,Surabaya,E-Wallet,Completed,387344,5,1936720,2023-04,4,Q2
+ORD-1630,2023-09-18,Beauty & Health,Jakarta,Bank Transfer,Completed,289829,4,1159316,2023-09,9,Q3
+ORD-1631,2023-11-23,Home & Living,Jakarta,Credit Card,Completed,694720,2,1389440,2023-11,11,Q4
+ORD-1632,2023-07-06,Electronics,Yogyakarta,E-Wallet,Completed,1409648,1,1409648,2023-07,7,Q3
+ORD-1633,2023-07-14,Electronics,Yogyakarta,Bank Transfer,Completed,1854931,4,7419724,2023-07,7,Q3
+ORD-1634,2023-02-09,Home & Living,Jakarta,E-Wallet,Completed,429819,2,859638,2023-02,2,Q1
+ORD-1635,2023-06-13,Home & Living,Makassar,Bank Transfer,Cancelled,846607,1,0,2023-06,6,Q2
+ORD-1636,2023-07-14,Books & Stationery,Jakarta,COD,Cancelled,131849,2,0,2023-07,7,Q3
+ORD-1637,2023-03-30,Home & Living,Bandung,E-Wallet,Completed,703565,4,2814260,2023-03,3,Q1
+ORD-1638,2023-04-09,Books & Stationery,Medan,Credit Card,Completed,190154,4,760616,2023-04,4,Q2
+ORD-1639,2023-05-18,Home & Living,Yogyakarta,Bank Transfer,Completed,360880,1,360880,2023-05,5,Q2
+ORD-1640,2023-01-08,Fashion,Semarang,E-Wallet,Cancelled,410934,1,0,2023-01,1,Q1
+ORD-1641,2023-04-28,Electronics,Jakarta,E-Wallet,Completed,3432908,5,17164540,2023-04,4,Q2
+ORD-1642,2023-03-19,Home & Living,Yogyakarta,Bank Transfer,Completed,507638,4,2030552,2023-03,3,Q1
+ORD-1643,2023-04-30,Beauty & Health,Jakarta,COD,Completed,430242,2,860484,2023-04,4,Q2
+ORD-1644,2023-02-13,Electronics,Medan,Credit Card,Completed,1393374,1,1393374,2023-02,2,Q1
+ORD-1645,2023-11-22,Fashion,Medan,Bank Transfer,Completed,162079,3,486237,2023-11,11,Q4
+ORD-1646,2023-08-05,Books & Stationery,Bandung,COD,Completed,216876,5,1084380,2023-08,8,Q3
+ORD-1647,2023-09-05,Beauty & Health,Jakarta,COD,Completed,395165,4,1580660,2023-09,9,Q3
+ORD-1648,2023-10-16,Fashion,Yogyakarta,E-Wallet,Completed,621294,5,3106470,2023-10,10,Q4
+ORD-1649,2023-07-01,Fashion,Jakarta,COD,Completed,464696,5,2323480,2023-07,7,Q3
+ORD-1650,2023-02-01,Electronics,Jakarta,Credit Card,Completed,3560063,2,7120126,2023-02,2,Q1
+ORD-1651,2023-07-16,Fashion,Medan,COD,Completed,538474,5,2692370,2023-07,7,Q3
+ORD-1652,2023-08-03,Fashion,Surabaya,Bank Transfer,Completed,547213,3,1641639,2023-08,8,Q3
+ORD-1653,2023-09-30,Electronics,Yogyakarta,Credit Card,Completed,2457424,1,2457424,2023-09,9,Q3
+ORD-1654,2023-06-07,Home & Living,Surabaya,Credit Card,Completed,442655,5,2213275,2023-06,6,Q2
+ORD-1655,2023-02-16,Fashion,Jakarta,Bank Transfer,Completed,592279,4,2369116,2023-02,2,Q1
+ORD-1656,2023-04-14,Sports,Yogyakarta,Credit Card,Completed,572978,1,572978,2023-04,4,Q2
+ORD-1657,2023-05-13,Sports,Bandung,Bank Transfer,Completed,662608,3,1987824,2023-05,5,Q2
+ORD-1658,2023-08-24,Electronics,Jakarta,Credit Card,Completed,2088342,2,4176684,2023-08,8,Q3
+ORD-1659,2023-07-28,Home & Living,Medan,Credit Card,Cancelled,570372,2,0,2023-07,7,Q3
+ORD-1660,2023-05-10,Beauty & Health,Surabaya,E-Wallet,Completed,259381,4,1037524,2023-05,5,Q2
+ORD-1661,2023-12-27,Sports,Bandung,Bank Transfer,Completed,250292,1,250292,2023-12,12,Q4
+ORD-1662,2023-08-10,Electronics,Surabaya,Bank Transfer,Completed,3396144,2,6792288,2023-08,8,Q3
+ORD-1663,2023-03-28,Home & Living,Yogyakarta,E-Wallet,Completed,486075,4,1944300,2023-03,3,Q1
+ORD-1664,2023-02-07,Beauty & Health,Yogyakarta,COD,Completed,302019,1,302019,2023-02,2,Q1
+ORD-1665,2023-02-25,Fashion,Medan,E-Wallet,Completed,194593,3,583779,2023-02,2,Q1
+ORD-1666,2023-03-31,Electronics,Jakarta,Bank Transfer,Completed,760163,2,1520326,2023-03,3,Q1
+ORD-1667,2023-02-28,Home & Living,Yogyakarta,E-Wallet,Completed,346703,1,346703,2023-02,2,Q1
+ORD-1668,2023-03-10,Home & Living,Bandung,Credit Card,Completed,668210,4,2672840,2023-03,3,Q1
+ORD-1669,2023-04-15,Fashion,Medan,Credit Card,Cancelled,174597,1,0,2023-04,4,Q2
+ORD-1670,2023-03-05,Beauty & Health,Surabaya,Bank Transfer,Returned,417199,2,0,2023-03,3,Q1
+ORD-1671,2023-11-24,Fashion,Yogyakarta,E-Wallet,Completed,232511,1,232511,2023-11,11,Q4
+ORD-1672,2023-01-30,Home & Living,Medan,Credit Card,Completed,318215,4,1272860,2023-01,1,Q1
+ORD-1673,2023-07-11,Electronics,Jakarta,Credit Card,Completed,1294523,5,6472615,2023-07,7,Q3
+ORD-1674,2023-05-30,Sports,Surabaya,Credit Card,Completed,221744,4,886976,2023-05,5,Q2
+ORD-1675,2023-12-25,Fashion,Semarang,COD,Completed,510902,1,510902,2023-12,12,Q4
+ORD-1676,2023-02-10,Fashion,Jakarta,E-Wallet,Completed,562517,4,2250068,2023-02,2,Q1
+ORD-1677,2023-05-26,Electronics,Makassar,Credit Card,Completed,2592488,1,2592488,2023-05,5,Q2
+ORD-1678,2023-12-20,Electronics,Bandung,E-Wallet,Completed,1314599,4,5258396,2023-12,12,Q4
+ORD-1679,2023-11-12,Beauty & Health,Bandung,Bank Transfer,Completed,192700,2,385400,2023-11,11,Q4
+ORD-1680,2023-10-26,Fashion,Jakarta,E-Wallet,Completed,362963,1,362963,2023-10,10,Q4
+ORD-1681,2023-04-05,Sports,Jakarta,Credit Card,Cancelled,1011650,5,0,2023-04,4,Q2
+ORD-1682,2023-03-04,Electronics,Semarang,COD,Completed,1492054,2,2984108,2023-03,3,Q1
+ORD-1683,2023-09-02,Fashion,Jakarta,Bank Transfer,Completed,490822,4,1963288,2023-09,9,Q3
+ORD-1684,2023-12-06,Fashion,Medan,E-Wallet,Completed,344724,1,344724,2023-12,12,Q4
+ORD-1685,2023-07-23,Electronics,Surabaya,Credit Card,Completed,1643542,1,1643542,2023-07,7,Q3
+ORD-1686,2023-07-28,Electronics,Jakarta,Bank Transfer,Completed,2117747,1,2117747,2023-07,7,Q3
+ORD-1687,2023-04-13,Fashion,Jakarta,Bank Transfer,Completed,160603,4,642412,2023-04,4,Q2
+ORD-1688,2023-10-08,Beauty & Health,Bandung,Bank Transfer,Completed,377527,1,377527,2023-10,10,Q4
+ORD-1689,2023-03-10,Fashion,Makassar,Credit Card,Completed,246650,1,246650,2023-03,3,Q1
+ORD-1690,2023-04-29,Beauty & Health,Surabaya,E-Wallet,Completed,351148,5,1755740,2023-04,4,Q2
+ORD-1691,2023-06-05,Beauty & Health,Surabaya,Credit Card,Completed,114605,1,114605,2023-06,6,Q2
+ORD-1692,2023-07-05,Electronics,Jakarta,E-Wallet,Completed,3615295,5,18076475,2023-07,7,Q3
+ORD-1693,2023-03-30,Fashion,Surabaya,E-Wallet,Completed,221507,1,221507,2023-03,3,Q1
+ORD-1694,2023-02-11,Books & Stationery,Surabaya,E-Wallet,Completed,215220,2,430440,2023-02,2,Q1
+ORD-1695,2023-08-11,Beauty & Health,Yogyakarta,E-Wallet,Completed,381410,2,762820,2023-08,8,Q3
+ORD-1696,2023-04-16,Home & Living,Surabaya,E-Wallet,Returned,852501,1,0,2023-04,4,Q2
+ORD-1697,2023-08-01,Fashion,Surabaya,Bank Transfer,Completed,363945,2,727890,2023-08,8,Q3
+ORD-1698,2023-02-26,Home & Living,Jakarta,E-Wallet,Completed,684178,1,684178,2023-02,2,Q1
+ORD-1699,2023-06-25,Home & Living,Makassar,Credit Card,Completed,434497,1,434497,2023-06,6,Q2
+ORD-1700,2023-07-14,Beauty & Health,Jakarta,E-Wallet,Returned,156372,4,0,2023-07,7,Q3
+ORD-1701,2023-01-19,Books & Stationery,Jakarta,E-Wallet,Cancelled,131684,1,0,2023-01,1,Q1
+ORD-1702,2023-05-03,Electronics,Bandung,Bank Transfer,Completed,1247247,1,1247247,2023-05,5,Q2
+ORD-1703,2023-02-19,Electronics,Bandung,Bank Transfer,Completed,3696133,1,3696133,2023-02,2,Q1
+ORD-1704,2023-01-24,Home & Living,Surabaya,Bank Transfer,Completed,242372,3,727116,2023-01,1,Q1
+ORD-1705,2023-12-28,Sports,Surabaya,E-Wallet,Completed,704937,1,704937,2023-12,12,Q4
+ORD-1706,2023-04-28,Electronics,Medan,COD,Completed,2629391,1,2629391,2023-04,4,Q2
+ORD-1707,2023-10-23,Fashion,Jakarta,Bank Transfer,Completed,394039,1,394039,2023-10,10,Q4
+ORD-1708,2023-04-03,Electronics,Yogyakarta,E-Wallet,Completed,2736557,4,10946228,2023-04,4,Q2
+ORD-1709,2023-09-06,Fashion,Bandung,COD,Completed,183090,4,732360,2023-09,9,Q3
+ORD-1710,2023-10-05,Home & Living,Surabaya,Credit Card,Cancelled,563512,2,0,2023-10,10,Q4
+ORD-1711,2023-08-06,Beauty & Health,Surabaya,Credit Card,Completed,193396,1,193396,2023-08,8,Q3
+ORD-1712,2023-06-22,Fashion,Jakarta,E-Wallet,Completed,595088,1,595088,2023-06,6,Q2
+ORD-1713,2023-05-31,Fashion,Medan,E-Wallet,Completed,506035,3,1518105,2023-05,5,Q2
+ORD-1714,2023-05-08,Electronics,Surabaya,COD,Cancelled,3667543,5,0,2023-05,5,Q2
+ORD-1715,2023-12-06,Fashion,Jakarta,Bank Transfer,Cancelled,143778,1,0,2023-12,12,Q4
+ORD-1716,2023-10-31,Beauty & Health,Bandung,Credit Card,Completed,192647,1,192647,2023-10,10,Q4
+ORD-1717,2023-12-19,Books & Stationery,Makassar,Bank Transfer,Completed,84630,5,423150,2023-12,12,Q4
+ORD-1718,2023-02-15,Sports,Surabaya,Credit Card,Cancelled,219369,5,0,2023-02,2,Q1
+ORD-1719,2023-09-24,Electronics,Semarang,Credit Card,Completed,1476977,1,1476977,2023-09,9,Q3
+ORD-1720,2023-12-09,Sports,Jakarta,E-Wallet,Completed,780171,3,2340513,2023-12,12,Q4
+ORD-1721,2023-03-08,Home & Living,Jakarta,Credit Card,Completed,336762,1,336762,2023-03,3,Q1
+ORD-1722,2023-01-25,Home & Living,Jakarta,E-Wallet,Completed,531302,1,531302,2023-01,1,Q1
+ORD-1723,2023-09-28,Fashion,Surabaya,Bank Transfer,Completed,568909,2,1137818,2023-09,9,Q3
+ORD-1724,2023-07-29,Fashion,Jakarta,E-Wallet,Cancelled,471878,2,0,2023-07,7,Q3
+ORD-1725,2023-11-04,Fashion,Jakarta,Credit Card,Completed,322314,2,644628,2023-11,11,Q4
+ORD-1726,2023-02-21,Electronics,Semarang,Bank Transfer,Completed,1867406,4,7469624,2023-02,2,Q1
+ORD-1727,2023-10-18,Electronics,Yogyakarta,Credit Card,Completed,2117207,1,2117207,2023-10,10,Q4
+ORD-1728,2023-03-15,Electronics,Medan,COD,Completed,1281124,5,6405620,2023-03,3,Q1
+ORD-1729,2023-03-01,Beauty & Health,Jakarta,E-Wallet,Completed,318240,2,636480,2023-03,3,Q1
+ORD-1730,2023-03-01,Home & Living,Jakarta,Bank Transfer,Completed,429906,4,1719624,2023-03,3,Q1
+ORD-1731,2023-10-25,Beauty & Health,Jakarta,Credit Card,Completed,396851,1,396851,2023-10,10,Q4
+ORD-1732,2023-08-31,Electronics,Medan,COD,Completed,3019657,5,15098285,2023-08,8,Q3
+ORD-1733,2023-07-10,Books & Stationery,Semarang,Bank Transfer,Completed,163497,1,163497,2023-07,7,Q3
+ORD-1734,2023-05-11,Books & Stationery,Surabaya,Credit Card,Completed,116698,1,116698,2023-05,5,Q2
+ORD-1735,2023-11-17,Home & Living,Jakarta,E-Wallet,Returned,321952,1,0,2023-11,11,Q4
+ORD-1736,2023-05-24,Books & Stationery,Surabaya,COD,Completed,194968,2,389936,2023-05,5,Q2
+ORD-1737,2023-10-26,Beauty & Health,Jakarta,Credit Card,Completed,265107,4,1060428,2023-10,10,Q4
+ORD-1738,2023-06-10,Books & Stationery,Surabaya,Credit Card,Completed,90202,5,451010,2023-06,6,Q2
+ORD-1739,2023-05-18,Electronics,Bandung,COD,Completed,1335523,1,1335523,2023-05,5,Q2
+ORD-1740,2023-06-18,Fashion,Medan,Credit Card,Completed,207700,2,415400,2023-06,6,Q2
+ORD-1741,2023-04-21,Electronics,Jakarta,Credit Card,Completed,3081483,2,6162966,2023-04,4,Q2
+ORD-1742,2023-09-30,Electronics,Jakarta,E-Wallet,Completed,1436961,2,2873922,2023-09,9,Q3
+ORD-1743,2023-07-03,Electronics,Makassar,COD,Completed,2329926,1,2329926,2023-07,7,Q3
+ORD-1744,2023-03-26,Beauty & Health,Jakarta,Bank Transfer,Completed,252556,2,505112,2023-03,3,Q1
+ORD-1745,2023-11-25,Home & Living,Jakarta,COD,Completed,580727,2,1161454,2023-11,11,Q4
+ORD-1746,2023-05-21,Beauty & Health,Jakarta,E-Wallet,Completed,405775,1,405775,2023-05,5,Q2
+ORD-1747,2023-07-18,Electronics,Jakarta,Credit Card,Completed,3353242,5,16766210,2023-07,7,Q3
+ORD-1748,2023-11-27,Sports,Surabaya,COD,Completed,588903,5,2944515,2023-11,11,Q4
+ORD-1749,2023-08-16,Beauty & Health,Yogyakarta,Bank Transfer,Completed,95531,1,95531,2023-08,8,Q3
+ORD-1750,2023-02-12,Fashion,Jakarta,Credit Card,Completed,338221,4,1352884,2023-02,2,Q1
+ORD-1751,2023-12-10,Home & Living,Surabaya,E-Wallet,Completed,599335,1,599335,2023-12,12,Q4
+ORD-1752,2023-08-18,Fashion,Bandung,Bank Transfer,Completed,403882,3,1211646,2023-08,8,Q3
+ORD-1753,2023-05-03,Fashion,Surabaya,Credit Card,Completed,450668,2,901336,2023-05,5,Q2
+ORD-1754,2023-02-20,Sports,Yogyakarta,Credit Card,Returned,339423,1,0,2023-02,2,Q1
+ORD-1755,2023-10-17,Fashion,Yogyakarta,Bank Transfer,Cancelled,448267,3,0,2023-10,10,Q4
+ORD-1756,2023-08-15,Fashion,Jakarta,COD,Completed,216325,1,216325,2023-08,8,Q3
+ORD-1757,2023-07-14,Sports,Medan,E-Wallet,Completed,840440,2,1680880,2023-07,7,Q3
+ORD-1758,2023-11-23,Home & Living,Surabaya,COD,Completed,412361,5,2061805,2023-11,11,Q4
+ORD-1759,2023-10-15,Electronics,Makassar,Credit Card,Completed,2879686,4,11518744,2023-10,10,Q4
+ORD-1760,2023-02-25,Electronics,Surabaya,Credit Card,Completed,893596,4,3574384,2023-02,2,Q1
+ORD-1761,2023-04-24,Electronics,Makassar,Credit Card,Completed,1973580,1,1973580,2023-04,4,Q2
+ORD-1762,2023-04-01,Beauty & Health,Medan,Credit Card,Completed,343812,1,343812,2023-04,4,Q2
+ORD-1763,2023-09-29,Fashion,Jakarta,Credit Card,Cancelled,238435,1,0,2023-09,9,Q3
+ORD-1764,2023-01-13,Electronics,Bandung,E-Wallet,Completed,3135861,2,6271722,2023-01,1,Q1
+ORD-1765,2023-07-28,Books & Stationery,Makassar,COD,Cancelled,167348,4,0,2023-07,7,Q3
+ORD-1766,2023-10-06,Beauty & Health,Yogyakarta,COD,Cancelled,301522,3,0,2023-10,10,Q4
+ORD-1767,2023-11-17,Electronics,Jakarta,Credit Card,Completed,1810646,1,1810646,2023-11,11,Q4
+ORD-1768,2023-05-05,Beauty & Health,Medan,COD,Completed,263682,5,1318410,2023-05,5,Q2
+ORD-1769,2023-10-27,Home & Living,Jakarta,Bank Transfer,Completed,593144,5,2965720,2023-10,10,Q4
+ORD-1770,2023-02-10,Electronics,Jakarta,Credit Card,Completed,2167386,1,2167386,2023-02,2,Q1
+ORD-1771,2023-11-05,Fashion,Surabaya,COD,Completed,474156,2,948312,2023-11,11,Q4
+ORD-1772,2023-02-16,Sports,Jakarta,E-Wallet,Completed,574305,1,574305,2023-02,2,Q1
+ORD-1773,2023-05-26,Fashion,Yogyakarta,Credit Card,Completed,226136,1,226136,2023-05,5,Q2
+ORD-1774,2023-10-19,Beauty & Health,Jakarta,Bank Transfer,Returned,167016,2,0,2023-10,10,Q4
+ORD-1775,2023-02-24,Fashion,Yogyakarta,Credit Card,Completed,127901,2,255802,2023-02,2,Q1
+ORD-1776,2023-03-25,Electronics,Jakarta,E-Wallet,Returned,1652873,2,0,2023-03,3,Q1
+ORD-1777,2023-09-21,Electronics,Jakarta,Bank Transfer,Completed,2996752,5,14983760,2023-09,9,Q3
+ORD-1778,2023-09-20,Fashion,Jakarta,COD,Completed,522081,5,2610405,2023-09,9,Q3
+ORD-1779,2023-08-23,Electronics,Jakarta,Credit Card,Completed,1357402,1,1357402,2023-08,8,Q3
+ORD-1780,2023-09-11,Electronics,Jakarta,Bank Transfer,Completed,3627131,1,3627131,2023-09,9,Q3
+ORD-1781,2023-07-18,Sports,Jakarta,Bank Transfer,Cancelled,632018,1,0,2023-07,7,Q3
+ORD-1782,2023-04-02,Books & Stationery,Bandung,Bank Transfer,Completed,221725,1,221725,2023-04,4,Q2
+ORD-1783,2023-05-07,Home & Living,Jakarta,Bank Transfer,Completed,669735,1,669735,2023-05,5,Q2
+ORD-1784,2023-03-08,Sports,Surabaya,E-Wallet,Completed,816844,1,816844,2023-03,3,Q1
+ORD-1785,2023-11-28,Electronics,Surabaya,COD,Completed,1005130,1,1005130,2023-11,11,Q4
+ORD-1786,2023-08-01,Books & Stationery,Yogyakarta,COD,Completed,89298,2,178596,2023-08,8,Q3
+ORD-1787,2023-05-27,Electronics,Semarang,E-Wallet,Completed,776444,1,776444,2023-05,5,Q2
+ORD-1788,2023-06-18,Books & Stationery,Surabaya,COD,Completed,183564,4,734256,2023-06,6,Q2
+ORD-1789,2023-12-12,Books & Stationery,Jakarta,E-Wallet,Completed,112943,5,564715,2023-12,12,Q4
+ORD-1790,2023-02-25,Home & Living,Jakarta,E-Wallet,Cancelled,725656,2,0,2023-02,2,Q1
+ORD-1791,2023-08-02,Books & Stationery,Makassar,Bank Transfer,Completed,111897,2,223794,2023-08,8,Q3
+ORD-1792,2023-07-04,Beauty & Health,Jakarta,Bank Transfer,Completed,384960,4,1539840,2023-07,7,Q3
+ORD-1793,2023-08-12,Fashion,Jakarta,Bank Transfer,Completed,190349,5,951745,2023-08,8,Q3
+ORD-1794,2023-01-07,Fashion,Jakarta,Bank Transfer,Completed,211686,1,211686,2023-01,1,Q1
+ORD-1795,2023-11-15,Beauty & Health,Jakarta,Credit Card,Completed,212715,2,425430,2023-11,11,Q4
+ORD-1796,2023-12-07,Electronics,Jakarta,COD,Completed,1975462,4,7901848,2023-12,12,Q4
+ORD-1797,2023-07-26,Beauty & Health,Medan,Bank Transfer,Completed,215533,3,646599,2023-07,7,Q3
+ORD-1798,2023-09-12,Books & Stationery,Jakarta,Credit Card,Completed,192592,1,192592,2023-09,9,Q3
+ORD-1799,2023-12-03,Electronics,Bandung,Bank Transfer,Completed,1040854,5,5204270,2023-12,12,Q4
+ORD-1800,2023-09-16,Home & Living,Jakarta,Credit Card,Completed,420851,2,841702,2023-09,9,Q3
+ORD-1801,2023-02-25,Sports,Jakarta,Credit Card,Completed,913281,1,913281,2023-02,2,Q1
+ORD-1802,2023-07-30,Books & Stationery,Semarang,Credit Card,Completed,60191,1,60191,2023-07,7,Q3
+ORD-1803,2023-08-10,Books & Stationery,Jakarta,Bank Transfer,Returned,226545,4,0,2023-08,8,Q3
+ORD-1804,2023-06-04,Beauty & Health,Yogyakarta,Bank Transfer,Completed,445074,1,445074,2023-06,6,Q2
+ORD-1805,2023-09-26,Books & Stationery,Bandung,E-Wallet,Cancelled,64327,1,0,2023-09,9,Q3
+ORD-1806,2023-12-08,Home & Living,Jakarta,E-Wallet,Completed,378890,1,378890,2023-12,12,Q4
+ORD-1807,2023-12-04,Electronics,Makassar,Bank Transfer,Completed,1867201,1,1867201,2023-12,12,Q4
+ORD-1808,2023-06-14,Beauty & Health,Jakarta,Bank Transfer,Completed,369500,2,739000,2023-06,6,Q2
+ORD-1809,2023-02-11,Home & Living,Yogyakarta,Bank Transfer,Completed,592148,4,2368592,2023-02,2,Q1
+ORD-1810,2023-12-26,Electronics,Jakarta,E-Wallet,Completed,2683097,2,5366194,2023-12,12,Q4
+ORD-1811,2023-11-03,Beauty & Health,Yogyakarta,Credit Card,Completed,362703,1,362703,2023-11,11,Q4
+ORD-1812,2023-02-15,Home & Living,Jakarta,Credit Card,Cancelled,257585,1,0,2023-02,2,Q1
+ORD-1813,2023-12-03,Electronics,Surabaya,E-Wallet,Completed,3249628,1,3249628,2023-12,12,Q4
+ORD-1814,2023-11-14,Beauty & Health,Medan,Bank Transfer,Completed,344023,2,688046,2023-11,11,Q4
+ORD-1815,2023-07-09,Home & Living,Semarang,Credit Card,Completed,579139,1,579139,2023-07,7,Q3
+ORD-1816,2023-08-04,Beauty & Health,Semarang,Credit Card,Completed,410304,1,410304,2023-08,8,Q3
+ORD-1817,2023-05-26,Electronics,Yogyakarta,COD,Completed,2850919,4,11403676,2023-05,5,Q2
+ORD-1818,2023-01-20,Electronics,Semarang,COD,Completed,1355099,2,2710198,2023-01,1,Q1
+ORD-1819,2023-05-03,Fashion,Jakarta,E-Wallet,Completed,339872,2,679744,2023-05,5,Q2
+ORD-1820,2023-10-21,Books & Stationery,Jakarta,Bank Transfer,Completed,141368,2,282736,2023-10,10,Q4
+ORD-1821,2023-01-02,Electronics,Jakarta,Bank Transfer,Returned,915652,1,0,2023-01,1,Q1
+ORD-1822,2023-05-02,Beauty & Health,Surabaya,COD,Completed,433669,4,1734676,2023-05,5,Q2
+ORD-1823,2023-05-26,Electronics,Surabaya,COD,Completed,1135731,2,2271462,2023-05,5,Q2
+ORD-1824,2023-07-16,Fashion,Bandung,Credit Card,Cancelled,473730,2,0,2023-07,7,Q3
+ORD-1825,2023-12-02,Sports,Jakarta,E-Wallet,Completed,635234,3,1905702,2023-12,12,Q4
+ORD-1826,2023-05-07,Home & Living,Medan,Credit Card,Completed,192942,4,771768,2023-05,5,Q2
+ORD-1827,2023-05-07,Electronics,Jakarta,Credit Card,Completed,3524242,2,7048484,2023-05,5,Q2
+ORD-1828,2023-09-27,Fashion,Jakarta,E-Wallet,Completed,550918,1,550918,2023-09,9,Q3
+ORD-1829,2023-06-15,Electronics,Surabaya,Bank Transfer,Completed,2322773,1,2322773,2023-06,6,Q2
+ORD-1830,2023-03-23,Beauty & Health,Medan,COD,Completed,172419,1,172419,2023-03,3,Q1
+ORD-1831,2023-06-15,Home & Living,Medan,Credit Card,Completed,260136,5,1300680,2023-06,6,Q2
+ORD-1832,2023-02-21,Electronics,Bandung,Bank Transfer,Completed,1840177,1,1840177,2023-02,2,Q1
+ORD-1833,2023-03-06,Fashion,Jakarta,COD,Completed,252714,1,252714,2023-03,3,Q1
+ORD-1834,2023-07-01,Fashion,Bandung,COD,Returned,378345,5,0,2023-07,7,Q3
+ORD-1835,2023-06-02,Sports,Jakarta,Credit Card,Completed,1021783,1,1021783,2023-06,6,Q2
+ORD-1836,2023-11-30,Books & Stationery,Surabaya,Bank Transfer,Completed,156741,1,156741,2023-11,11,Q4
+ORD-1837,2023-05-13,Electronics,Surabaya,E-Wallet,Completed,3419793,1,3419793,2023-05,5,Q2
+ORD-1838,2023-07-31,Home & Living,Jakarta,Credit Card,Returned,630615,2,0,2023-07,7,Q3
+ORD-1839,2023-08-19,Fashion,Jakarta,COD,Completed,362623,2,725246,2023-08,8,Q3
+ORD-1840,2023-01-05,Fashion,Makassar,COD,Completed,552303,1,552303,2023-01,1,Q1
+ORD-1841,2023-08-31,Home & Living,Makassar,Credit Card,Cancelled,504957,2,0,2023-08,8,Q3
+ORD-1842,2023-03-06,Sports,Surabaya,Credit Card,Completed,939647,2,1879294,2023-03,3,Q1
+ORD-1843,2023-12-17,Books & Stationery,Jakarta,Credit Card,Cancelled,102899,2,0,2023-12,12,Q4
+ORD-1844,2023-02-24,Beauty & Health,Jakarta,COD,Completed,136372,1,136372,2023-02,2,Q1
+ORD-1845,2023-06-01,Fashion,Surabaya,Credit Card,Completed,552657,5,2763285,2023-06,6,Q2
+ORD-1846,2023-02-01,Home & Living,Semarang,Bank Transfer,Returned,586190,2,0,2023-02,2,Q1
+ORD-1847,2023-12-30,Fashion,Jakarta,Bank Transfer,Completed,569546,5,2847730,2023-12,12,Q4
+ORD-1848,2023-07-03,Beauty & Health,Medan,E-Wallet,Completed,427617,1,427617,2023-07,7,Q3
+ORD-1849,2023-08-06,Fashion,Jakarta,Credit Card,Completed,151814,3,455442,2023-08,8,Q3
+ORD-1850,2023-01-25,Home & Living,Makassar,Credit Card,Returned,525678,1,0,2023-01,1,Q1
+ORD-1851,2023-10-01,Electronics,Surabaya,COD,Completed,1874893,1,1874893,2023-10,10,Q4
+ORD-1852,2023-03-18,Electronics,Medan,COD,Completed,2627575,2,5255150,2023-03,3,Q1
+ORD-1853,2023-11-24,Sports,Jakarta,E-Wallet,Completed,876616,2,1753232,2023-11,11,Q4
+ORD-1854,2023-03-16,Electronics,Bandung,Credit Card,Completed,1591770,1,1591770,2023-03,3,Q1
+ORD-1855,2023-03-11,Beauty & Health,Jakarta,Bank Transfer,Completed,290447,4,1161788,2023-03,3,Q1
+ORD-1856,2023-01-14,Electronics,Jakarta,E-Wallet,Completed,2876185,1,2876185,2023-01,1,Q1
+ORD-1857,2023-06-22,Electronics,Semarang,Credit Card,Completed,1153293,3,3459879,2023-06,6,Q2
+ORD-1858,2023-07-26,Electronics,Semarang,COD,Completed,3192200,1,3192200,2023-07,7,Q3
+ORD-1859,2023-01-24,Electronics,Semarang,E-Wallet,Completed,2568328,5,12841640,2023-01,1,Q1
+ORD-1860,2023-10-11,Sports,Bandung,Credit Card,Completed,1007611,5,5038055,2023-10,10,Q4
+ORD-1861,2023-06-15,Fashion,Yogyakarta,COD,Cancelled,294764,4,0,2023-06,6,Q2
+ORD-1862,2023-07-11,Books & Stationery,Jakarta,COD,Cancelled,68047,1,0,2023-07,7,Q3
+ORD-1863,2023-06-10,Beauty & Health,Jakarta,Credit Card,Completed,272340,2,544680,2023-06,6,Q2
+ORD-1864,2023-05-27,Fashion,Jakarta,Bank Transfer,Completed,167905,2,335810,2023-05,5,Q2
+ORD-1865,2023-07-24,Beauty & Health,Bandung,Bank Transfer,Completed,439029,2,878058,2023-07,7,Q3
+ORD-1866,2023-02-26,Beauty & Health,Surabaya,Bank Transfer,Completed,103926,1,103926,2023-02,2,Q1
+ORD-1867,2023-03-08,Home & Living,Jakarta,Credit Card,Completed,702452,1,702452,2023-03,3,Q1
+ORD-1868,2023-11-11,Fashion,Bandung,E-Wallet,Completed,387551,4,1550204,2023-11,11,Q4
+ORD-1869,2023-12-12,Fashion,Yogyakarta,COD,Completed,309310,2,618620,2023-12,12,Q4
+ORD-1870,2023-05-17,Sports,Surabaya,Bank Transfer,Cancelled,265307,5,0,2023-05,5,Q2
+ORD-1871,2023-04-09,Books & Stationery,Jakarta,Credit Card,Completed,165711,4,662844,2023-04,4,Q2
+ORD-1872,2023-08-24,Sports,Jakarta,E-Wallet,Completed,701585,4,2806340,2023-08,8,Q3
+ORD-1873,2023-05-30,Fashion,Jakarta,Bank Transfer,Completed,265441,2,530882,2023-05,5,Q2
+ORD-1874,2023-01-10,Home & Living,Jakarta,COD,Returned,812155,5,0,2023-01,1,Q1
+ORD-1875,2023-02-26,Beauty & Health,Bandung,Bank Transfer,Completed,199479,5,997395,2023-02,2,Q1
+ORD-1876,2023-09-19,Beauty & Health,Bandung,Credit Card,Completed,251901,1,251901,2023-09,9,Q3
+ORD-1877,2023-08-29,Electronics,Medan,Credit Card,Completed,2381287,3,7143861,2023-08,8,Q3
+ORD-1878,2023-01-10,Beauty & Health,Surabaya,E-Wallet,Completed,126083,3,378249,2023-01,1,Q1
+ORD-1879,2023-03-23,Electronics,Yogyakarta,Credit Card,Completed,3546485,2,7092970,2023-03,3,Q1
+ORD-1880,2023-03-26,Fashion,Jakarta,E-Wallet,Completed,312268,1,312268,2023-03,3,Q1
+ORD-1881,2023-09-03,Sports,Surabaya,Credit Card,Completed,277854,2,555708,2023-09,9,Q3
+ORD-1882,2023-01-08,Electronics,Yogyakarta,Bank Transfer,Completed,1911873,1,1911873,2023-01,1,Q1
+ORD-1883,2023-02-07,Electronics,Jakarta,Bank Transfer,Completed,2550607,2,5101214,2023-02,2,Q1
+ORD-1884,2023-10-19,Electronics,Jakarta,COD,Cancelled,2290958,4,0,2023-10,10,Q4
+ORD-1885,2023-03-07,Books & Stationery,Semarang,COD,Completed,179462,2,358924,2023-03,3,Q1
+ORD-1886,2023-08-27,Beauty & Health,Jakarta,Credit Card,Completed,109974,1,109974,2023-08,8,Q3
+ORD-1887,2023-03-28,Fashion,Medan,Bank Transfer,Completed,267270,4,1069080,2023-03,3,Q1
+ORD-1888,2023-02-06,Sports,Jakarta,Credit Card,Completed,898153,5,4490765,2023-02,2,Q1
+ORD-1889,2023-03-30,Sports,Medan,Bank Transfer,Completed,277110,1,277110,2023-03,3,Q1
+ORD-1890,2023-09-21,Fashion,Jakarta,Bank Transfer,Completed,552742,1,552742,2023-09,9,Q3
+ORD-1891,2023-11-09,Home & Living,Jakarta,COD,Cancelled,239327,2,0,2023-11,11,Q4
+ORD-1892,2023-10-31,Home & Living,Bandung,COD,Returned,759117,1,0,2023-10,10,Q4
+ORD-1893,2023-05-25,Home & Living,Jakarta,Bank Transfer,Completed,427551,4,1710204,2023-05,5,Q2
+ORD-1894,2023-09-01,Electronics,Surabaya,Bank Transfer,Completed,2586627,2,5173254,2023-09,9,Q3
+ORD-1895,2023-03-16,Sports,Jakarta,COD,Completed,338425,2,676850,2023-03,3,Q1
+ORD-1896,2023-04-17,Beauty & Health,Jakarta,E-Wallet,Completed,113820,4,455280,2023-04,4,Q2
+ORD-1897,2023-11-24,Fashion,Jakarta,Credit Card,Completed,232969,5,1164845,2023-11,11,Q4
+ORD-1898,2023-01-05,Fashion,Jakarta,Bank Transfer,Completed,188926,1,188926,2023-01,1,Q1
+ORD-1899,2023-02-01,Electronics,Semarang,Bank Transfer,Returned,1687217,2,0,2023-02,2,Q1
+ORD-1900,2023-03-17,Electronics,Jakarta,Credit Card,Completed,2293149,1,2293149,2023-03,3,Q1
+ORD-1901,2023-01-10,Home & Living,Surabaya,Credit Card,Cancelled,587131,2,0,2023-01,1,Q1
+ORD-1902,2023-03-08,Electronics,Jakarta,Credit Card,Cancelled,3119604,4,0,2023-03,3,Q1
+ORD-1903,2023-08-01,Fashion,Jakarta,E-Wallet,Completed,453119,3,1359357,2023-08,8,Q3
+ORD-1904,2023-06-03,Beauty & Health,Semarang,Credit Card,Completed,309152,3,927456,2023-06,6,Q2
+ORD-1905,2023-11-22,Electronics,Jakarta,Credit Card,Completed,1985346,2,3970692,2023-11,11,Q4
+ORD-1906,2023-10-26,Books & Stationery,Makassar,Credit Card,Completed,137523,2,275046,2023-10,10,Q4
+ORD-1907,2023-05-05,Electronics,Jakarta,E-Wallet,Completed,1993562,1,1993562,2023-05,5,Q2
+ORD-1908,2023-04-05,Fashion,Medan,COD,Completed,546083,5,2730415,2023-04,4,Q2
+ORD-1909,2023-05-19,Fashion,Bandung,Bank Transfer,Returned,240000,1,0,2023-05,5,Q2
+ORD-1910,2023-08-04,Electronics,Semarang,Bank Transfer,Completed,767162,2,1534324,2023-08,8,Q3
+ORD-1911,2023-04-08,Electronics,Bandung,COD,Completed,2703959,2,5407918,2023-04,4,Q2
+ORD-1912,2023-08-16,Home & Living,Bandung,Credit Card,Cancelled,316723,3,0,2023-08,8,Q3
+ORD-1913,2023-05-30,Books & Stationery,Jakarta,Credit Card,Completed,216621,1,216621,2023-05,5,Q2
+ORD-1914,2023-07-21,Electronics,Jakarta,Credit Card,Completed,3327138,4,13308552,2023-07,7,Q3
+ORD-1915,2023-06-09,Home & Living,Semarang,Credit Card,Completed,228709,3,686127,2023-06,6,Q2
+ORD-1916,2023-04-18,Home & Living,Jakarta,Bank Transfer,Completed,249471,1,249471,2023-04,4,Q2
+ORD-1917,2023-12-13,Sports,Surabaya,COD,Cancelled,625944,3,0,2023-12,12,Q4
+ORD-1918,2023-10-06,Fashion,Medan,E-Wallet,Completed,429611,1,429611,2023-10,10,Q4
+ORD-1919,2023-02-21,Fashion,Jakarta,Bank Transfer,Completed,262454,2,524908,2023-02,2,Q1
+ORD-1920,2023-11-13,Fashion,Makassar,COD,Completed,483398,4,1933592,2023-11,11,Q4
+ORD-1921,2023-06-27,Home & Living,Medan,Credit Card,Completed,591441,1,591441,2023-06,6,Q2
+ORD-1922,2023-11-23,Sports,Bandung,Credit Card,Completed,482852,2,965704,2023-11,11,Q4
+ORD-1923,2023-10-19,Electronics,Semarang,E-Wallet,Cancelled,826114,1,0,2023-10,10,Q4
+ORD-1924,2023-06-05,Fashion,Jakarta,E-Wallet,Completed,500075,5,2500375,2023-06,6,Q2
+ORD-1925,2023-01-09,Sports,Jakarta,Credit Card,Completed,390393,4,1561572,2023-01,1,Q1
+ORD-1926,2023-04-09,Sports,Surabaya,Bank Transfer,Completed,910957,3,2732871,2023-04,4,Q2
+ORD-1927,2023-07-17,Books & Stationery,Jakarta,E-Wallet,Completed,127355,1,127355,2023-07,7,Q3
+ORD-1928,2023-08-20,Home & Living,Medan,E-Wallet,Completed,578954,3,1736862,2023-08,8,Q3
+ORD-1929,2023-04-05,Fashion,Semarang,E-Wallet,Returned,561474,4,0,2023-04,4,Q2
+ORD-1930,2023-02-20,Beauty & Health,Surabaya,Bank Transfer,Completed,400904,3,1202712,2023-02,2,Q1
+ORD-1931,2023-11-01,Home & Living,Jakarta,Credit Card,Completed,435063,1,435063,2023-11,11,Q4
+ORD-1932,2023-12-26,Electronics,Makassar,Bank Transfer,Completed,1376666,3,4129998,2023-12,12,Q4
+ORD-1933,2023-07-11,Beauty & Health,Surabaya,Credit Card,Completed,369052,1,369052,2023-07,7,Q3
+ORD-1934,2023-03-04,Home & Living,Surabaya,COD,Completed,478156,1,478156,2023-03,3,Q1
+ORD-1935,2023-04-10,Electronics,Surabaya,Bank Transfer,Completed,1326125,4,5304500,2023-04,4,Q2
+ORD-1936,2023-01-07,Home & Living,Semarang,Bank Transfer,Completed,808097,2,1616194,2023-01,1,Q1
+ORD-1937,2023-11-30,Beauty & Health,Bandung,E-Wallet,Cancelled,161317,2,0,2023-11,11,Q4
+ORD-1938,2023-02-12,Books & Stationery,Medan,Bank Transfer,Completed,52403,2,104806,2023-02,2,Q1
+ORD-1939,2023-07-30,Electronics,Yogyakarta,Bank Transfer,Completed,810839,4,3243356,2023-07,7,Q3
+ORD-1940,2023-04-11,Fashion,Jakarta,E-Wallet,Completed,436157,1,436157,2023-04,4,Q2
+ORD-1941,2023-07-22,Beauty & Health,Surabaya,COD,Completed,328203,3,984609,2023-07,7,Q3
+ORD-1942,2023-08-26,Fashion,Yogyakarta,E-Wallet,Cancelled,280520,1,0,2023-08,8,Q3
+ORD-1943,2023-10-30,Home & Living,Surabaya,Credit Card,Returned,399007,2,0,2023-10,10,Q4
+ORD-1944,2023-03-17,Home & Living,Medan,E-Wallet,Completed,412645,2,825290,2023-03,3,Q1
+ORD-1945,2023-01-05,Electronics,Semarang,E-Wallet,Cancelled,2790475,4,0,2023-01,1,Q1
+ORD-1946,2023-02-19,Beauty & Health,Bandung,Credit Card,Cancelled,110928,1,0,2023-02,2,Q1
+ORD-1947,2023-11-25,Beauty & Health,Medan,Credit Card,Returned,424481,1,0,2023-11,11,Q4
+ORD-1948,2023-11-15,Fashion,Yogyakarta,COD,Completed,236260,1,236260,2023-11,11,Q4
+ORD-1949,2023-08-07,Books & Stationery,Yogyakarta,Credit Card,Completed,237437,3,712311,2023-08,8,Q3
+ORD-1950,2023-08-08,Sports,Surabaya,E-Wallet,Completed,354079,2,708158,2023-08,8,Q3
+ORD-1951,2023-08-31,Home & Living,Jakarta,Bank Transfer,Cancelled,715082,1,0,2023-08,8,Q3
+ORD-1952,2023-03-06,Home & Living,Surabaya,Bank Transfer,Completed,331388,1,331388,2023-03,3,Q1
+ORD-1953,2023-11-30,Fashion,Bandung,Credit Card,Completed,165423,1,165423,2023-11,11,Q4
+ORD-1954,2023-06-02,Books & Stationery,Surabaya,E-Wallet,Completed,213737,4,854948,2023-06,6,Q2
+ORD-1955,2023-05-20,Home & Living,Medan,Bank Transfer,Completed,776125,3,2328375,2023-05,5,Q2
+ORD-1956,2023-07-09,Home & Living,Surabaya,Bank Transfer,Completed,457499,5,2287495,2023-07,7,Q3
+ORD-1957,2023-01-18,Sports,Bandung,E-Wallet,Cancelled,800012,5,0,2023-01,1,Q1
+ORD-1958,2023-03-02,Fashion,Jakarta,E-Wallet,Completed,403532,4,1614128,2023-03,3,Q1
+ORD-1959,2023-09-27,Sports,Medan,COD,Cancelled,926483,4,0,2023-09,9,Q3
+ORD-1960,2023-01-31,Electronics,Bandung,Bank Transfer,Completed,1695167,1,1695167,2023-01,1,Q1
+ORD-1961,2023-08-09,Fashion,Jakarta,Bank Transfer,Completed,386836,4,1547344,2023-08,8,Q3
+ORD-1962,2023-03-31,Fashion,Jakarta,COD,Completed,367686,3,1103058,2023-03,3,Q1
+ORD-1963,2023-05-23,Books & Stationery,Medan,E-Wallet,Completed,114742,1,114742,2023-05,5,Q2
+ORD-1964,2023-04-16,Sports,Surabaya,Credit Card,Completed,958822,5,4794110,2023-04,4,Q2
+ORD-1965,2023-05-10,Home & Living,Jakarta,Credit Card,Completed,291114,1,291114,2023-05,5,Q2
+ORD-1966,2023-09-20,Home & Living,Makassar,COD,Completed,279656,2,559312,2023-09,9,Q3
+ORD-1967,2023-04-19,Beauty & Health,Medan,Bank Transfer,Completed,297687,2,595374,2023-04,4,Q2
+ORD-1968,2023-07-26,Books & Stationery,Makassar,E-Wallet,Completed,172423,5,862115,2023-07,7,Q3
+ORD-1969,2023-06-23,Beauty & Health,Surabaya,Bank Transfer,Completed,160062,1,160062,2023-06,6,Q2
+ORD-1970,2023-08-31,Fashion,Surabaya,Credit Card,Completed,320358,5,1601790,2023-08,8,Q3
+ORD-1971,2023-12-08,Electronics,Semarang,E-Wallet,Completed,3589691,3,10769073,2023-12,12,Q4
+ORD-1972,2023-09-25,Home & Living,Surabaya,Credit Card,Completed,347632,4,1390528,2023-09,9,Q3
+ORD-1973,2023-03-20,Home & Living,Medan,Bank Transfer,Completed,642852,1,642852,2023-03,3,Q1
+ORD-1974,2023-01-12,Fashion,Jakarta,Bank Transfer,Completed,495074,1,495074,2023-01,1,Q1
+ORD-1975,2023-04-06,Electronics,Surabaya,Bank Transfer,Completed,2094386,1,2094386,2023-04,4,Q2
+ORD-1976,2023-08-06,Sports,Jakarta,E-Wallet,Completed,997521,1,997521,2023-08,8,Q3
+ORD-1977,2023-01-19,Electronics,Jakarta,E-Wallet,Completed,2959970,2,5919940,2023-01,1,Q1
+ORD-1978,2023-07-01,Home & Living,Jakarta,E-Wallet,Completed,495547,2,991094,2023-07,7,Q3
+ORD-1979,2023-08-06,Books & Stationery,Jakarta,Credit Card,Completed,155673,1,155673,2023-08,8,Q3
+ORD-1980,2023-05-02,Fashion,Makassar,Credit Card,Completed,471306,1,471306,2023-05,5,Q2
+ORD-1981,2023-10-09,Electronics,Jakarta,Bank Transfer,Completed,2526570,5,12632850,2023-10,10,Q4
+ORD-1982,2023-02-08,Home & Living,Bandung,COD,Completed,790088,2,1580176,2023-02,2,Q1
+ORD-1983,2023-01-28,Sports,Yogyakarta,COD,Completed,509786,3,1529358,2023-01,1,Q1
+ORD-1984,2023-09-23,Beauty & Health,Bandung,COD,Completed,197958,1,197958,2023-09,9,Q3
+ORD-1985,2023-06-30,Books & Stationery,Jakarta,Bank Transfer,Completed,88129,1,88129,2023-06,6,Q2
+ORD-1986,2023-09-09,Electronics,Medan,Bank Transfer,Completed,863348,3,2590044,2023-09,9,Q3
+ORD-1987,2023-06-08,Beauty & Health,Bandung,Bank Transfer,Returned,105485,5,0,2023-06,6,Q2
+ORD-1988,2023-03-31,Home & Living,Medan,Credit Card,Cancelled,784038,4,0,2023-03,3,Q1
+ORD-1989,2023-10-26,Sports,Medan,Credit Card,Completed,779850,2,1559700,2023-10,10,Q4
+ORD-1990,2023-10-19,Electronics,Makassar,COD,Completed,2731597,1,2731597,2023-10,10,Q4
+ORD-1991,2023-09-11,Sports,Bandung,Credit Card,Completed,726299,1,726299,2023-09,9,Q3
+ORD-1992,2023-04-10,Beauty & Health,Jakarta,Credit Card,Completed,395718,2,791436,2023-04,4,Q2
+ORD-1993,2023-08-04,Fashion,Bandung,Credit Card,Completed,365133,1,365133,2023-08,8,Q3
+ORD-1994,2023-05-12,Electronics,Jakarta,COD,Completed,3361232,2,6722464,2023-05,5,Q2
+ORD-1995,2023-02-03,Sports,Semarang,E-Wallet,Completed,511933,3,1535799,2023-02,2,Q1
+ORD-1996,2023-12-01,Electronics,Jakarta,E-Wallet,Completed,3530122,2,7060244,2023-12,12,Q4
+ORD-1997,2023-02-19,Fashion,Jakarta,COD,Returned,474328,4,0,2023-02,2,Q1
+ORD-1998,2023-12-13,Fashion,Yogyakarta,Bank Transfer,Completed,253588,2,507176,2023-12,12,Q4
+ORD-1999,2023-06-12,Sports,Bandung,E-Wallet,Returned,683831,1,0,2023-06,6,Q2
+ORD-2000,2023-03-09,Home & Living,Surabaya,Credit Card,Cancelled,548121,1,0,2023-03,3,Q1
+ORD-2001,2023-07-17,Home & Living,Surabaya,Credit Card,Completed,271529,3,814587,2023-07,7,Q3
+ORD-2002,2023-11-15,Fashion,Yogyakarta,COD,Completed,420621,4,1682484,2023-11,11,Q4
+ORD-2003,2023-09-25,Beauty & Health,Jakarta,E-Wallet,Completed,203322,2,406644,2023-09,9,Q3
+ORD-2004,2023-10-22,Beauty & Health,Yogyakarta,Bank Transfer,Completed,108845,5,544225,2023-10,10,Q4
+ORD-2005,2023-08-29,Sports,Jakarta,Bank Transfer,Completed,1006871,2,2013742,2023-08,8,Q3
+ORD-2006,2023-09-10,Sports,Medan,Bank Transfer,Completed,748851,4,2995404,2023-09,9,Q3
+ORD-2007,2023-11-06,Electronics,Yogyakarta,Credit Card,Completed,3380756,1,3380756,2023-11,11,Q4
+ORD-2008,2023-04-02,Home & Living,Jakarta,Credit Card,Completed,648239,3,1944717,2023-04,4,Q2
+ORD-2009,2023-06-28,Electronics,Surabaya,Credit Card,Completed,1820951,5,9104755,2023-06,6,Q2
+ORD-2010,2023-03-22,Beauty & Health,Jakarta,Credit Card,Completed,274567,4,1098268,2023-03,3,Q1
+ORD-2011,2023-12-27,Fashion,Medan,E-Wallet,Completed,462873,3,1388619,2023-12,12,Q4
+ORD-2012,2023-12-11,Fashion,Bandung,Credit Card,Completed,605126,4,2420504,2023-12,12,Q4
+ORD-2013,2023-01-15,Fashion,Bandung,Credit Card,Completed,251834,1,251834,2023-01,1,Q1
+ORD-2014,2023-09-15,Beauty & Health,Jakarta,Bank Transfer,Completed,404991,2,809982,2023-09,9,Q3
+ORD-2015,2023-12-04,Fashion,Jakarta,COD,Completed,587038,3,1761114,2023-12,12,Q4
+ORD-2016,2023-03-07,Home & Living,Jakarta,Credit Card,Completed,644290,2,1288580,2023-03,3,Q1
+ORD-2017,2023-07-27,Fashion,Jakarta,Credit Card,Cancelled,590633,3,0,2023-07,7,Q3
+ORD-2018,2023-12-01,Electronics,Bandung,Bank Transfer,Completed,1943635,1,1943635,2023-12,12,Q4
+ORD-2019,2023-01-13,Home & Living,Yogyakarta,E-Wallet,Completed,842111,1,842111,2023-01,1,Q1
+ORD-2020,2023-09-12,Fashion,Bandung,E-Wallet,Completed,476391,5,2381955,2023-09,9,Q3
+ORD-2021,2023-04-19,Fashion,Surabaya,E-Wallet,Cancelled,146002,1,0,2023-04,4,Q2
+ORD-2022,2023-12-04,Home & Living,Makassar,COD,Completed,809810,3,2429430,2023-12,12,Q4
+ORD-2023,2023-12-21,Fashion,Medan,E-Wallet,Completed,367236,2,734472,2023-12,12,Q4
+ORD-2024,2023-12-11,Electronics,Semarang,E-Wallet,Completed,2130980,1,2130980,2023-12,12,Q4
+ORD-2025,2023-06-23,Fashion,Surabaya,Bank Transfer,Completed,408233,1,408233,2023-06,6,Q2
+ORD-2026,2023-11-11,Books & Stationery,Jakarta,Credit Card,Completed,75883,2,151766,2023-11,11,Q4
+ORD-2027,2023-11-05,Beauty & Health,Jakarta,COD,Completed,258899,4,1035596,2023-11,11,Q4
+ORD-2028,2023-04-27,Home & Living,Medan,Bank Transfer,Returned,756789,4,0,2023-04,4,Q2
+ORD-2029,2023-10-30,Beauty & Health,Jakarta,Credit Card,Completed,95573,1,95573,2023-10,10,Q4
+ORD-2030,2023-01-14,Electronics,Jakarta,E-Wallet,Completed,1568751,3,4706253,2023-01,1,Q1
+ORD-2031,2023-08-06,Fashion,Bandung,Credit Card,Completed,126227,4,504908,2023-08,8,Q3
+ORD-2032,2023-03-25,Home & Living,Bandung,E-Wallet,Completed,465997,2,931994,2023-03,3,Q1
+ORD-2033,2023-02-14,Electronics,Bandung,E-Wallet,Cancelled,2934946,5,0,2023-02,2,Q1
+ORD-2034,2023-01-29,Fashion,Jakarta,Bank Transfer,Completed,524385,1,524385,2023-01,1,Q1
+ORD-2035,2023-09-12,Fashion,Surabaya,COD,Completed,597594,2,1195188,2023-09,9,Q3
+ORD-2036,2023-05-05,Fashion,Bandung,Credit Card,Completed,429252,4,1717008,2023-05,5,Q2
+ORD-2037,2023-09-22,Books & Stationery,Makassar,Bank Transfer,Cancelled,95879,4,0,2023-09,9,Q3
+ORD-2038,2023-01-24,Electronics,Medan,Bank Transfer,Completed,3522443,2,7044886,2023-01,1,Q1
+ORD-2039,2023-04-26,Beauty & Health,Semarang,E-Wallet,Completed,369113,1,369113,2023-04,4,Q2
+ORD-2040,2023-07-16,Electronics,Medan,E-Wallet,Completed,2473285,3,7419855,2023-07,7,Q3
+ORD-2041,2023-10-16,Books & Stationery,Bandung,Bank Transfer,Completed,179671,2,359342,2023-10,10,Q4
+ORD-2042,2023-04-27,Electronics,Jakarta,E-Wallet,Returned,3522949,4,0,2023-04,4,Q2
+ORD-2043,2023-08-17,Fashion,Bandung,Credit Card,Completed,481197,3,1443591,2023-08,8,Q3
+ORD-2044,2023-11-20,Home & Living,Bandung,COD,Completed,432862,1,432862,2023-11,11,Q4
+ORD-2045,2023-08-13,Home & Living,Bandung,Bank Transfer,Completed,674119,1,674119,2023-08,8,Q3
+ORD-2046,2023-03-27,Fashion,Surabaya,E-Wallet,Completed,145139,2,290278,2023-03,3,Q1
+ORD-2047,2023-01-09,Fashion,Surabaya,Credit Card,Completed,318207,2,636414,2023-01,1,Q1
+ORD-2048,2023-11-14,Fashion,Jakarta,Credit Card,Returned,328161,4,0,2023-11,11,Q4
+ORD-2049,2023-01-08,Fashion,Surabaya,Bank Transfer,Completed,208419,2,416838,2023-01,1,Q1
+ORD-2050,2023-11-16,Electronics,Jakarta,COD,Cancelled,819256,1,0,2023-11,11,Q4
+ORD-2051,2023-07-13,Beauty & Health,Yogyakarta,Bank Transfer,Completed,138017,2,276034,2023-07,7,Q3
+ORD-2052,2023-12-09,Fashion,Jakarta,COD,Completed,452310,4,1809240,2023-12,12,Q4
+ORD-2053,2023-10-19,Fashion,Jakarta,Bank Transfer,Completed,526144,4,2104576,2023-10,10,Q4
+ORD-2054,2023-12-31,Home & Living,Surabaya,Bank Transfer,Completed,866742,3,2600226,2023-12,12,Q4
+ORD-2055,2023-05-09,Books & Stationery,Bandung,Credit Card,Returned,113309,2,0,2023-05,5,Q2
+ORD-2056,2023-10-08,Beauty & Health,Surabaya,E-Wallet,Cancelled,305776,4,0,2023-10,10,Q4
+ORD-2057,2023-05-27,Electronics,Jakarta,Credit Card,Completed,3561434,3,10684302,2023-05,5,Q2
+ORD-2058,2023-06-25,Electronics,Bandung,COD,Completed,1251125,4,5004500,2023-06,6,Q2
+ORD-2059,2023-08-18,Books & Stationery,Jakarta,COD,Completed,183852,1,183852,2023-08,8,Q3
+ORD-2060,2023-11-15,Fashion,Semarang,COD,Returned,502489,2,0,2023-11,11,Q4
+ORD-2061,2023-12-26,Electronics,Semarang,Bank Transfer,Cancelled,1016926,2,0,2023-12,12,Q4
+ORD-2062,2023-10-08,Beauty & Health,Surabaya,E-Wallet,Completed,400049,1,400049,2023-10,10,Q4
+ORD-2063,2023-06-02,Beauty & Health,Jakarta,E-Wallet,Completed,382717,2,765434,2023-06,6,Q2
+ORD-2064,2023-06-03,Beauty & Health,Medan,Credit Card,Completed,102025,1,102025,2023-06,6,Q2
+ORD-2065,2023-09-27,Fashion,Jakarta,E-Wallet,Completed,170542,1,170542,2023-09,9,Q3
+ORD-2066,2023-03-29,Electronics,Surabaya,Credit Card,Completed,897380,5,4486900,2023-03,3,Q1
+ORD-2067,2023-02-10,Books & Stationery,Jakarta,Bank Transfer,Completed,111101,3,333303,2023-02,2,Q1
+ORD-2068,2023-05-10,Fashion,Semarang,Credit Card,Completed,379644,2,759288,2023-05,5,Q2
+ORD-2069,2023-04-15,Home & Living,Jakarta,Credit Card,Completed,547643,2,1095286,2023-04,4,Q2
+ORD-2070,2023-04-19,Home & Living,Bandung,Bank Transfer,Cancelled,362366,2,0,2023-04,4,Q2
+ORD-2071,2023-03-27,Beauty & Health,Medan,Bank Transfer,Completed,418174,2,836348,2023-03,3,Q1
+ORD-2072,2023-01-16,Fashion,Surabaya,E-Wallet,Completed,309131,2,618262,2023-01,1,Q1
+ORD-2073,2023-01-07,Fashion,Jakarta,Credit Card,Completed,147775,5,738875,2023-01,1,Q1
+ORD-2074,2023-12-27,Beauty & Health,Makassar,Bank Transfer,Completed,198081,4,792324,2023-12,12,Q4
+ORD-2075,2023-06-06,Sports,Surabaya,Credit Card,Completed,656131,2,1312262,2023-06,6,Q2
+ORD-2076,2023-05-21,Books & Stationery,Bandung,E-Wallet,Cancelled,125062,4,0,2023-05,5,Q2
+ORD-2077,2023-09-06,Electronics,Jakarta,E-Wallet,Completed,1571527,2,3143054,2023-09,9,Q3
+ORD-2078,2023-03-21,Electronics,Surabaya,E-Wallet,Completed,1143969,2,2287938,2023-03,3,Q1
+ORD-2079,2023-12-13,Books & Stationery,Surabaya,E-Wallet,Completed,203141,2,406282,2023-12,12,Q4
+ORD-2080,2023-10-15,Home & Living,Jakarta,Bank Transfer,Completed,872301,4,3489204,2023-10,10,Q4
+ORD-2081,2023-02-02,Sports,Jakarta,E-Wallet,Completed,486815,1,486815,2023-02,2,Q1
+ORD-2082,2023-06-02,Electronics,Yogyakarta,Bank Transfer,Completed,1894863,2,3789726,2023-06,6,Q2
+ORD-2083,2023-11-17,Beauty & Health,Jakarta,Bank Transfer,Completed,312493,3,937479,2023-11,11,Q4
+ORD-2084,2023-12-11,Home & Living,Jakarta,E-Wallet,Completed,677909,3,2033727,2023-12,12,Q4
+ORD-2085,2023-06-20,Home & Living,Surabaya,Credit Card,Completed,449420,2,898840,2023-06,6,Q2
+ORD-2086,2023-08-12,Fashion,Medan,E-Wallet,Completed,577464,5,2887320,2023-08,8,Q3
+ORD-2087,2023-03-02,Electronics,Jakarta,E-Wallet,Returned,2430011,3,0,2023-03,3,Q1
+ORD-2088,2023-12-28,Beauty & Health,Bandung,Bank Transfer,Completed,252140,3,756420,2023-12,12,Q4
+ORD-2089,2023-03-26,Fashion,Jakarta,Credit Card,Completed,448336,1,448336,2023-03,3,Q1
+ORD-2090,2023-12-11,Fashion,Jakarta,Credit Card,Completed,601401,2,1202802,2023-12,12,Q4
+ORD-2091,2023-08-26,Books & Stationery,Jakarta,COD,Completed,198464,2,396928,2023-08,8,Q3
+ORD-2092,2023-08-10,Fashion,Yogyakarta,E-Wallet,Completed,145006,2,290012,2023-08,8,Q3
+ORD-2093,2023-07-07,Sports,Jakarta,Credit Card,Completed,489140,2,978280,2023-07,7,Q3
+ORD-2094,2023-03-26,Electronics,Jakarta,Bank Transfer,Completed,2161634,1,2161634,2023-03,3,Q1
+ORD-2095,2023-03-06,Home & Living,Surabaya,E-Wallet,Cancelled,395162,2,0,2023-03,3,Q1
+ORD-2096,2023-03-22,Books & Stationery,Yogyakarta,COD,Completed,180535,5,902675,2023-03,3,Q1
+ORD-2097,2023-03-10,Electronics,Jakarta,Credit Card,Completed,3228807,4,12915228,2023-03,3,Q1
+ORD-2098,2023-10-12,Electronics,Surabaya,Credit Card,Returned,2944035,2,0,2023-10,10,Q4
+ORD-2099,2023-05-08,Fashion,Jakarta,COD,Completed,619666,4,2478664,2023-05,5,Q2
+ORD-2100,2023-01-22,Electronics,Surabaya,Credit Card,Completed,1567642,5,7838210,2023-01,1,Q1
+ORD-2101,2023-12-20,Home & Living,Bandung,Credit Card,Cancelled,787492,2,0,2023-12,12,Q4
+ORD-2102,2023-11-19,Sports,Bandung,COD,Completed,853963,1,853963,2023-11,11,Q4
+ORD-2103,2023-12-05,Fashion,Jakarta,E-Wallet,Completed,306089,2,612178,2023-12,12,Q4
+ORD-2104,2023-12-30,Fashion,Jakarta,Credit Card,Completed,492062,1,492062,2023-12,12,Q4
+ORD-2105,2023-03-05,Fashion,Jakarta,Credit Card,Completed,177037,4,708148,2023-03,3,Q1
+ORD-2106,2023-05-25,Home & Living,Surabaya,Credit Card,Completed,727533,2,1455066,2023-05,5,Q2
+ORD-2107,2023-10-04,Electronics,Jakarta,Credit Card,Cancelled,2346991,2,0,2023-10,10,Q4
+ORD-2108,2023-09-12,Beauty & Health,Medan,COD,Completed,195224,4,780896,2023-09,9,Q3
+ORD-2109,2023-02-26,Beauty & Health,Makassar,Bank Transfer,Completed,326079,1,326079,2023-02,2,Q1
+ORD-2110,2023-10-25,Beauty & Health,Makassar,E-Wallet,Returned,320983,3,0,2023-10,10,Q4
+ORD-2111,2023-03-23,Electronics,Yogyakarta,COD,Completed,1378458,1,1378458,2023-03,3,Q1
+ORD-2112,2023-03-23,Home & Living,Bandung,Bank Transfer,Completed,196278,1,196278,2023-03,3,Q1
+ORD-2113,2023-07-15,Electronics,Medan,Credit Card,Completed,2050867,2,4101734,2023-07,7,Q3
+ORD-2114,2023-08-05,Electronics,Jakarta,Bank Transfer,Completed,2458535,1,2458535,2023-08,8,Q3
+ORD-2115,2023-07-31,Sports,Bandung,COD,Completed,946348,2,1892696,2023-07,7,Q3
+ORD-2116,2023-02-03,Home & Living,Surabaya,E-Wallet,Completed,824751,1,824751,2023-02,2,Q1
+ORD-2117,2023-11-17,Electronics,Surabaya,Credit Card,Returned,2336415,1,0,2023-11,11,Q4
+ORD-2118,2023-04-07,Electronics,Medan,E-Wallet,Returned,3011410,3,0,2023-04,4,Q2
+ORD-2119,2023-02-17,Electronics,Jakarta,E-Wallet,Cancelled,2067909,1,0,2023-02,2,Q1
+ORD-2120,2023-11-21,Fashion,Jakarta,COD,Cancelled,498041,1,0,2023-11,11,Q4
+ORD-2121,2023-12-15,Electronics,Semarang,Credit Card,Completed,1364404,3,4093212,2023-12,12,Q4
+ORD-2122,2023-11-11,Electronics,Jakarta,Bank Transfer,Completed,1863194,2,3726388,2023-11,11,Q4
+ORD-2123,2023-10-23,Fashion,Surabaya,COD,Cancelled,442113,4,0,2023-10,10,Q4
+ORD-2124,2023-08-28,Home & Living,Semarang,Bank Transfer,Completed,187710,2,375420,2023-08,8,Q3
+ORD-2125,2023-07-21,Beauty & Health,Bandung,Bank Transfer,Returned,350086,1,0,2023-07,7,Q3
+ORD-2126,2023-02-01,Home & Living,Bandung,Credit Card,Completed,759874,1,759874,2023-02,2,Q1
+ORD-2127,2023-05-30,Electronics,Jakarta,Credit Card,Completed,1947424,1,1947424,2023-05,5,Q2
+ORD-2128,2023-05-17,Books & Stationery,Jakarta,Bank Transfer,Completed,132609,2,265218,2023-05,5,Q2
+ORD-2129,2023-04-05,Sports,Yogyakarta,COD,Returned,925077,3,0,2023-04,4,Q2
+ORD-2130,2023-09-22,Sports,Bandung,Credit Card,Completed,861549,2,1723098,2023-09,9,Q3
+ORD-2131,2023-06-30,Sports,Surabaya,Bank Transfer,Completed,452045,3,1356135,2023-06,6,Q2
+ORD-2132,2023-01-30,Books & Stationery,Jakarta,E-Wallet,Completed,109055,1,109055,2023-01,1,Q1
+ORD-2133,2023-03-22,Beauty & Health,Jakarta,Credit Card,Completed,334396,3,1003188,2023-03,3,Q1
+ORD-2134,2023-09-07,Electronics,Makassar,Bank Transfer,Completed,2439594,2,4879188,2023-09,9,Q3
+ORD-2135,2023-01-28,Beauty & Health,Surabaya,E-Wallet,Completed,148402,1,148402,2023-01,1,Q1
+ORD-2136,2023-11-07,Home & Living,Bandung,COD,Completed,391950,4,1567800,2023-11,11,Q4
+ORD-2137,2023-06-30,Home & Living,Jakarta,E-Wallet,Completed,804988,3,2414964,2023-06,6,Q2
+ORD-2138,2023-06-25,Beauty & Health,Medan,E-Wallet,Completed,337742,3,1013226,2023-06,6,Q2
+ORD-2139,2023-08-05,Electronics,Semarang,Credit Card,Completed,3707922,3,11123766,2023-08,8,Q3
+ORD-2140,2023-10-29,Fashion,Bandung,COD,Completed,508506,1,508506,2023-10,10,Q4
+ORD-2141,2023-05-07,Books & Stationery,Jakarta,Credit Card,Completed,226475,1,226475,2023-05,5,Q2
+ORD-2142,2023-09-05,Beauty & Health,Bandung,E-Wallet,Returned,167827,1,0,2023-09,9,Q3
+ORD-2143,2023-07-26,Beauty & Health,Medan,Credit Card,Completed,367734,5,1838670,2023-07,7,Q3
+ORD-2144,2023-04-08,Fashion,Surabaya,COD,Completed,135108,5,675540,2023-04,4,Q2
+ORD-2145,2023-11-17,Fashion,Yogyakarta,E-Wallet,Completed,460380,5,2301900,2023-11,11,Q4
+ORD-2146,2023-10-19,Sports,Bandung,E-Wallet,Completed,604197,1,604197,2023-10,10,Q4
+ORD-2147,2023-08-29,Home & Living,Semarang,Credit Card,Completed,417732,5,2088660,2023-08,8,Q3
+ORD-2148,2023-11-07,Home & Living,Bandung,Bank Transfer,Completed,778683,4,3114732,2023-11,11,Q4
+ORD-2149,2023-11-13,Fashion,Jakarta,E-Wallet,Completed,552133,2,1104266,2023-11,11,Q4
+ORD-2150,2023-09-16,Beauty & Health,Jakarta,E-Wallet,Completed,98028,1,98028,2023-09,9,Q3
+ORD-2151,2023-11-02,Electronics,Jakarta,Credit Card,Completed,2578515,1,2578515,2023-11,11,Q4
+ORD-2152,2023-09-12,Home & Living,Semarang,COD,Completed,432482,2,864964,2023-09,9,Q3
+ORD-2153,2023-09-06,Fashion,Medan,COD,Completed,332830,2,665660,2023-09,9,Q3
+ORD-2154,2023-08-14,Fashion,Bandung,Credit Card,Completed,541020,1,541020,2023-08,8,Q3
+ORD-2155,2023-10-02,Beauty & Health,Jakarta,E-Wallet,Completed,201542,5,1007710,2023-10,10,Q4
+ORD-2156,2023-02-27,Books & Stationery,Jakarta,Bank Transfer,Returned,226679,1,0,2023-02,2,Q1
+ORD-2157,2023-11-18,Electronics,Medan,Bank Transfer,Completed,1288901,1,1288901,2023-11,11,Q4
+ORD-2158,2023-11-15,Sports,Surabaya,Bank Transfer,Completed,766686,2,1533372,2023-11,11,Q4
+ORD-2159,2023-01-11,Fashion,Jakarta,E-Wallet,Completed,461052,1,461052,2023-01,1,Q1
+ORD-2160,2023-10-29,Fashion,Bandung,E-Wallet,Cancelled,251097,2,0,2023-10,10,Q4
+ORD-2161,2023-02-17,Electronics,Jakarta,Bank Transfer,Completed,1724251,5,8621255,2023-02,2,Q1
+ORD-2162,2023-05-03,Fashion,Jakarta,E-Wallet,Completed,542399,1,542399,2023-05,5,Q2
+ORD-2163,2023-09-29,Beauty & Health,Surabaya,E-Wallet,Completed,364249,4,1456996,2023-09,9,Q3
+ORD-2164,2023-02-28,Electronics,Jakarta,E-Wallet,Returned,1737287,2,0,2023-02,2,Q1
+ORD-2165,2023-10-26,Beauty & Health,Makassar,Credit Card,Cancelled,282224,5,0,2023-10,10,Q4
+ORD-2166,2023-10-31,Books & Stationery,Jakarta,COD,Cancelled,59219,2,0,2023-10,10,Q4
+ORD-2167,2023-07-05,Electronics,Jakarta,Bank Transfer,Completed,1376237,3,4128711,2023-07,7,Q3
+ORD-2168,2023-01-03,Home & Living,Jakarta,Credit Card,Completed,515074,1,515074,2023-01,1,Q1
+ORD-2169,2023-04-15,Fashion,Medan,Credit Card,Completed,167986,1,167986,2023-04,4,Q2
+ORD-2170,2023-08-14,Home & Living,Surabaya,Bank Transfer,Completed,765332,5,3826660,2023-08,8,Q3
+ORD-2171,2023-12-25,Fashion,Bandung,COD,Cancelled,484003,2,0,2023-12,12,Q4
+ORD-2172,2023-08-19,Electronics,Jakarta,Bank Transfer,Completed,3580901,5,17904505,2023-08,8,Q3
+ORD-2173,2023-04-05,Electronics,Jakarta,E-Wallet,Completed,2830400,3,8491200,2023-04,4,Q2
+ORD-2174,2023-08-20,Electronics,Surabaya,Credit Card,Completed,3571204,5,17856020,2023-08,8,Q3
+ORD-2175,2023-07-17,Electronics,Yogyakarta,Bank Transfer,Completed,2413537,1,2413537,2023-07,7,Q3
+ORD-2176,2023-10-12,Home & Living,Semarang,COD,Completed,595153,5,2975765,2023-10,10,Q4
+ORD-2177,2023-02-09,Sports,Jakarta,E-Wallet,Cancelled,1030655,2,0,2023-02,2,Q1
+ORD-2178,2023-10-05,Sports,Bandung,Credit Card,Completed,749388,1,749388,2023-10,10,Q4
+ORD-2179,2023-07-17,Home & Living,Semarang,Bank Transfer,Completed,196550,2,393100,2023-07,7,Q3
+ORD-2180,2023-12-18,Electronics,Surabaya,Credit Card,Completed,2921408,5,14607040,2023-12,12,Q4
+ORD-2181,2023-05-05,Fashion,Yogyakarta,Bank Transfer,Completed,577734,1,577734,2023-05,5,Q2
+ORD-2182,2023-08-19,Fashion,Jakarta,E-Wallet,Completed,522790,1,522790,2023-08,8,Q3
+ORD-2183,2023-12-07,Electronics,Semarang,E-Wallet,Completed,2501499,4,10005996,2023-12,12,Q4
+ORD-2184,2023-02-07,Beauty & Health,Medan,Credit Card,Completed,331669,2,663338,2023-02,2,Q1
+ORD-2185,2023-12-09,Beauty & Health,Semarang,COD,Completed,446469,4,1785876,2023-12,12,Q4
+ORD-2186,2023-09-09,Fashion,Bandung,E-Wallet,Completed,170331,1,170331,2023-09,9,Q3
+ORD-2187,2023-01-25,Fashion,Surabaya,Bank Transfer,Completed,458622,1,458622,2023-01,1,Q1
+ORD-2188,2023-04-20,Sports,Semarang,Bank Transfer,Returned,448054,1,0,2023-04,4,Q2
+ORD-2189,2023-09-16,Home & Living,Jakarta,E-Wallet,Cancelled,623063,1,0,2023-09,9,Q3
+ORD-2190,2023-01-25,Fashion,Jakarta,E-Wallet,Cancelled,428811,1,0,2023-01,1,Q1
+ORD-2191,2023-08-01,Sports,Medan,Bank Transfer,Completed,338903,4,1355612,2023-08,8,Q3
+ORD-2192,2023-05-07,Books & Stationery,Medan,Bank Transfer,Returned,86781,5,0,2023-05,5,Q2
+ORD-2193,2023-08-15,Fashion,Semarang,Credit Card,Cancelled,435814,3,0,2023-08,8,Q3
+ORD-2194,2023-01-17,Fashion,Jakarta,E-Wallet,Cancelled,189114,5,0,2023-01,1,Q1
+ORD-2195,2023-11-15,Beauty & Health,Medan,Bank Transfer,Completed,185465,5,927325,2023-11,11,Q4
+ORD-2196,2023-12-22,Books & Stationery,Medan,Credit Card,Completed,206196,4,824784,2023-12,12,Q4
+ORD-2197,2023-12-20,Sports,Jakarta,E-Wallet,Returned,484756,5,0,2023-12,12,Q4
+ORD-2198,2023-10-01,Electronics,Surabaya,COD,Completed,2214180,2,4428360,2023-10,10,Q4
+ORD-2199,2023-02-17,Fashion,Jakarta,COD,Completed,595570,1,595570,2023-02,2,Q1
+ORD-2200,2023-10-04,Beauty & Health,Jakarta,Bank Transfer,Returned,171773,5,0,2023-10,10,Q4
+ORD-2201,2023-01-09,Beauty & Health,Makassar,Credit Card,Completed,230265,1,230265,2023-01,1,Q1
+ORD-2202,2023-01-09,Electronics,Bandung,Bank Transfer,Completed,2569373,5,12846865,2023-01,1,Q1
+ORD-2203,2023-04-29,Sports,Medan,Credit Card,Completed,844484,1,844484,2023-04,4,Q2
+ORD-2204,2023-06-28,Home & Living,Makassar,COD,Returned,806157,3,0,2023-06,6,Q2
+ORD-2205,2023-10-09,Sports,Surabaya,Credit Card,Completed,978997,2,1957994,2023-10,10,Q4
+ORD-2206,2023-09-07,Sports,Yogyakarta,Credit Card,Completed,862377,2,1724754,2023-09,9,Q3
+ORD-2207,2023-06-12,Home & Living,Surabaya,Bank Transfer,Completed,334831,2,669662,2023-06,6,Q2
+ORD-2208,2023-04-10,Fashion,Yogyakarta,Bank Transfer,Cancelled,137404,1,0,2023-04,4,Q2
+ORD-2209,2023-12-30,Beauty & Health,Jakarta,E-Wallet,Completed,228158,1,228158,2023-12,12,Q4
+ORD-2210,2023-06-05,Electronics,Semarang,Bank Transfer,Cancelled,1174646,5,0,2023-06,6,Q2
+ORD-2211,2023-06-14,Home & Living,Jakarta,Credit Card,Returned,672271,1,0,2023-06,6,Q2
+ORD-2212,2023-03-01,Electronics,Jakarta,Credit Card,Completed,2733391,1,2733391,2023-03,3,Q1
+ORD-2213,2023-10-18,Home & Living,Medan,Bank Transfer,Completed,205780,1,205780,2023-10,10,Q4
+ORD-2214,2023-09-11,Electronics,Surabaya,Credit Card,Completed,3259781,1,3259781,2023-09,9,Q3
+ORD-2215,2023-03-22,Electronics,Bandung,E-Wallet,Completed,1496229,2,2992458,2023-03,3,Q1
+ORD-2216,2023-01-31,Electronics,Surabaya,E-Wallet,Completed,2046681,3,6140043,2023-01,1,Q1
+ORD-2217,2023-09-06,Electronics,Medan,E-Wallet,Cancelled,2753801,3,0,2023-09,9,Q3
+ORD-2218,2023-08-27,Home & Living,Jakarta,COD,Cancelled,475593,2,0,2023-08,8,Q3
+ORD-2219,2023-04-10,Home & Living,Jakarta,COD,Completed,483901,1,483901,2023-04,4,Q2
+ORD-2220,2023-12-14,Beauty & Health,Jakarta,COD,Completed,113626,1,113626,2023-12,12,Q4
+ORD-2221,2023-02-25,Electronics,Surabaya,Credit Card,Completed,1954330,1,1954330,2023-02,2,Q1
+ORD-2222,2023-06-07,Electronics,Jakarta,Credit Card,Completed,3044543,5,15222715,2023-06,6,Q2
+ORD-2223,2023-12-11,Electronics,Surabaya,Bank Transfer,Completed,3495529,3,10486587,2023-12,12,Q4
+ORD-2224,2023-06-03,Electronics,Surabaya,COD,Cancelled,1990491,5,0,2023-06,6,Q2
+ORD-2225,2023-08-22,Sports,Jakarta,COD,Returned,565812,3,0,2023-08,8,Q3
+ORD-2226,2023-05-26,Electronics,Bandung,COD,Completed,2857881,1,2857881,2023-05,5,Q2
+ORD-2227,2023-04-11,Fashion,Semarang,Credit Card,Cancelled,596386,2,0,2023-04,4,Q2
+ORD-2228,2023-12-26,Electronics,Jakarta,COD,Completed,1551182,1,1551182,2023-12,12,Q4
+ORD-2229,2023-05-30,Electronics,Bandung,Bank Transfer,Completed,2070432,1,2070432,2023-05,5,Q2
+ORD-2230,2023-11-23,Beauty & Health,Bandung,Credit Card,Completed,376550,2,753100,2023-11,11,Q4
+ORD-2231,2023-03-25,Beauty & Health,Surabaya,Bank Transfer,Completed,309489,5,1547445,2023-03,3,Q1
+ORD-2232,2023-03-19,Electronics,Medan,Credit Card,Returned,1081759,3,0,2023-03,3,Q1
+ORD-2233,2023-01-12,Electronics,Surabaya,Bank Transfer,Completed,2633198,1,2633198,2023-01,1,Q1
+ORD-2234,2023-08-26,Fashion,Surabaya,Bank Transfer,Completed,218373,2,436746,2023-08,8,Q3
+ORD-2235,2023-05-15,Electronics,Jakarta,Bank Transfer,Completed,2280647,2,4561294,2023-05,5,Q2
+ORD-2236,2023-11-12,Electronics,Medan,E-Wallet,Completed,2337309,4,9349236,2023-11,11,Q4
+ORD-2237,2023-06-22,Books & Stationery,Bandung,COD,Completed,213978,5,1069890,2023-06,6,Q2
+ORD-2238,2023-12-20,Beauty & Health,Jakarta,E-Wallet,Completed,256497,1,256497,2023-12,12,Q4
+ORD-2239,2023-03-09,Beauty & Health,Surabaya,Bank Transfer,Completed,190599,2,381198,2023-03,3,Q1
+ORD-2240,2023-11-14,Fashion,Makassar,E-Wallet,Completed,240483,2,480966,2023-11,11,Q4
+ORD-2241,2023-10-11,Fashion,Surabaya,COD,Completed,562125,3,1686375,2023-10,10,Q4
+ORD-2242,2023-10-09,Beauty & Health,Surabaya,Credit Card,Completed,151563,1,151563,2023-10,10,Q4
+ORD-2243,2023-11-05,Home & Living,Semarang,Bank Transfer,Completed,473107,1,473107,2023-11,11,Q4
+ORD-2244,2023-10-05,Home & Living,Medan,Credit Card,Completed,306021,2,612042,2023-10,10,Q4
+ORD-2245,2023-08-17,Electronics,Bandung,Credit Card,Cancelled,3069912,5,0,2023-08,8,Q3
+ORD-2246,2023-02-17,Beauty & Health,Medan,E-Wallet,Completed,260774,1,260774,2023-02,2,Q1
+ORD-2247,2023-01-12,Fashion,Yogyakarta,COD,Completed,300571,2,601142,2023-01,1,Q1
+ORD-2248,2023-12-03,Sports,Surabaya,Credit Card,Completed,513323,1,513323,2023-12,12,Q4
+ORD-2249,2023-08-14,Beauty & Health,Surabaya,E-Wallet,Completed,396797,2,793594,2023-08,8,Q3
+ORD-2250,2023-10-18,Beauty & Health,Surabaya,COD,Completed,289358,3,868074,2023-10,10,Q4
+ORD-2251,2023-06-25,Electronics,Makassar,COD,Completed,2903603,4,11614412,2023-06,6,Q2
+ORD-2252,2023-02-12,Beauty & Health,Medan,Credit Card,Completed,412933,1,412933,2023-02,2,Q1
+ORD-2253,2023-02-15,Electronics,Jakarta,COD,Completed,3455225,3,10365675,2023-02,2,Q1
+ORD-2254,2023-09-08,Fashion,Yogyakarta,Bank Transfer,Completed,289254,1,289254,2023-09,9,Q3
+ORD-2255,2023-06-07,Electronics,Surabaya,E-Wallet,Completed,3607353,2,7214706,2023-06,6,Q2
+ORD-2256,2023-03-15,Home & Living,Jakarta,Credit Card,Completed,192413,1,192413,2023-03,3,Q1
+ORD-2257,2023-06-29,Electronics,Bandung,Credit Card,Completed,1880506,2,3761012,2023-06,6,Q2
+ORD-2258,2023-01-24,Fashion,Surabaya,E-Wallet,Completed,572899,3,1718697,2023-01,1,Q1
+ORD-2259,2023-08-01,Sports,Yogyakarta,Bank Transfer,Completed,440694,1,440694,2023-08,8,Q3
+ORD-2260,2023-04-09,Electronics,Jakarta,Credit Card,Completed,1569244,5,7846220,2023-04,4,Q2
+ORD-2261,2023-10-19,Beauty & Health,Yogyakarta,Credit Card,Completed,198944,1,198944,2023-10,10,Q4
+ORD-2262,2023-04-24,Fashion,Bandung,E-Wallet,Completed,431156,1,431156,2023-04,4,Q2
+ORD-2263,2023-06-16,Electronics,Jakarta,Credit Card,Completed,2064998,5,10324990,2023-06,6,Q2
+ORD-2264,2023-01-05,Home & Living,Makassar,E-Wallet,Cancelled,683714,2,0,2023-01,1,Q1
+ORD-2265,2023-01-27,Electronics,Surabaya,Credit Card,Completed,3434731,2,6869462,2023-01,1,Q1
+ORD-2266,2023-05-24,Beauty & Health,Jakarta,Credit Card,Completed,332711,2,665422,2023-05,5,Q2
+ORD-2267,2023-06-25,Beauty & Health,Surabaya,Bank Transfer,Completed,163608,1,163608,2023-06,6,Q2
+ORD-2268,2023-08-08,Beauty & Health,Yogyakarta,Bank Transfer,Completed,425765,2,851530,2023-08,8,Q3
+ORD-2269,2023-04-17,Home & Living,Jakarta,Bank Transfer,Completed,360145,2,720290,2023-04,4,Q2
+ORD-2270,2023-09-11,Fashion,Jakarta,Bank Transfer,Completed,199947,3,599841,2023-09,9,Q3
+ORD-2271,2023-11-10,Electronics,Jakarta,COD,Completed,1019901,1,1019901,2023-11,11,Q4
+ORD-2272,2023-10-12,Home & Living,Jakarta,E-Wallet,Completed,569368,4,2277472,2023-10,10,Q4
+ORD-2273,2023-01-15,Beauty & Health,Medan,Credit Card,Completed,130954,1,130954,2023-01,1,Q1
+ORD-2274,2023-06-25,Sports,Surabaya,Bank Transfer,Completed,326571,2,653142,2023-06,6,Q2
+ORD-2275,2023-02-08,Sports,Jakarta,COD,Completed,462025,5,2310125,2023-02,2,Q1
+ORD-2276,2023-03-30,Sports,Jakarta,Bank Transfer,Completed,446588,4,1786352,2023-03,3,Q1
+ORD-2277,2023-12-27,Beauty & Health,Jakarta,Credit Card,Completed,307526,2,615052,2023-12,12,Q4
+ORD-2278,2023-02-22,Fashion,Semarang,E-Wallet,Completed,533372,1,533372,2023-02,2,Q1
+ORD-2279,2023-07-02,Home & Living,Jakarta,E-Wallet,Completed,707944,1,707944,2023-07,7,Q3
+ORD-2280,2023-08-14,Fashion,Makassar,E-Wallet,Completed,256242,1,256242,2023-08,8,Q3
+ORD-2281,2023-09-14,Electronics,Surabaya,Credit Card,Returned,1485931,1,0,2023-09,9,Q3
+ORD-2282,2023-07-24,Sports,Jakarta,Credit Card,Completed,1021264,1,1021264,2023-07,7,Q3
+ORD-2283,2023-01-04,Sports,Semarang,E-Wallet,Completed,216918,2,433836,2023-01,1,Q1
+ORD-2284,2023-04-30,Fashion,Surabaya,Credit Card,Cancelled,564860,5,0,2023-04,4,Q2
+ORD-2285,2023-07-08,Electronics,Medan,Bank Transfer,Completed,1349185,5,6745925,2023-07,7,Q3
+ORD-2286,2023-02-02,Fashion,Makassar,Bank Transfer,Completed,598642,2,1197284,2023-02,2,Q1
+ORD-2287,2023-05-08,Sports,Jakarta,Credit Card,Cancelled,497538,3,0,2023-05,5,Q2
+ORD-2288,2023-01-13,Sports,Jakarta,COD,Completed,579895,1,579895,2023-01,1,Q1
+ORD-2289,2023-01-29,Electronics,Medan,COD,Completed,2871361,2,5742722,2023-01,1,Q1
+ORD-2290,2023-05-25,Electronics,Jakarta,E-Wallet,Completed,2513007,4,10052028,2023-05,5,Q2
+ORD-2291,2023-02-18,Sports,Jakarta,Credit Card,Completed,477069,2,954138,2023-02,2,Q1
+ORD-2292,2023-07-27,Fashion,Jakarta,Credit Card,Completed,401915,5,2009575,2023-07,7,Q3
+ORD-2293,2023-09-09,Beauty & Health,Jakarta,Bank Transfer,Completed,353054,1,353054,2023-09,9,Q3
+ORD-2294,2023-10-20,Books & Stationery,Medan,Credit Card,Returned,55543,1,0,2023-10,10,Q4
+ORD-2295,2023-03-15,Electronics,Jakarta,COD,Cancelled,783597,2,0,2023-03,3,Q1
+ORD-2296,2023-03-03,Beauty & Health,Surabaya,Credit Card,Cancelled,254904,5,0,2023-03,3,Q1
+ORD-2297,2023-02-08,Electronics,Bandung,Bank Transfer,Cancelled,1145509,5,0,2023-02,2,Q1
+ORD-2298,2023-08-21,Fashion,Surabaya,Bank Transfer,Returned,457172,5,0,2023-08,8,Q3
+ORD-2299,2023-09-15,Sports,Jakarta,E-Wallet,Completed,389804,1,389804,2023-09,9,Q3
+ORD-2300,2023-01-12,Fashion,Medan,Credit Card,Completed,341425,5,1707125,2023-01,1,Q1
+ORD-2301,2023-12-08,Books & Stationery,Jakarta,Bank Transfer,Completed,85057,2,170114,2023-12,12,Q4
+ORD-2302,2023-01-19,Beauty & Health,Medan,Credit Card,Cancelled,287454,1,0,2023-01,1,Q1
+ORD-2303,2023-07-17,Fashion,Semarang,COD,Completed,183026,4,732104,2023-07,7,Q3
+ORD-2304,2023-09-16,Electronics,Surabaya,Credit Card,Completed,819320,5,4096600,2023-09,9,Q3
+ORD-2305,2023-11-14,Fashion,Bandung,COD,Completed,150565,2,301130,2023-11,11,Q4
+ORD-2306,2023-09-18,Fashion,Surabaya,COD,Completed,602129,1,602129,2023-09,9,Q3
+ORD-2307,2023-10-20,Electronics,Surabaya,Credit Card,Completed,1176858,2,2353716,2023-10,10,Q4
+ORD-2308,2023-05-04,Fashion,Semarang,E-Wallet,Completed,479239,4,1916956,2023-05,5,Q2
+ORD-2309,2023-10-25,Fashion,Semarang,Credit Card,Completed,158963,1,158963,2023-10,10,Q4
+ORD-2310,2023-01-30,Home & Living,Jakarta,COD,Completed,250712,1,250712,2023-01,1,Q1
+ORD-2311,2023-11-23,Home & Living,Bandung,Bank Transfer,Completed,531213,2,1062426,2023-11,11,Q4
+ORD-2312,2023-07-19,Home & Living,Semarang,Bank Transfer,Completed,500409,1,500409,2023-07,7,Q3
+ORD-2313,2023-10-26,Electronics,Makassar,Bank Transfer,Completed,3604740,1,3604740,2023-10,10,Q4
+ORD-2314,2023-06-15,Electronics,Surabaya,Credit Card,Completed,3584506,2,7169012,2023-06,6,Q2
+ORD-2315,2023-08-23,Home & Living,Surabaya,COD,Completed,720726,4,2882904,2023-08,8,Q3
+ORD-2316,2023-07-12,Beauty & Health,Jakarta,Credit Card,Cancelled,306756,1,0,2023-07,7,Q3
+ORD-2317,2023-09-25,Electronics,Makassar,E-Wallet,Completed,2114880,4,8459520,2023-09,9,Q3
+ORD-2318,2023-01-30,Sports,Jakarta,Bank Transfer,Completed,509189,2,1018378,2023-01,1,Q1
+ORD-2319,2023-01-23,Home & Living,Bandung,COD,Completed,837961,1,837961,2023-01,1,Q1
+ORD-2320,2023-04-01,Beauty & Health,Jakarta,Credit Card,Completed,307047,1,307047,2023-04,4,Q2
+ORD-2321,2023-02-28,Electronics,Jakarta,Bank Transfer,Cancelled,2487217,1,0,2023-02,2,Q1
+ORD-2322,2023-11-15,Home & Living,Surabaya,Bank Transfer,Completed,337330,3,1011990,2023-11,11,Q4
+ORD-2323,2023-03-22,Beauty & Health,Makassar,E-Wallet,Completed,106811,4,427244,2023-03,3,Q1
+ORD-2324,2023-12-23,Home & Living,Jakarta,Credit Card,Completed,836632,5,4183160,2023-12,12,Q4
+ORD-2325,2023-05-03,Home & Living,Bandung,Credit Card,Returned,394614,2,0,2023-05,5,Q2
+ORD-2326,2023-03-08,Sports,Jakarta,Credit Card,Completed,581774,5,2908870,2023-03,3,Q1
+ORD-2327,2023-10-16,Beauty & Health,Jakarta,E-Wallet,Completed,131270,1,131270,2023-10,10,Q4
+ORD-2328,2023-08-29,Electronics,Surabaya,Credit Card,Completed,3260772,2,6521544,2023-08,8,Q3
+ORD-2329,2023-07-01,Home & Living,Surabaya,E-Wallet,Cancelled,194342,3,0,2023-07,7,Q3
+ORD-2330,2023-07-22,Beauty & Health,Jakarta,Credit Card,Completed,390236,2,780472,2023-07,7,Q3
+ORD-2331,2023-09-20,Home & Living,Jakarta,COD,Completed,273199,3,819597,2023-09,9,Q3
+ORD-2332,2023-03-25,Electronics,Jakarta,COD,Completed,3409692,2,6819384,2023-03,3,Q1
+ORD-2333,2023-12-30,Electronics,Jakarta,Bank Transfer,Completed,2939317,1,2939317,2023-12,12,Q4
+ORD-2334,2023-12-22,Sports,Makassar,Bank Transfer,Completed,348323,1,348323,2023-12,12,Q4
+ORD-2335,2023-08-26,Home & Living,Semarang,Credit Card,Completed,571072,2,1142144,2023-08,8,Q3
+ORD-2336,2023-03-14,Sports,Jakarta,Credit Card,Completed,472631,1,472631,2023-03,3,Q1
+ORD-2337,2023-09-06,Home & Living,Bandung,Credit Card,Returned,299763,5,0,2023-09,9,Q3
+ORD-2338,2023-01-27,Beauty & Health,Semarang,E-Wallet,Completed,399305,1,399305,2023-01,1,Q1
+ORD-2339,2023-01-12,Home & Living,Jakarta,Bank Transfer,Completed,457465,4,1829860,2023-01,1,Q1
+ORD-2340,2023-04-05,Sports,Yogyakarta,COD,Completed,544776,2,1089552,2023-04,4,Q2
+ORD-2341,2023-06-18,Beauty & Health,Semarang,Bank Transfer,Completed,151159,1,151159,2023-06,6,Q2
+ORD-2342,2023-11-13,Beauty & Health,Jakarta,E-Wallet,Cancelled,227903,5,0,2023-11,11,Q4
+ORD-2343,2023-09-23,Electronics,Jakarta,Bank Transfer,Completed,3364850,4,13459400,2023-09,9,Q3
+ORD-2344,2023-09-29,Beauty & Health,Makassar,Bank Transfer,Completed,220726,3,662178,2023-09,9,Q3
+ORD-2345,2023-06-05,Home & Living,Bandung,Credit Card,Returned,841122,1,0,2023-06,6,Q2
+ORD-2346,2023-05-07,Fashion,Jakarta,Bank Transfer,Completed,598154,2,1196308,2023-05,5,Q2
+ORD-2347,2023-05-16,Electronics,Jakarta,Bank Transfer,Cancelled,1184695,2,0,2023-05,5,Q2
+ORD-2348,2023-12-27,Fashion,Surabaya,E-Wallet,Completed,213655,3,640965,2023-12,12,Q4
+ORD-2349,2023-01-15,Electronics,Medan,COD,Cancelled,3338022,1,0,2023-01,1,Q1
+ORD-2350,2023-11-13,Electronics,Medan,Bank Transfer,Completed,1928282,2,3856564,2023-11,11,Q4
+ORD-2351,2023-07-31,Fashion,Makassar,Credit Card,Completed,127186,1,127186,2023-07,7,Q3
+ORD-2352,2023-06-10,Sports,Jakarta,Bank Transfer,Cancelled,440052,3,0,2023-06,6,Q2
+ORD-2353,2023-09-22,Beauty & Health,Bandung,Bank Transfer,Completed,305146,5,1525730,2023-09,9,Q3
+ORD-2354,2023-06-27,Electronics,Bandung,Credit Card,Completed,3147797,3,9443391,2023-06,6,Q2
+ORD-2355,2023-11-15,Electronics,Surabaya,E-Wallet,Cancelled,1150165,5,0,2023-11,11,Q4
+ORD-2356,2023-11-25,Home & Living,Jakarta,COD,Cancelled,252378,2,0,2023-11,11,Q4
+ORD-2357,2023-06-03,Fashion,Makassar,COD,Completed,586046,2,1172092,2023-06,6,Q2
+ORD-2358,2023-04-12,Sports,Yogyakarta,Credit Card,Cancelled,840964,1,0,2023-04,4,Q2
+ORD-2359,2023-08-05,Home & Living,Surabaya,COD,Completed,587845,3,1763535,2023-08,8,Q3
+ORD-2360,2023-11-30,Home & Living,Bandung,E-Wallet,Completed,713430,2,1426860,2023-11,11,Q4
+ORD-2361,2023-03-18,Fashion,Jakarta,Bank Transfer,Cancelled,339427,1,0,2023-03,3,Q1
+ORD-2362,2023-08-16,Home & Living,Bandung,Bank Transfer,Completed,705919,5,3529595,2023-08,8,Q3
+ORD-2363,2023-08-19,Fashion,Medan,COD,Completed,310901,4,1243604,2023-08,8,Q3
+ORD-2364,2023-09-25,Books & Stationery,Surabaya,Bank Transfer,Completed,93877,4,375508,2023-09,9,Q3
+ORD-2365,2023-02-18,Beauty & Health,Makassar,Bank Transfer,Completed,352444,4,1409776,2023-02,2,Q1
+ORD-2366,2023-09-19,Fashion,Bandung,Bank Transfer,Completed,334836,2,669672,2023-09,9,Q3
+ORD-2367,2023-11-28,Fashion,Surabaya,E-Wallet,Cancelled,615688,3,0,2023-11,11,Q4
+ORD-2368,2023-03-07,Electronics,Medan,Credit Card,Cancelled,1798455,4,0,2023-03,3,Q1
+ORD-2369,2023-03-28,Home & Living,Jakarta,COD,Completed,820209,1,820209,2023-03,3,Q1
+ORD-2370,2023-12-21,Electronics,Surabaya,E-Wallet,Cancelled,3548887,2,0,2023-12,12,Q4
+ORD-2371,2023-03-08,Beauty & Health,Jakarta,E-Wallet,Completed,177067,3,531201,2023-03,3,Q1
+ORD-2372,2023-11-08,Fashion,Surabaya,Credit Card,Completed,524110,5,2620550,2023-11,11,Q4
+ORD-2373,2023-06-29,Home & Living,Medan,E-Wallet,Cancelled,478152,1,0,2023-06,6,Q2
+ORD-2374,2023-04-01,Sports,Surabaya,Credit Card,Completed,980720,3,2942160,2023-04,4,Q2
+ORD-2375,2023-11-14,Home & Living,Medan,Credit Card,Completed,490086,1,490086,2023-11,11,Q4
+ORD-2376,2023-06-12,Home & Living,Bandung,Bank Transfer,Completed,696012,3,2088036,2023-06,6,Q2
+ORD-2377,2023-07-07,Electronics,Jakarta,Bank Transfer,Completed,2150902,4,8603608,2023-07,7,Q3
+ORD-2378,2023-05-12,Electronics,Yogyakarta,E-Wallet,Cancelled,1433402,2,0,2023-05,5,Q2
+ORD-2379,2023-08-05,Home & Living,Jakarta,Credit Card,Completed,314545,2,629090,2023-08,8,Q3
+ORD-2380,2023-03-01,Fashion,Jakarta,Bank Transfer,Completed,337715,1,337715,2023-03,3,Q1
+ORD-2381,2023-05-23,Fashion,Surabaya,Credit Card,Completed,502747,3,1508241,2023-05,5,Q2
+ORD-2382,2023-12-20,Electronics,Jakarta,COD,Completed,2565214,2,5130428,2023-12,12,Q4
+ORD-2383,2023-04-05,Fashion,Jakarta,E-Wallet,Completed,469314,1,469314,2023-04,4,Q2
+ORD-2384,2023-08-28,Electronics,Bandung,E-Wallet,Completed,1596979,3,4790937,2023-08,8,Q3
+ORD-2385,2023-04-29,Sports,Surabaya,Bank Transfer,Cancelled,614405,2,0,2023-04,4,Q2
+ORD-2386,2023-10-10,Electronics,Surabaya,Credit Card,Cancelled,883185,1,0,2023-10,10,Q4
+ORD-2387,2023-02-17,Beauty & Health,Makassar,COD,Completed,384311,1,384311,2023-02,2,Q1
+ORD-2388,2023-12-20,Electronics,Bandung,Credit Card,Completed,3719676,1,3719676,2023-12,12,Q4
+ORD-2389,2023-06-15,Home & Living,Yogyakarta,Bank Transfer,Completed,459815,2,919630,2023-06,6,Q2
+ORD-2390,2023-03-28,Fashion,Jakarta,E-Wallet,Returned,130481,1,0,2023-03,3,Q1
+ORD-2391,2023-01-27,Sports,Bandung,Credit Card,Returned,352625,4,0,2023-01,1,Q1
+ORD-2392,2023-03-03,Sports,Yogyakarta,E-Wallet,Completed,758122,3,2274366,2023-03,3,Q1
+ORD-2393,2023-07-09,Fashion,Bandung,Bank Transfer,Completed,431039,2,862078,2023-07,7,Q3
+ORD-2394,2023-05-04,Sports,Medan,Credit Card,Completed,871806,2,1743612,2023-05,5,Q2
+ORD-2395,2023-10-30,Books & Stationery,Surabaya,Credit Card,Completed,95737,5,478685,2023-10,10,Q4
+ORD-2396,2023-06-07,Sports,Jakarta,Credit Card,Completed,851450,1,851450,2023-06,6,Q2
+ORD-2397,2023-04-01,Sports,Surabaya,COD,Completed,787906,2,1575812,2023-04,4,Q2
+ORD-2398,2023-08-14,Electronics,Surabaya,E-Wallet,Completed,1718443,1,1718443,2023-08,8,Q3
+ORD-2399,2023-09-15,Beauty & Health,Yogyakarta,Credit Card,Completed,286375,1,286375,2023-09,9,Q3
+ORD-2400,2023-03-02,Electronics,Jakarta,Credit Card,Completed,1191821,1,1191821,2023-03,3,Q1
+ORD-2401,2023-03-03,Electronics,Makassar,E-Wallet,Completed,2107693,5,10538465,2023-03,3,Q1
+ORD-2402,2023-01-14,Books & Stationery,Makassar,E-Wallet,Completed,214927,1,214927,2023-01,1,Q1
+ORD-2403,2023-09-26,Fashion,Jakarta,Bank Transfer,Completed,335595,1,335595,2023-09,9,Q3
+ORD-2404,2023-08-31,Home & Living,Jakarta,Bank Transfer,Completed,762696,5,3813480,2023-08,8,Q3
+ORD-2405,2023-06-23,Sports,Semarang,Credit Card,Completed,705812,1,705812,2023-06,6,Q2
+ORD-2406,2023-11-05,Sports,Makassar,E-Wallet,Completed,371176,1,371176,2023-11,11,Q4
+ORD-2407,2023-10-22,Books & Stationery,Surabaya,COD,Completed,157910,3,473730,2023-10,10,Q4
+ORD-2408,2023-08-02,Electronics,Jakarta,Credit Card,Completed,2267949,1,2267949,2023-08,8,Q3
+ORD-2409,2023-11-13,Electronics,Surabaya,E-Wallet,Completed,1945924,1,1945924,2023-11,11,Q4
+ORD-2410,2023-03-17,Fashion,Medan,Bank Transfer,Completed,184815,3,554445,2023-03,3,Q1
+ORD-2411,2023-02-10,Electronics,Jakarta,Bank Transfer,Completed,2000125,1,2000125,2023-02,2,Q1
+ORD-2412,2023-04-09,Electronics,Medan,Credit Card,Completed,968287,1,968287,2023-04,4,Q2
+ORD-2413,2023-01-21,Fashion,Jakarta,E-Wallet,Completed,174384,1,174384,2023-01,1,Q1
+ORD-2414,2023-07-13,Home & Living,Jakarta,Bank Transfer,Completed,466141,5,2330705,2023-07,7,Q3
+ORD-2415,2023-12-08,Beauty & Health,Surabaya,Bank Transfer,Completed,199937,1,199937,2023-12,12,Q4
+ORD-2416,2023-01-15,Fashion,Surabaya,Bank Transfer,Completed,587772,1,587772,2023-01,1,Q1
+ORD-2417,2023-02-14,Home & Living,Jakarta,Credit Card,Completed,437994,2,875988,2023-02,2,Q1
+ORD-2418,2023-06-15,Electronics,Surabaya,Credit Card,Completed,3023574,3,9070722,2023-06,6,Q2
+ORD-2419,2023-12-07,Electronics,Jakarta,E-Wallet,Completed,2340742,5,11703710,2023-12,12,Q4
+ORD-2420,2023-04-26,Home & Living,Jakarta,Credit Card,Returned,667859,3,0,2023-04,4,Q2
+ORD-2421,2023-07-05,Beauty & Health,Jakarta,E-Wallet,Completed,183641,4,734564,2023-07,7,Q3
+ORD-2422,2023-01-16,Home & Living,Makassar,Bank Transfer,Completed,834333,3,2502999,2023-01,1,Q1
+ORD-2423,2023-02-24,Electronics,Surabaya,Bank Transfer,Completed,2340265,4,9361060,2023-02,2,Q1
+ORD-2424,2023-12-27,Sports,Surabaya,Bank Transfer,Returned,908312,1,0,2023-12,12,Q4
+ORD-2425,2023-12-19,Beauty & Health,Bandung,Bank Transfer,Completed,221416,4,885664,2023-12,12,Q4
+ORD-2426,2023-01-02,Beauty & Health,Makassar,Credit Card,Completed,126076,4,504304,2023-01,1,Q1
+ORD-2427,2023-12-14,Beauty & Health,Jakarta,Bank Transfer,Cancelled,332536,2,0,2023-12,12,Q4
+ORD-2428,2023-08-22,Sports,Medan,E-Wallet,Completed,216518,1,216518,2023-08,8,Q3
+ORD-2429,2023-11-13,Beauty & Health,Medan,E-Wallet,Cancelled,261105,3,0,2023-11,11,Q4
+ORD-2430,2023-06-15,Beauty & Health,Bandung,Credit Card,Cancelled,159408,1,0,2023-06,6,Q2
+ORD-2431,2023-07-08,Books & Stationery,Jakarta,Bank Transfer,Completed,166701,1,166701,2023-07,7,Q3
+ORD-2432,2023-06-28,Home & Living,Bandung,Credit Card,Completed,860593,1,860593,2023-06,6,Q2
+ORD-2433,2023-09-01,Fashion,Jakarta,Credit Card,Completed,357201,2,714402,2023-09,9,Q3
+ORD-2434,2023-02-20,Home & Living,Bandung,Credit Card,Completed,747248,1,747248,2023-02,2,Q1
+ORD-2435,2023-01-11,Fashion,Medan,COD,Completed,378892,2,757784,2023-01,1,Q1
+ORD-2436,2023-04-23,Electronics,Jakarta,Credit Card,Completed,2237520,4,8950080,2023-04,4,Q2
+ORD-2437,2023-09-15,Beauty & Health,Yogyakarta,Credit Card,Completed,424952,5,2124760,2023-09,9,Q3
+ORD-2438,2023-03-15,Books & Stationery,Jakarta,Credit Card,Completed,216593,1,216593,2023-03,3,Q1
+ORD-2439,2023-09-03,Books & Stationery,Yogyakarta,Credit Card,Completed,196802,2,393604,2023-09,9,Q3
+ORD-2440,2023-12-21,Fashion,Surabaya,E-Wallet,Completed,273127,1,273127,2023-12,12,Q4
+ORD-2441,2023-02-04,Beauty & Health,Jakarta,Credit Card,Completed,286203,2,572406,2023-02,2,Q1
+ORD-2442,2023-09-03,Electronics,Jakarta,Credit Card,Completed,1421691,1,1421691,2023-09,9,Q3
+ORD-2443,2023-06-11,Books & Stationery,Makassar,E-Wallet,Completed,131844,2,263688,2023-06,6,Q2
+ORD-2444,2023-11-13,Books & Stationery,Jakarta,Bank Transfer,Completed,139500,2,279000,2023-11,11,Q4
+ORD-2445,2023-03-06,Beauty & Health,Jakarta,E-Wallet,Completed,389390,2,778780,2023-03,3,Q1
+ORD-2446,2023-09-10,Sports,Jakarta,E-Wallet,Returned,962663,5,0,2023-09,9,Q3
+ORD-2447,2023-11-02,Home & Living,Bandung,Credit Card,Completed,465234,1,465234,2023-11,11,Q4
+ORD-2448,2023-12-11,Beauty & Health,Bandung,E-Wallet,Completed,96373,1,96373,2023-12,12,Q4
+ORD-2449,2023-09-07,Electronics,Jakarta,Credit Card,Completed,3335321,4,13341284,2023-09,9,Q3
+ORD-2450,2023-07-01,Fashion,Jakarta,Bank Transfer,Completed,212139,1,212139,2023-07,7,Q3
+ORD-2451,2023-08-14,Home & Living,Jakarta,Bank Transfer,Completed,610317,2,1220634,2023-08,8,Q3
+ORD-2452,2023-11-14,Home & Living,Jakarta,Credit Card,Completed,192479,1,192479,2023-11,11,Q4
+ORD-2453,2023-07-28,Fashion,Surabaya,E-Wallet,Completed,324753,1,324753,2023-07,7,Q3
+ORD-2454,2023-01-12,Books & Stationery,Medan,COD,Cancelled,234832,1,0,2023-01,1,Q1
+ORD-2455,2023-12-06,Electronics,Jakarta,COD,Completed,1052080,1,1052080,2023-12,12,Q4
+ORD-2456,2023-09-09,Beauty & Health,Surabaya,E-Wallet,Completed,242529,2,485058,2023-09,9,Q3
+ORD-2457,2023-09-04,Home & Living,Surabaya,Bank Transfer,Cancelled,390004,1,0,2023-09,9,Q3
+ORD-2458,2023-03-20,Home & Living,Makassar,Credit Card,Completed,808561,1,808561,2023-03,3,Q1
+ORD-2459,2023-08-29,Beauty & Health,Makassar,Credit Card,Completed,402962,5,2014810,2023-08,8,Q3
+ORD-2460,2023-05-24,Fashion,Yogyakarta,Bank Transfer,Completed,243849,1,243849,2023-05,5,Q2
+ORD-2461,2023-08-26,Electronics,Jakarta,Bank Transfer,Completed,993563,5,4967815,2023-08,8,Q3
+ORD-2462,2023-02-08,Beauty & Health,Jakarta,COD,Completed,315769,1,315769,2023-02,2,Q1
+ORD-2463,2023-08-29,Beauty & Health,Jakarta,Bank Transfer,Completed,211092,4,844368,2023-08,8,Q3
+ORD-2464,2023-12-31,Electronics,Jakarta,Bank Transfer,Cancelled,2766253,5,0,2023-12,12,Q4
+ORD-2465,2023-01-18,Home & Living,Surabaya,Bank Transfer,Returned,197483,4,0,2023-01,1,Q1
+ORD-2466,2023-12-23,Fashion,Medan,COD,Returned,191699,1,0,2023-12,12,Q4
+ORD-2467,2023-05-29,Home & Living,Yogyakarta,E-Wallet,Cancelled,655460,1,0,2023-05,5,Q2
+ORD-2468,2023-11-14,Sports,Yogyakarta,E-Wallet,Completed,388391,1,388391,2023-11,11,Q4
+ORD-2469,2023-10-13,Electronics,Surabaya,Bank Transfer,Completed,3322763,1,3322763,2023-10,10,Q4
+ORD-2470,2023-07-26,Electronics,Medan,E-Wallet,Completed,925772,2,1851544,2023-07,7,Q3
+ORD-2471,2023-09-27,Home & Living,Jakarta,Credit Card,Completed,325837,1,325837,2023-09,9,Q3
+ORD-2472,2023-11-17,Beauty & Health,Jakarta,COD,Cancelled,449481,1,0,2023-11,11,Q4
+ORD-2473,2023-05-28,Home & Living,Medan,Bank Transfer,Completed,478153,4,1912612,2023-05,5,Q2
+ORD-2474,2023-04-30,Sports,Jakarta,Bank Transfer,Cancelled,800491,5,0,2023-04,4,Q2
+ORD-2475,2023-09-01,Sports,Surabaya,Bank Transfer,Cancelled,363436,2,0,2023-09,9,Q3
+ORD-2476,2023-10-22,Books & Stationery,Jakarta,E-Wallet,Returned,163375,1,0,2023-10,10,Q4
+ORD-2477,2023-10-06,Beauty & Health,Medan,Credit Card,Cancelled,351398,2,0,2023-10,10,Q4
+ORD-2478,2023-10-19,Beauty & Health,Medan,COD,Completed,203211,1,203211,2023-10,10,Q4
+ORD-2479,2023-06-08,Fashion,Jakarta,Bank Transfer,Completed,539448,1,539448,2023-06,6,Q2
+ORD-2480,2023-10-26,Electronics,Yogyakarta,Bank Transfer,Completed,2560252,5,12801260,2023-10,10,Q4
+ORD-2481,2023-02-13,Beauty & Health,Jakarta,Credit Card,Completed,230084,4,920336,2023-02,2,Q1
+ORD-2482,2023-07-18,Fashion,Surabaya,Bank Transfer,Completed,403821,3,1211463,2023-07,7,Q3
+ORD-2483,2023-01-03,Books & Stationery,Medan,Bank Transfer,Cancelled,157084,3,0,2023-01,1,Q1
+ORD-2484,2023-04-29,Beauty & Health,Medan,Bank Transfer,Cancelled,149592,2,0,2023-04,4,Q2
+ORD-2485,2023-05-14,Beauty & Health,Makassar,E-Wallet,Completed,234983,1,234983,2023-05,5,Q2
+ORD-2486,2023-05-25,Fashion,Jakarta,Bank Transfer,Completed,296715,1,296715,2023-05,5,Q2
+ORD-2487,2023-09-11,Electronics,Bandung,COD,Completed,1952708,1,1952708,2023-09,9,Q3
+ORD-2488,2023-05-22,Electronics,Bandung,E-Wallet,Completed,3033331,1,3033331,2023-05,5,Q2
+ORD-2489,2023-06-13,Fashion,Semarang,E-Wallet,Completed,366269,3,1098807,2023-06,6,Q2
+ORD-2490,2023-03-28,Electronics,Jakarta,Credit Card,Completed,3570948,1,3570948,2023-03,3,Q1
+ORD-2491,2023-05-17,Beauty & Health,Medan,Bank Transfer,Completed,195723,3,587169,2023-05,5,Q2
+ORD-2492,2023-03-24,Sports,Bandung,Bank Transfer,Completed,559191,5,2795955,2023-03,3,Q1
+ORD-2493,2023-01-27,Sports,Jakarta,E-Wallet,Completed,871043,5,4355215,2023-01,1,Q1
+ORD-2494,2023-08-09,Home & Living,Surabaya,COD,Completed,557217,3,1671651,2023-08,8,Q3
+ORD-2495,2023-09-01,Electronics,Jakarta,Credit Card,Completed,2391084,4,9564336,2023-09,9,Q3
+ORD-2496,2023-08-15,Sports,Bandung,Credit Card,Completed,254805,3,764415,2023-08,8,Q3
+ORD-2497,2023-06-19,Sports,Semarang,COD,Completed,544823,2,1089646,2023-06,6,Q2
+ORD-2498,2023-05-19,Electronics,Bandung,Credit Card,Returned,1562201,1,0,2023-05,5,Q2
+ORD-2499,2023-11-12,Home & Living,Bandung,E-Wallet,Completed,874534,4,3498136,2023-11,11,Q4
+ORD-2500,2023-07-09,Fashion,Surabaya,Bank Transfer,Completed,279177,4,1116708,2023-07,7,Q3
+ORD-2501,2023-06-24,Sports,Jakarta,COD,Completed,952977,1,952977,2023-06,6,Q2
+ORD-2502,2023-01-10,Books & Stationery,Jakarta,Credit Card,Completed,175984,4,703936,2023-01,1,Q1
+ORD-2503,2023-05-05,Electronics,Surabaya,Credit Card,Returned,1772749,1,0,2023-05,5,Q2
+ORD-2504,2023-05-19,Sports,Jakarta,E-Wallet,Completed,666568,2,1333136,2023-05,5,Q2
+ORD-2505,2023-05-26,Beauty & Health,Jakarta,COD,Completed,392592,1,392592,2023-05,5,Q2
+ORD-2506,2023-07-31,Books & Stationery,Surabaya,Bank Transfer,Completed,215339,4,861356,2023-07,7,Q3
+ORD-2507,2023-07-14,Fashion,Jakarta,Bank Transfer,Completed,205196,2,410392,2023-07,7,Q3
+ORD-2508,2023-08-10,Sports,Jakarta,E-Wallet,Completed,495241,2,990482,2023-08,8,Q3
+ORD-2509,2023-10-07,Electronics,Surabaya,COD,Completed,1755669,2,3511338,2023-10,10,Q4
+ORD-2510,2023-10-24,Fashion,Jakarta,COD,Completed,146022,1,146022,2023-10,10,Q4
+ORD-2511,2023-09-20,Electronics,Semarang,COD,Completed,2544713,2,5089426,2023-09,9,Q3
+ORD-2512,2023-12-15,Books & Stationery,Yogyakarta,Credit Card,Completed,209915,2,419830,2023-12,12,Q4
+ORD-2513,2023-01-07,Sports,Medan,Credit Card,Completed,530522,3,1591566,2023-01,1,Q1
+ORD-2514,2023-03-13,Sports,Jakarta,E-Wallet,Completed,831630,1,831630,2023-03,3,Q1
+ORD-2515,2023-01-03,Books & Stationery,Medan,E-Wallet,Completed,166763,2,333526,2023-01,1,Q1
+ORD-2516,2023-08-25,Electronics,Yogyakarta,Credit Card,Completed,1876946,5,9384730,2023-08,8,Q3
+ORD-2517,2023-11-24,Fashion,Medan,Credit Card,Completed,195529,1,195529,2023-11,11,Q4
+ORD-2518,2023-03-30,Electronics,Jakarta,E-Wallet,Completed,2877971,5,14389855,2023-03,3,Q1
+ORD-2519,2023-12-05,Electronics,Bandung,Credit Card,Completed,3313695,1,3313695,2023-12,12,Q4
+ORD-2520,2023-01-22,Electronics,Yogyakarta,Bank Transfer,Completed,2807563,2,5615126,2023-01,1,Q1
+ORD-2521,2023-12-08,Fashion,Bandung,Bank Transfer,Completed,133939,2,267878,2023-12,12,Q4
+ORD-2522,2023-05-09,Fashion,Bandung,E-Wallet,Returned,233116,1,0,2023-05,5,Q2
+ORD-2523,2023-02-07,Electronics,Surabaya,E-Wallet,Completed,958439,2,1916878,2023-02,2,Q1
+ORD-2524,2023-06-27,Electronics,Surabaya,Bank Transfer,Completed,2461158,2,4922316,2023-06,6,Q2
+ORD-2525,2023-04-04,Electronics,Jakarta,E-Wallet,Completed,3019433,2,6038866,2023-04,4,Q2
+ORD-2526,2023-04-14,Books & Stationery,Bandung,E-Wallet,Cancelled,68510,2,0,2023-04,4,Q2
+ORD-2527,2023-04-23,Home & Living,Jakarta,Bank Transfer,Completed,761836,5,3809180,2023-04,4,Q2
+ORD-2528,2023-10-21,Books & Stationery,Surabaya,E-Wallet,Returned,153046,2,0,2023-10,10,Q4
+ORD-2529,2023-07-16,Fashion,Jakarta,Credit Card,Returned,469984,2,0,2023-07,7,Q3
+ORD-2530,2023-04-24,Fashion,Bandung,Credit Card,Completed,610700,5,3053500,2023-04,4,Q2
+ORD-2531,2023-08-11,Home & Living,Jakarta,Credit Card,Returned,233576,1,0,2023-08,8,Q3
+ORD-2532,2023-09-19,Fashion,Medan,Credit Card,Completed,575612,2,1151224,2023-09,9,Q3
+ORD-2533,2023-04-10,Fashion,Medan,Bank Transfer,Cancelled,188051,2,0,2023-04,4,Q2
+ORD-2534,2023-05-31,Electronics,Jakarta,COD,Completed,1928876,1,1928876,2023-05,5,Q2
+ORD-2535,2023-02-14,Electronics,Jakarta,E-Wallet,Completed,3304316,4,13217264,2023-02,2,Q1
+ORD-2536,2023-03-08,Fashion,Jakarta,E-Wallet,Completed,578127,1,578127,2023-03,3,Q1
+ORD-2537,2023-09-06,Fashion,Yogyakarta,Bank Transfer,Completed,378185,4,1512740,2023-09,9,Q3
+ORD-2538,2023-03-08,Home & Living,Surabaya,Bank Transfer,Completed,590873,1,590873,2023-03,3,Q1
+ORD-2539,2023-07-11,Electronics,Surabaya,Bank Transfer,Completed,2874442,1,2874442,2023-07,7,Q3
+ORD-2540,2023-09-16,Electronics,Jakarta,Credit Card,Completed,3248276,4,12993104,2023-09,9,Q3
+ORD-2541,2023-02-09,Sports,Bandung,Credit Card,Completed,312069,1,312069,2023-02,2,Q1
+ORD-2542,2023-07-27,Electronics,Yogyakarta,E-Wallet,Completed,3180207,1,3180207,2023-07,7,Q3
+ORD-2543,2023-04-04,Fashion,Yogyakarta,COD,Completed,365638,1,365638,2023-04,4,Q2
+ORD-2544,2023-12-18,Sports,Bandung,Credit Card,Completed,588523,2,1177046,2023-12,12,Q4
+ORD-2545,2023-06-26,Electronics,Jakarta,Credit Card,Completed,2021699,3,6065097,2023-06,6,Q2
+ORD-2546,2023-10-22,Electronics,Jakarta,E-Wallet,Completed,2277634,3,6832902,2023-10,10,Q4
+ORD-2547,2023-07-20,Beauty & Health,Jakarta,Credit Card,Completed,430218,3,1290654,2023-07,7,Q3
+ORD-2548,2023-01-16,Fashion,Jakarta,E-Wallet,Completed,399101,1,399101,2023-01,1,Q1
+ORD-2549,2023-08-20,Beauty & Health,Jakarta,E-Wallet,Returned,433143,2,0,2023-08,8,Q3
+ORD-2550,2023-12-14,Sports,Jakarta,COD,Completed,361443,1,361443,2023-12,12,Q4
+ORD-2551,2023-08-08,Electronics,Surabaya,Bank Transfer,Returned,2922407,1,0,2023-08,8,Q3
+ORD-2552,2023-10-27,Beauty & Health,Semarang,E-Wallet,Completed,382406,3,1147218,2023-10,10,Q4
+ORD-2553,2023-11-19,Beauty & Health,Bandung,Bank Transfer,Completed,334486,1,334486,2023-11,11,Q4
+ORD-2554,2023-03-25,Electronics,Yogyakarta,E-Wallet,Completed,2570766,2,5141532,2023-03,3,Q1
+ORD-2555,2023-03-19,Beauty & Health,Medan,Bank Transfer,Cancelled,293332,3,0,2023-03,3,Q1
+ORD-2556,2023-08-12,Fashion,Jakarta,Credit Card,Completed,555465,4,2221860,2023-08,8,Q3
+ORD-2557,2023-05-31,Beauty & Health,Medan,Bank Transfer,Completed,385792,4,1543168,2023-05,5,Q2
+ORD-2558,2023-11-03,Electronics,Jakarta,Bank Transfer,Completed,1116866,2,2233732,2023-11,11,Q4
+ORD-2559,2023-11-25,Fashion,Bandung,E-Wallet,Completed,549293,5,2746465,2023-11,11,Q4
+ORD-2560,2023-05-09,Fashion,Jakarta,E-Wallet,Cancelled,332034,1,0,2023-05,5,Q2
+ORD-2561,2023-03-28,Sports,Makassar,E-Wallet,Completed,423105,3,1269315,2023-03,3,Q1
+ORD-2562,2023-10-12,Electronics,Jakarta,Credit Card,Completed,3359305,4,13437220,2023-10,10,Q4
+ORD-2563,2023-04-11,Fashion,Jakarta,E-Wallet,Completed,341012,2,682024,2023-04,4,Q2
+ORD-2564,2023-10-28,Fashion,Semarang,Bank Transfer,Completed,529182,2,1058364,2023-10,10,Q4
+ORD-2565,2023-06-04,Home & Living,Jakarta,COD,Completed,359382,4,1437528,2023-06,6,Q2
+ORD-2566,2023-09-01,Beauty & Health,Medan,COD,Completed,91414,2,182828,2023-09,9,Q3
+ORD-2567,2023-02-04,Home & Living,Medan,Credit Card,Cancelled,521821,2,0,2023-02,2,Q1
+ORD-2568,2023-08-16,Home & Living,Yogyakarta,E-Wallet,Completed,245159,2,490318,2023-08,8,Q3
+ORD-2569,2023-06-14,Sports,Makassar,Credit Card,Cancelled,843675,1,0,2023-06,6,Q2
+ORD-2570,2023-08-03,Fashion,Makassar,Bank Transfer,Completed,263037,4,1052148,2023-08,8,Q3
+ORD-2571,2023-03-03,Beauty & Health,Jakarta,Bank Transfer,Completed,249712,1,249712,2023-03,3,Q1
+ORD-2572,2023-09-26,Sports,Yogyakarta,Credit Card,Completed,283108,1,283108,2023-09,9,Q3
+ORD-2573,2023-11-11,Books & Stationery,Bandung,E-Wallet,Completed,101965,4,407860,2023-11,11,Q4
+ORD-2574,2023-03-21,Sports,Bandung,Credit Card,Completed,866451,3,2599353,2023-03,3,Q1
+ORD-2575,2023-02-04,Fashion,Jakarta,Credit Card,Completed,200793,1,200793,2023-02,2,Q1
+ORD-2576,2023-01-09,Electronics,Bandung,E-Wallet,Completed,2691478,1,2691478,2023-01,1,Q1
+ORD-2577,2023-08-23,Beauty & Health,Makassar,E-Wallet,Completed,420273,1,420273,2023-08,8,Q3
+ORD-2578,2023-08-10,Home & Living,Semarang,COD,Completed,650885,2,1301770,2023-08,8,Q3
+ORD-2579,2023-07-19,Beauty & Health,Surabaya,E-Wallet,Completed,381967,1,381967,2023-07,7,Q3
+ORD-2580,2023-03-26,Beauty & Health,Jakarta,E-Wallet,Completed,129229,3,387687,2023-03,3,Q1
+ORD-2581,2023-05-23,Sports,Surabaya,Bank Transfer,Completed,420614,2,841228,2023-05,5,Q2
+ORD-2582,2023-08-05,Fashion,Yogyakarta,Credit Card,Completed,572269,1,572269,2023-08,8,Q3
+ORD-2583,2023-07-01,Sports,Medan,Credit Card,Completed,810688,3,2432064,2023-07,7,Q3
+ORD-2584,2023-12-27,Fashion,Surabaya,Bank Transfer,Returned,444776,2,0,2023-12,12,Q4
+ORD-2585,2023-02-19,Fashion,Jakarta,E-Wallet,Cancelled,456883,3,0,2023-02,2,Q1
+ORD-2586,2023-09-11,Fashion,Surabaya,Bank Transfer,Completed,332100,2,664200,2023-09,9,Q3
+ORD-2587,2023-05-28,Home & Living,Surabaya,E-Wallet,Completed,206189,4,824756,2023-05,5,Q2
+ORD-2588,2023-06-06,Electronics,Semarang,Bank Transfer,Completed,3103324,1,3103324,2023-06,6,Q2
+ORD-2589,2023-09-19,Electronics,Bandung,Credit Card,Cancelled,2786139,2,0,2023-09,9,Q3
+ORD-2590,2023-09-10,Books & Stationery,Jakarta,Credit Card,Completed,137332,1,137332,2023-09,9,Q3
+ORD-2591,2023-12-28,Electronics,Surabaya,COD,Completed,3449278,3,10347834,2023-12,12,Q4
+ORD-2592,2023-02-16,Beauty & Health,Jakarta,E-Wallet,Completed,211017,1,211017,2023-02,2,Q1
+ORD-2593,2023-02-08,Beauty & Health,Makassar,COD,Completed,195955,2,391910,2023-02,2,Q1
+ORD-2594,2023-09-22,Beauty & Health,Surabaya,Credit Card,Completed,404206,1,404206,2023-09,9,Q3
+ORD-2595,2023-07-31,Beauty & Health,Surabaya,COD,Completed,376915,1,376915,2023-07,7,Q3
+ORD-2596,2023-04-11,Electronics,Surabaya,Credit Card,Completed,2294939,4,9179756,2023-04,4,Q2
+ORD-2597,2023-01-29,Beauty & Health,Medan,Credit Card,Completed,137064,2,274128,2023-01,1,Q1
+ORD-2598,2023-02-01,Fashion,Bandung,COD,Completed,232535,1,232535,2023-02,2,Q1
+ORD-2599,2023-11-23,Home & Living,Medan,Credit Card,Completed,634359,1,634359,2023-11,11,Q4
+ORD-2600,2023-03-12,Electronics,Jakarta,E-Wallet,Completed,1905123,1,1905123,2023-03,3,Q1
+ORD-2601,2023-04-29,Beauty & Health,Jakarta,Credit Card,Completed,391130,1,391130,2023-04,4,Q2
+ORD-2602,2023-03-24,Electronics,Jakarta,E-Wallet,Completed,3599865,5,17999325,2023-03,3,Q1
+ORD-2603,2023-05-10,Fashion,Bandung,COD,Completed,527818,1,527818,2023-05,5,Q2
+ORD-2604,2023-01-26,Electronics,Jakarta,Bank Transfer,Completed,1882636,2,3765272,2023-01,1,Q1
+ORD-2605,2023-07-09,Electronics,Bandung,E-Wallet,Completed,3116059,3,9348177,2023-07,7,Q3
+ORD-2606,2023-01-25,Sports,Yogyakarta,Credit Card,Cancelled,505211,2,0,2023-01,1,Q1
+ORD-2607,2023-10-20,Fashion,Semarang,E-Wallet,Completed,208550,1,208550,2023-10,10,Q4
+ORD-2608,2023-03-27,Books & Stationery,Surabaya,Bank Transfer,Completed,53844,5,269220,2023-03,3,Q1
+ORD-2609,2023-07-17,Books & Stationery,Surabaya,Credit Card,Completed,120786,3,362358,2023-07,7,Q3
+ORD-2610,2023-11-18,Beauty & Health,Jakarta,Bank Transfer,Completed,415281,4,1661124,2023-11,11,Q4
+ORD-2611,2023-08-26,Electronics,Bandung,Credit Card,Completed,1466959,1,1466959,2023-08,8,Q3
+ORD-2612,2023-07-14,Fashion,Yogyakarta,COD,Cancelled,228256,5,0,2023-07,7,Q3
+ORD-2613,2023-04-29,Home & Living,Jakarta,Bank Transfer,Completed,853874,2,1707748,2023-04,4,Q2
+ORD-2614,2023-05-02,Fashion,Surabaya,Credit Card,Returned,137502,3,0,2023-05,5,Q2
+ORD-2615,2023-09-02,Electronics,Yogyakarta,Bank Transfer,Cancelled,3107346,1,0,2023-09,9,Q3
+ORD-2616,2023-12-29,Beauty & Health,Yogyakarta,Bank Transfer,Completed,205693,3,617079,2023-12,12,Q4
+ORD-2617,2023-08-30,Sports,Jakarta,E-Wallet,Returned,241489,1,0,2023-08,8,Q3
+ORD-2618,2023-07-23,Home & Living,Bandung,COD,Completed,817461,3,2452383,2023-07,7,Q3
+ORD-2619,2023-09-24,Electronics,Jakarta,Bank Transfer,Completed,1168926,2,2337852,2023-09,9,Q3
+ORD-2620,2023-06-19,Home & Living,Jakarta,COD,Completed,561245,5,2806225,2023-06,6,Q2
+ORD-2621,2023-01-22,Electronics,Semarang,E-Wallet,Completed,1572162,2,3144324,2023-01,1,Q1
+ORD-2622,2023-07-25,Electronics,Yogyakarta,Credit Card,Completed,945578,1,945578,2023-07,7,Q3
+ORD-2623,2023-12-16,Sports,Medan,E-Wallet,Completed,251934,4,1007736,2023-12,12,Q4
+ORD-2624,2023-03-05,Electronics,Jakarta,Bank Transfer,Completed,1096670,4,4386680,2023-03,3,Q1
+ORD-2625,2023-09-09,Fashion,Yogyakarta,E-Wallet,Completed,160683,2,321366,2023-09,9,Q3
+ORD-2626,2023-03-15,Electronics,Surabaya,COD,Completed,3031674,1,3031674,2023-03,3,Q1
+ORD-2627,2023-07-15,Sports,Jakarta,Bank Transfer,Cancelled,617875,2,0,2023-07,7,Q3
+ORD-2628,2023-02-05,Home & Living,Bandung,COD,Completed,415024,2,830048,2023-02,2,Q1
+ORD-2629,2023-06-14,Beauty & Health,Jakarta,E-Wallet,Completed,240612,1,240612,2023-06,6,Q2
+ORD-2630,2023-10-03,Home & Living,Medan,Bank Transfer,Completed,825262,2,1650524,2023-10,10,Q4
+ORD-2631,2023-05-07,Electronics,Bandung,E-Wallet,Completed,3482255,4,13929020,2023-05,5,Q2
+ORD-2632,2023-08-31,Fashion,Jakarta,Bank Transfer,Completed,482838,2,965676,2023-08,8,Q3
+ORD-2633,2023-10-18,Fashion,Jakarta,COD,Completed,567341,3,1702023,2023-10,10,Q4
+ORD-2634,2023-12-05,Electronics,Jakarta,E-Wallet,Completed,1708944,4,6835776,2023-12,12,Q4
+ORD-2635,2023-03-27,Beauty & Health,Jakarta,Credit Card,Completed,227199,2,454398,2023-03,3,Q1
+ORD-2636,2023-05-26,Books & Stationery,Bandung,Bank Transfer,Returned,164105,1,0,2023-05,5,Q2
+ORD-2637,2023-02-25,Electronics,Yogyakarta,E-Wallet,Completed,2620877,3,7862631,2023-02,2,Q1
+ORD-2638,2023-12-29,Fashion,Jakarta,Credit Card,Completed,365849,1,365849,2023-12,12,Q4
+ORD-2639,2023-12-05,Electronics,Jakarta,Credit Card,Completed,1951973,1,1951973,2023-12,12,Q4
+ORD-2640,2023-07-17,Electronics,Bandung,Bank Transfer,Completed,3708540,3,11125620,2023-07,7,Q3
+ORD-2641,2023-11-04,Sports,Yogyakarta,Bank Transfer,Completed,899743,5,4498715,2023-11,11,Q4
+ORD-2642,2023-07-10,Fashion,Jakarta,Bank Transfer,Completed,342490,4,1369960,2023-07,7,Q3
+ORD-2643,2023-08-16,Fashion,Jakarta,Credit Card,Completed,488646,5,2443230,2023-08,8,Q3
+ORD-2644,2023-02-02,Home & Living,Bandung,Credit Card,Completed,363693,1,363693,2023-02,2,Q1
+ORD-2645,2023-10-03,Electronics,Jakarta,E-Wallet,Completed,1050507,3,3151521,2023-10,10,Q4
+ORD-2646,2023-02-16,Beauty & Health,Jakarta,Bank Transfer,Cancelled,216875,2,0,2023-02,2,Q1
+ORD-2647,2023-10-29,Fashion,Medan,Credit Card,Completed,326486,2,652972,2023-10,10,Q4
+ORD-2648,2023-10-13,Beauty & Health,Bandung,Bank Transfer,Completed,95953,1,95953,2023-10,10,Q4
+ORD-2649,2023-09-16,Books & Stationery,Bandung,E-Wallet,Completed,202310,4,809240,2023-09,9,Q3
+ORD-2650,2023-01-14,Home & Living,Medan,Credit Card,Completed,426435,2,852870,2023-01,1,Q1
+ORD-2651,2023-04-21,Fashion,Bandung,Credit Card,Completed,415209,3,1245627,2023-04,4,Q2
+ORD-2652,2023-04-07,Sports,Jakarta,Credit Card,Completed,272129,1,272129,2023-04,4,Q2
+ORD-2653,2023-05-12,Electronics,Surabaya,E-Wallet,Completed,1274990,3,3824970,2023-05,5,Q2
+ORD-2654,2023-02-01,Electronics,Jakarta,E-Wallet,Completed,3419081,1,3419081,2023-02,2,Q1
+ORD-2655,2023-12-08,Electronics,Jakarta,E-Wallet,Completed,2576062,2,5152124,2023-12,12,Q4
+ORD-2656,2023-07-22,Fashion,Bandung,E-Wallet,Returned,600142,3,0,2023-07,7,Q3
+ORD-2657,2023-04-22,Beauty & Health,Yogyakarta,E-Wallet,Completed,449550,2,899100,2023-04,4,Q2
+ORD-2658,2023-05-25,Beauty & Health,Makassar,Bank Transfer,Completed,223869,4,895476,2023-05,5,Q2
+ORD-2659,2023-06-13,Sports,Bandung,E-Wallet,Cancelled,460994,1,0,2023-06,6,Q2
+ORD-2660,2023-08-08,Beauty & Health,Jakarta,Credit Card,Completed,399008,4,1596032,2023-08,8,Q3
+ORD-2661,2023-07-08,Beauty & Health,Jakarta,E-Wallet,Completed,449500,2,899000,2023-07,7,Q3
+ORD-2662,2023-12-02,Electronics,Yogyakarta,E-Wallet,Completed,2638923,2,5277846,2023-12,12,Q4
+ORD-2663,2023-07-01,Electronics,Bandung,Bank Transfer,Completed,3135422,1,3135422,2023-07,7,Q3
+ORD-2664,2023-12-29,Beauty & Health,Bandung,Bank Transfer,Completed,371428,3,1114284,2023-12,12,Q4
+ORD-2665,2023-11-07,Fashion,Medan,Credit Card,Completed,302669,2,605338,2023-11,11,Q4
+ORD-2666,2023-03-18,Sports,Medan,E-Wallet,Completed,692387,4,2769548,2023-03,3,Q1
+ORD-2667,2023-12-06,Electronics,Yogyakarta,E-Wallet,Completed,3249170,5,16245850,2023-12,12,Q4
+ORD-2668,2023-02-12,Electronics,Jakarta,COD,Completed,2814341,2,5628682,2023-02,2,Q1
+ORD-2669,2023-10-26,Fashion,Medan,Bank Transfer,Cancelled,135581,2,0,2023-10,10,Q4
+ORD-2670,2023-05-19,Electronics,Yogyakarta,E-Wallet,Completed,1760117,1,1760117,2023-05,5,Q2
+ORD-2671,2023-11-17,Electronics,Jakarta,E-Wallet,Completed,1183427,2,2366854,2023-11,11,Q4
+ORD-2672,2023-11-13,Home & Living,Bandung,COD,Completed,338080,1,338080,2023-11,11,Q4
+ORD-2673,2023-10-22,Electronics,Jakarta,Bank Transfer,Completed,3466468,3,10399404,2023-10,10,Q4
+ORD-2674,2023-10-16,Beauty & Health,Makassar,Bank Transfer,Completed,103281,1,103281,2023-10,10,Q4
+ORD-2675,2023-04-22,Fashion,Jakarta,E-Wallet,Completed,234900,1,234900,2023-04,4,Q2
+ORD-2676,2023-01-30,Electronics,Bandung,E-Wallet,Returned,1678708,1,0,2023-01,1,Q1
+ORD-2677,2023-05-28,Fashion,Jakarta,COD,Completed,433442,2,866884,2023-05,5,Q2
+ORD-2678,2023-03-05,Sports,Medan,Credit Card,Completed,658645,2,1317290,2023-03,3,Q1
+ORD-2679,2023-09-11,Fashion,Jakarta,Credit Card,Completed,234134,3,702402,2023-09,9,Q3
+ORD-2680,2023-05-07,Home & Living,Jakarta,COD,Completed,289968,1,289968,2023-05,5,Q2
+ORD-2681,2023-12-23,Electronics,Surabaya,Bank Transfer,Completed,1460394,1,1460394,2023-12,12,Q4
+ORD-2682,2023-08-22,Home & Living,Semarang,E-Wallet,Completed,526770,4,2107080,2023-08,8,Q3
+ORD-2683,2023-10-28,Electronics,Jakarta,Bank Transfer,Cancelled,1563533,1,0,2023-10,10,Q4
+ORD-2684,2023-02-18,Home & Living,Jakarta,Credit Card,Completed,838321,1,838321,2023-02,2,Q1
+ORD-2685,2023-11-11,Beauty & Health,Medan,E-Wallet,Completed,256991,2,513982,2023-11,11,Q4
+ORD-2686,2023-12-03,Books & Stationery,Surabaya,E-Wallet,Completed,58671,4,234684,2023-12,12,Q4
+ORD-2687,2023-06-27,Fashion,Semarang,Bank Transfer,Completed,489633,1,489633,2023-06,6,Q2
+ORD-2688,2023-08-10,Electronics,Jakarta,Bank Transfer,Completed,1736535,5,8682675,2023-08,8,Q3
+ORD-2689,2023-10-07,Electronics,Bandung,COD,Cancelled,2710466,5,0,2023-10,10,Q4
+ORD-2690,2023-03-05,Sports,Jakarta,Credit Card,Returned,444859,1,0,2023-03,3,Q1
+ORD-2691,2023-07-03,Beauty & Health,Jakarta,COD,Completed,295467,2,590934,2023-07,7,Q3
+ORD-2692,2023-05-26,Home & Living,Medan,Credit Card,Completed,715506,1,715506,2023-05,5,Q2
+ORD-2693,2023-02-23,Electronics,Bandung,E-Wallet,Cancelled,3534026,4,0,2023-02,2,Q1
+ORD-2694,2023-05-15,Fashion,Medan,COD,Completed,255563,2,511126,2023-05,5,Q2
+ORD-2695,2023-01-25,Electronics,Jakarta,E-Wallet,Completed,1754570,4,7018280,2023-01,1,Q1
+ORD-2696,2023-01-10,Books & Stationery,Surabaya,Bank Transfer,Completed,135710,1,135710,2023-01,1,Q1
+ORD-2697,2023-02-19,Home & Living,Surabaya,E-Wallet,Completed,824022,2,1648044,2023-02,2,Q1
+ORD-2698,2023-12-18,Books & Stationery,Makassar,Bank Transfer,Completed,218763,5,1093815,2023-12,12,Q4
+ORD-2699,2023-07-20,Fashion,Jakarta,Credit Card,Cancelled,169939,3,0,2023-07,7,Q3
+ORD-2700,2023-12-19,Beauty & Health,Jakarta,COD,Cancelled,137494,1,0,2023-12,12,Q4
+ORD-2701,2023-06-07,Home & Living,Surabaya,E-Wallet,Completed,521856,1,521856,2023-06,6,Q2
+ORD-2702,2023-04-24,Fashion,Bandung,E-Wallet,Completed,178309,4,713236,2023-04,4,Q2
+ORD-2703,2023-07-04,Sports,Jakarta,Bank Transfer,Cancelled,500287,4,0,2023-07,7,Q3
+ORD-2704,2023-06-10,Books & Stationery,Semarang,Credit Card,Completed,75693,2,151386,2023-06,6,Q2
+ORD-2705,2023-02-08,Sports,Jakarta,Credit Card,Completed,744273,1,744273,2023-02,2,Q1
+ORD-2706,2023-08-22,Home & Living,Semarang,E-Wallet,Completed,839646,1,839646,2023-08,8,Q3
+ORD-2707,2023-03-20,Fashion,Jakarta,E-Wallet,Completed,623366,1,623366,2023-03,3,Q1
+ORD-2708,2023-08-15,Fashion,Bandung,Bank Transfer,Completed,312620,4,1250480,2023-08,8,Q3
+ORD-2709,2023-08-26,Books & Stationery,Semarang,COD,Completed,161312,3,483936,2023-08,8,Q3
+ORD-2710,2023-02-25,Electronics,Jakarta,Credit Card,Completed,3318802,4,13275208,2023-02,2,Q1
+ORD-2711,2023-01-23,Home & Living,Makassar,Bank Transfer,Cancelled,257223,3,0,2023-01,1,Q1
+ORD-2712,2023-10-12,Home & Living,Surabaya,Credit Card,Completed,657695,4,2630780,2023-10,10,Q4
+ORD-2713,2023-06-17,Beauty & Health,Semarang,Bank Transfer,Completed,237183,4,948732,2023-06,6,Q2
+ORD-2714,2023-01-22,Books & Stationery,Bandung,Credit Card,Completed,86667,1,86667,2023-01,1,Q1
+ORD-2715,2023-12-30,Fashion,Jakarta,COD,Completed,326376,3,979128,2023-12,12,Q4
+ORD-2716,2023-01-22,Fashion,Jakarta,Credit Card,Completed,162980,1,162980,2023-01,1,Q1
+ORD-2717,2023-09-11,Electronics,Jakarta,COD,Completed,2836221,1,2836221,2023-09,9,Q3
+ORD-2718,2023-12-26,Fashion,Jakarta,Bank Transfer,Completed,251371,4,1005484,2023-12,12,Q4
+ORD-2719,2023-03-29,Fashion,Jakarta,COD,Completed,280702,1,280702,2023-03,3,Q1
+ORD-2720,2023-02-21,Fashion,Jakarta,E-Wallet,Completed,185540,3,556620,2023-02,2,Q1
+ORD-2721,2023-02-14,Sports,Surabaya,COD,Completed,936313,2,1872626,2023-02,2,Q1
+ORD-2722,2023-04-21,Books & Stationery,Medan,Credit Card,Completed,141254,5,706270,2023-04,4,Q2
+ORD-2723,2023-02-06,Electronics,Jakarta,E-Wallet,Completed,2466440,2,4932880,2023-02,2,Q1
+ORD-2724,2023-09-10,Fashion,Jakarta,COD,Completed,409716,2,819432,2023-09,9,Q3
+ORD-2725,2023-01-23,Books & Stationery,Bandung,Credit Card,Returned,125493,1,0,2023-01,1,Q1
+ORD-2726,2023-07-05,Electronics,Jakarta,Credit Card,Cancelled,1327589,1,0,2023-07,7,Q3
+ORD-2727,2023-12-30,Electronics,Jakarta,Bank Transfer,Completed,2985398,1,2985398,2023-12,12,Q4
+ORD-2728,2023-10-25,Electronics,Jakarta,COD,Completed,1131168,5,5655840,2023-10,10,Q4
+ORD-2729,2023-08-13,Beauty & Health,Semarang,Bank Transfer,Completed,127394,5,636970,2023-08,8,Q3
+ORD-2730,2023-04-22,Electronics,Yogyakarta,Bank Transfer,Completed,2880435,2,5760870,2023-04,4,Q2
+ORD-2731,2023-08-16,Books & Stationery,Surabaya,Credit Card,Completed,87179,5,435895,2023-08,8,Q3
+ORD-2732,2023-07-12,Fashion,Bandung,Credit Card,Completed,278386,2,556772,2023-07,7,Q3
+ORD-2733,2023-06-05,Beauty & Health,Bandung,E-Wallet,Cancelled,261081,2,0,2023-06,6,Q2
+ORD-2734,2023-02-17,Electronics,Bandung,Credit Card,Completed,2098053,1,2098053,2023-02,2,Q1
+ORD-2735,2023-11-20,Beauty & Health,Medan,E-Wallet,Completed,345088,2,690176,2023-11,11,Q4
+ORD-2736,2023-06-14,Home & Living,Bandung,COD,Completed,611402,1,611402,2023-06,6,Q2
+ORD-2737,2023-03-13,Home & Living,Jakarta,Credit Card,Completed,626077,4,2504308,2023-03,3,Q1
+ORD-2738,2023-05-15,Home & Living,Jakarta,E-Wallet,Completed,674838,4,2699352,2023-05,5,Q2
+ORD-2739,2023-06-01,Beauty & Health,Surabaya,Credit Card,Completed,195340,1,195340,2023-06,6,Q2
+ORD-2740,2023-10-30,Sports,Semarang,E-Wallet,Completed,480759,3,1442277,2023-10,10,Q4
+ORD-2741,2023-09-25,Sports,Bandung,Credit Card,Completed,577918,1,577918,2023-09,9,Q3
+ORD-2742,2023-10-08,Home & Living,Yogyakarta,E-Wallet,Cancelled,390223,1,0,2023-10,10,Q4
+ORD-2743,2023-01-05,Electronics,Makassar,Bank Transfer,Completed,3704813,1,3704813,2023-01,1,Q1
+ORD-2744,2023-06-01,Electronics,Jakarta,Bank Transfer,Completed,3192155,1,3192155,2023-06,6,Q2
+ORD-2745,2023-06-25,Electronics,Medan,E-Wallet,Completed,1243964,1,1243964,2023-06,6,Q2
+ORD-2746,2023-01-08,Home & Living,Bandung,Credit Card,Cancelled,178915,1,0,2023-01,1,Q1
+ORD-2747,2023-04-05,Fashion,Makassar,E-Wallet,Completed,146391,2,292782,2023-04,4,Q2
+ORD-2748,2023-10-05,Fashion,Makassar,Bank Transfer,Completed,247031,2,494062,2023-10,10,Q4
+ORD-2749,2023-02-20,Sports,Medan,E-Wallet,Returned,306004,1,0,2023-02,2,Q1
+ORD-2750,2023-07-15,Sports,Jakarta,Credit Card,Completed,658004,4,2632016,2023-07,7,Q3
+ORD-2751,2023-03-20,Sports,Medan,E-Wallet,Completed,930715,2,1861430,2023-03,3,Q1
+ORD-2752,2023-01-05,Fashion,Jakarta,Credit Card,Completed,493375,1,493375,2023-01,1,Q1
+ORD-2753,2023-03-30,Home & Living,Medan,Bank Transfer,Completed,325926,2,651852,2023-03,3,Q1
+ORD-2754,2023-12-23,Fashion,Semarang,Credit Card,Completed,324649,2,649298,2023-12,12,Q4
+ORD-2755,2023-10-20,Electronics,Surabaya,E-Wallet,Completed,2273682,1,2273682,2023-10,10,Q4
+ORD-2756,2023-12-17,Electronics,Bandung,Credit Card,Completed,3180617,4,12722468,2023-12,12,Q4
+ORD-2757,2023-06-28,Fashion,Surabaya,COD,Returned,544560,1,0,2023-06,6,Q2
+ORD-2758,2023-02-10,Fashion,Surabaya,COD,Completed,579859,1,579859,2023-02,2,Q1
+ORD-2759,2023-07-20,Sports,Jakarta,Credit Card,Completed,637766,5,3188830,2023-07,7,Q3
+ORD-2760,2023-06-15,Electronics,Medan,E-Wallet,Returned,2832824,2,0,2023-06,6,Q2
+ORD-2761,2023-11-05,Home & Living,Semarang,Credit Card,Completed,253260,5,1266300,2023-11,11,Q4
+ORD-2762,2023-02-05,Beauty & Health,Semarang,Bank Transfer,Returned,293504,1,0,2023-02,2,Q1
+ORD-2763,2023-06-28,Fashion,Jakarta,E-Wallet,Returned,249345,3,0,2023-06,6,Q2
+ORD-2764,2023-02-24,Beauty & Health,Yogyakarta,E-Wallet,Cancelled,245418,1,0,2023-02,2,Q1
+ORD-2765,2023-04-29,Fashion,Medan,E-Wallet,Completed,442025,4,1768100,2023-04,4,Q2
+ORD-2766,2023-09-27,Beauty & Health,Jakarta,Credit Card,Completed,182514,2,365028,2023-09,9,Q3
+ORD-2767,2023-06-23,Fashion,Jakarta,Bank Transfer,Completed,151092,1,151092,2023-06,6,Q2
+ORD-2768,2023-05-18,Electronics,Jakarta,Credit Card,Returned,780701,1,0,2023-05,5,Q2
+ORD-2769,2023-05-24,Electronics,Semarang,E-Wallet,Completed,816478,1,816478,2023-05,5,Q2
+ORD-2770,2023-06-17,Beauty & Health,Bandung,Bank Transfer,Completed,93005,1,93005,2023-06,6,Q2
+ORD-2771,2023-10-14,Sports,Medan,E-Wallet,Completed,302698,4,1210792,2023-10,10,Q4
+ORD-2772,2023-11-22,Fashion,Jakarta,Credit Card,Completed,244744,1,244744,2023-11,11,Q4
+ORD-2773,2023-12-15,Home & Living,Medan,Bank Transfer,Completed,329855,1,329855,2023-12,12,Q4
+ORD-2774,2023-10-15,Home & Living,Jakarta,Bank Transfer,Cancelled,865757,4,0,2023-10,10,Q4
+ORD-2775,2023-04-26,Books & Stationery,Surabaya,Credit Card,Completed,105641,1,105641,2023-04,4,Q2
+ORD-2776,2023-09-09,Sports,Bandung,Bank Transfer,Completed,317033,5,1585165,2023-09,9,Q3
+ORD-2777,2023-06-09,Beauty & Health,Jakarta,E-Wallet,Returned,286402,3,0,2023-06,6,Q2
+ORD-2778,2023-04-03,Home & Living,Yogyakarta,COD,Completed,775570,1,775570,2023-04,4,Q2
+ORD-2779,2023-11-03,Sports,Jakarta,Bank Transfer,Completed,779570,1,779570,2023-11,11,Q4
+ORD-2780,2023-01-15,Fashion,Bandung,Bank Transfer,Completed,273041,1,273041,2023-01,1,Q1
+ORD-2781,2023-11-26,Fashion,Surabaya,Credit Card,Completed,405808,1,405808,2023-11,11,Q4
+ORD-2782,2023-06-18,Electronics,Bandung,COD,Completed,2894567,1,2894567,2023-06,6,Q2
+ORD-2783,2023-08-21,Sports,Jakarta,Credit Card,Returned,821607,1,0,2023-08,8,Q3
+ORD-2784,2023-08-29,Sports,Jakarta,COD,Completed,769892,4,3079568,2023-08,8,Q3
+ORD-2785,2023-11-23,Electronics,Semarang,Bank Transfer,Completed,3362431,2,6724862,2023-11,11,Q4
+ORD-2786,2023-08-21,Beauty & Health,Jakarta,Bank Transfer,Completed,403237,3,1209711,2023-08,8,Q3
+ORD-2787,2023-08-13,Fashion,Yogyakarta,COD,Completed,414468,5,2072340,2023-08,8,Q3
+ORD-2788,2023-01-25,Electronics,Makassar,Credit Card,Completed,2039569,2,4079138,2023-01,1,Q1
+ORD-2789,2023-07-09,Books & Stationery,Jakarta,E-Wallet,Completed,169398,1,169398,2023-07,7,Q3
+ORD-2790,2023-02-24,Electronics,Jakarta,Bank Transfer,Completed,3204636,1,3204636,2023-02,2,Q1
+ORD-2791,2023-09-27,Electronics,Bandung,Credit Card,Completed,766956,2,1533912,2023-09,9,Q3
+ORD-2792,2023-07-06,Beauty & Health,Makassar,Bank Transfer,Completed,447118,1,447118,2023-07,7,Q3
+ORD-2793,2023-09-06,Home & Living,Semarang,E-Wallet,Completed,303025,1,303025,2023-09,9,Q3
+ORD-2794,2023-01-16,Electronics,Surabaya,E-Wallet,Completed,2160746,2,4321492,2023-01,1,Q1
+ORD-2795,2023-01-31,Home & Living,Medan,Credit Card,Completed,785420,1,785420,2023-01,1,Q1
+ORD-2796,2023-09-19,Beauty & Health,Jakarta,COD,Returned,171014,4,0,2023-09,9,Q3
+ORD-2797,2023-01-27,Electronics,Makassar,Credit Card,Completed,2180385,2,4360770,2023-01,1,Q1
+ORD-2798,2023-01-27,Electronics,Makassar,Credit Card,Completed,1147746,1,1147746,2023-01,1,Q1
+ORD-2799,2023-01-05,Beauty & Health,Jakarta,Credit Card,Returned,232227,2,0,2023-01,1,Q1
+ORD-2800,2023-12-16,Fashion,Jakarta,Credit Card,Cancelled,213567,2,0,2023-12,12,Q4
+ORD-2801,2023-09-27,Books & Stationery,Jakarta,Credit Card,Completed,116589,4,466356,2023-09,9,Q3
+ORD-2802,2023-05-09,Sports,Jakarta,COD,Completed,523709,4,2094836,2023-05,5,Q2
+ORD-2803,2023-04-19,Books & Stationery,Yogyakarta,Bank Transfer,Completed,236202,3,708606,2023-04,4,Q2
+ORD-2804,2023-05-08,Fashion,Surabaya,Credit Card,Completed,622406,4,2489624,2023-05,5,Q2
+ORD-2805,2023-10-10,Books & Stationery,Jakarta,Credit Card,Cancelled,69309,1,0,2023-10,10,Q4
+ORD-2806,2023-08-30,Fashion,Jakarta,E-Wallet,Completed,487984,5,2439920,2023-08,8,Q3
+ORD-2807,2023-03-09,Fashion,Makassar,COD,Completed,150872,1,150872,2023-03,3,Q1
+ORD-2808,2023-03-05,Electronics,Bandung,Credit Card,Returned,840576,2,0,2023-03,3,Q1
+ORD-2809,2023-02-05,Electronics,Surabaya,Credit Card,Completed,1066001,4,4264004,2023-02,2,Q1
+ORD-2810,2023-08-30,Home & Living,Jakarta,Credit Card,Completed,850839,2,1701678,2023-08,8,Q3
+ORD-2811,2023-10-06,Fashion,Makassar,Credit Card,Cancelled,595431,1,0,2023-10,10,Q4
+ORD-2812,2023-04-07,Electronics,Yogyakarta,Credit Card,Completed,1331783,5,6658915,2023-04,4,Q2
+ORD-2813,2023-01-08,Beauty & Health,Jakarta,Bank Transfer,Completed,148202,1,148202,2023-01,1,Q1
+ORD-2814,2023-01-30,Fashion,Jakarta,Credit Card,Returned,245267,1,0,2023-01,1,Q1
+ORD-2815,2023-12-20,Beauty & Health,Jakarta,Bank Transfer,Completed,275596,1,275596,2023-12,12,Q4
+ORD-2816,2023-04-18,Fashion,Jakarta,Credit Card,Completed,409852,5,2049260,2023-04,4,Q2
+ORD-2817,2023-10-08,Sports,Bandung,COD,Completed,396138,5,1980690,2023-10,10,Q4
+ORD-2818,2023-08-17,Sports,Semarang,COD,Completed,845563,3,2536689,2023-08,8,Q3
+ORD-2819,2023-05-20,Beauty & Health,Surabaya,E-Wallet,Completed,201439,2,402878,2023-05,5,Q2
+ORD-2820,2023-03-17,Fashion,Yogyakarta,Bank Transfer,Completed,586065,1,586065,2023-03,3,Q1
+ORD-2821,2023-02-14,Fashion,Surabaya,Bank Transfer,Completed,453361,5,2266805,2023-02,2,Q1
+ORD-2822,2023-08-13,Sports,Medan,Bank Transfer,Completed,576535,2,1153070,2023-08,8,Q3
+ORD-2823,2023-10-10,Fashion,Medan,E-Wallet,Completed,519956,1,519956,2023-10,10,Q4
+ORD-2824,2023-08-24,Electronics,Jakarta,Bank Transfer,Completed,3203743,1,3203743,2023-08,8,Q3
+ORD-2825,2023-07-13,Electronics,Surabaya,COD,Cancelled,1621444,5,0,2023-07,7,Q3
+ORD-2826,2023-01-16,Fashion,Bandung,COD,Completed,294857,1,294857,2023-01,1,Q1
+ORD-2827,2023-12-20,Beauty & Health,Jakarta,Bank Transfer,Completed,426943,1,426943,2023-12,12,Q4
+ORD-2828,2023-10-19,Sports,Surabaya,E-Wallet,Completed,348382,3,1045146,2023-10,10,Q4
+ORD-2829,2023-04-17,Electronics,Bandung,Credit Card,Completed,876451,1,876451,2023-04,4,Q2
+ORD-2830,2023-12-24,Fashion,Makassar,Credit Card,Completed,352027,1,352027,2023-12,12,Q4
+ORD-2831,2023-08-08,Sports,Surabaya,Bank Transfer,Cancelled,883016,1,0,2023-08,8,Q3
+ORD-2832,2023-08-01,Sports,Yogyakarta,Credit Card,Completed,858201,2,1716402,2023-08,8,Q3
+ORD-2833,2023-10-01,Fashion,Surabaya,COD,Returned,584765,4,0,2023-10,10,Q4
+ORD-2834,2023-10-24,Fashion,Medan,Credit Card,Completed,391600,1,391600,2023-10,10,Q4
+ORD-2835,2023-08-28,Fashion,Bandung,Bank Transfer,Completed,175032,1,175032,2023-08,8,Q3
+ORD-2836,2023-02-16,Books & Stationery,Semarang,E-Wallet,Cancelled,159350,3,0,2023-02,2,Q1
+ORD-2837,2023-05-04,Electronics,Surabaya,E-Wallet,Completed,3085186,3,9255558,2023-05,5,Q2
+ORD-2838,2023-12-05,Books & Stationery,Bandung,Bank Transfer,Completed,65232,4,260928,2023-12,12,Q4
+ORD-2839,2023-03-23,Home & Living,Bandung,COD,Cancelled,295860,2,0,2023-03,3,Q1
+ORD-2840,2023-05-16,Beauty & Health,Surabaya,E-Wallet,Cancelled,94424,4,0,2023-05,5,Q2
+ORD-2841,2023-06-07,Electronics,Jakarta,Bank Transfer,Returned,2530957,2,0,2023-06,6,Q2
+ORD-2842,2023-06-10,Beauty & Health,Jakarta,Credit Card,Completed,409224,3,1227672,2023-06,6,Q2
+ORD-2843,2023-08-12,Fashion,Jakarta,Bank Transfer,Completed,460331,2,920662,2023-08,8,Q3
+ORD-2844,2023-12-11,Electronics,Yogyakarta,E-Wallet,Completed,3696120,3,11088360,2023-12,12,Q4
+ORD-2845,2023-03-29,Home & Living,Jakarta,E-Wallet,Completed,219123,2,438246,2023-03,3,Q1
+ORD-2846,2023-02-14,Books & Stationery,Jakarta,COD,Cancelled,219070,1,0,2023-02,2,Q1
+ORD-2847,2023-03-14,Beauty & Health,Medan,Bank Transfer,Completed,383064,3,1149192,2023-03,3,Q1
+ORD-2848,2023-11-20,Home & Living,Jakarta,Credit Card,Completed,394969,4,1579876,2023-11,11,Q4
+ORD-2849,2023-08-24,Electronics,Surabaya,Credit Card,Completed,3670579,2,7341158,2023-08,8,Q3
+ORD-2850,2023-04-15,Fashion,Jakarta,Bank Transfer,Completed,268968,2,537936,2023-04,4,Q2
+ORD-2851,2023-10-25,Electronics,Makassar,E-Wallet,Returned,3417914,3,0,2023-10,10,Q4
+ORD-2852,2023-11-11,Beauty & Health,Yogyakarta,E-Wallet,Completed,407069,1,407069,2023-11,11,Q4
+ORD-2853,2023-11-05,Books & Stationery,Yogyakarta,Credit Card,Completed,191454,5,957270,2023-11,11,Q4
+ORD-2854,2023-12-02,Home & Living,Surabaya,Bank Transfer,Cancelled,569429,2,0,2023-12,12,Q4
+ORD-2855,2023-04-03,Electronics,Medan,Bank Transfer,Completed,1110008,4,4440032,2023-04,4,Q2
+ORD-2856,2023-10-03,Fashion,Jakarta,Bank Transfer,Completed,390985,1,390985,2023-10,10,Q4
+ORD-2857,2023-06-18,Beauty & Health,Jakarta,Credit Card,Completed,218446,2,436892,2023-06,6,Q2
+ORD-2858,2023-11-04,Fashion,Jakarta,Credit Card,Completed,521108,5,2605540,2023-11,11,Q4
+ORD-2859,2023-09-23,Sports,Bandung,Credit Card,Completed,846828,1,846828,2023-09,9,Q3
+ORD-2860,2023-10-11,Sports,Surabaya,Credit Card,Cancelled,974914,1,0,2023-10,10,Q4
+ORD-2861,2023-08-28,Beauty & Health,Surabaya,Credit Card,Completed,95338,3,286014,2023-08,8,Q3
+ORD-2862,2023-03-06,Fashion,Jakarta,Credit Card,Returned,529551,5,0,2023-03,3,Q1
+ORD-2863,2023-07-18,Fashion,Surabaya,E-Wallet,Cancelled,594231,4,0,2023-07,7,Q3
+ORD-2864,2023-12-26,Electronics,Medan,Bank Transfer,Completed,3117901,4,12471604,2023-12,12,Q4
+ORD-2865,2023-12-09,Fashion,Surabaya,COD,Completed,190097,2,380194,2023-12,12,Q4
+ORD-2866,2023-01-16,Fashion,Medan,Credit Card,Completed,165639,1,165639,2023-01,1,Q1
+ORD-2867,2023-03-02,Home & Living,Jakarta,Bank Transfer,Completed,189591,1,189591,2023-03,3,Q1
+ORD-2868,2023-02-18,Home & Living,Yogyakarta,Bank Transfer,Cancelled,615121,5,0,2023-02,2,Q1
+ORD-2869,2023-09-22,Electronics,Bandung,Credit Card,Completed,2639017,2,5278034,2023-09,9,Q3
+ORD-2870,2023-10-26,Fashion,Jakarta,COD,Completed,618456,3,1855368,2023-10,10,Q4
+ORD-2871,2023-03-19,Electronics,Jakarta,Credit Card,Completed,1944129,5,9720645,2023-03,3,Q1
+ORD-2872,2023-07-04,Electronics,Bandung,COD,Completed,1745718,1,1745718,2023-07,7,Q3
+ORD-2873,2023-11-03,Sports,Yogyakarta,COD,Completed,734516,2,1469032,2023-11,11,Q4
+ORD-2874,2023-09-25,Electronics,Surabaya,Bank Transfer,Completed,3226826,3,9680478,2023-09,9,Q3
+ORD-2875,2023-07-17,Fashion,Jakarta,Bank Transfer,Completed,593386,2,1186772,2023-07,7,Q3
+ORD-2876,2023-08-04,Electronics,Yogyakarta,E-Wallet,Completed,3159372,1,3159372,2023-08,8,Q3
+ORD-2877,2023-07-05,Sports,Bandung,Bank Transfer,Completed,568406,5,2842030,2023-07,7,Q3
+ORD-2878,2023-04-19,Beauty & Health,Surabaya,E-Wallet,Completed,318569,2,637138,2023-04,4,Q2
+ORD-2879,2023-07-26,Electronics,Surabaya,Credit Card,Completed,3318897,3,9956691,2023-07,7,Q3
+ORD-2880,2023-09-09,Beauty & Health,Jakarta,Credit Card,Completed,266619,2,533238,2023-09,9,Q3
+ORD-2881,2023-11-15,Home & Living,Bandung,Bank Transfer,Completed,326680,1,326680,2023-11,11,Q4
+ORD-2882,2023-08-21,Books & Stationery,Surabaya,Bank Transfer,Completed,79747,4,318988,2023-08,8,Q3
+ORD-2883,2023-10-05,Electronics,Makassar,COD,Returned,750473,2,0,2023-10,10,Q4
+ORD-2884,2023-02-28,Sports,Surabaya,Credit Card,Completed,813319,1,813319,2023-02,2,Q1
+ORD-2885,2023-06-18,Books & Stationery,Surabaya,E-Wallet,Completed,68608,1,68608,2023-06,6,Q2
+ORD-2886,2023-01-04,Sports,Bandung,Credit Card,Cancelled,414824,3,0,2023-01,1,Q1
+ORD-2887,2023-04-01,Beauty & Health,Semarang,Bank Transfer,Cancelled,197235,2,0,2023-04,4,Q2
+ORD-2888,2023-09-23,Beauty & Health,Yogyakarta,Bank Transfer,Completed,291736,4,1166944,2023-09,9,Q3
+ORD-2889,2023-12-29,Fashion,Surabaya,Bank Transfer,Completed,323978,2,647956,2023-12,12,Q4
+ORD-2890,2023-02-06,Home & Living,Medan,Credit Card,Completed,647271,1,647271,2023-02,2,Q1
+ORD-2891,2023-05-27,Beauty & Health,Bandung,Bank Transfer,Completed,110029,1,110029,2023-05,5,Q2
+ORD-2892,2023-10-20,Home & Living,Surabaya,E-Wallet,Cancelled,261757,2,0,2023-10,10,Q4
+ORD-2893,2023-03-16,Fashion,Jakarta,Bank Transfer,Completed,374605,1,374605,2023-03,3,Q1
+ORD-2894,2023-07-22,Home & Living,Surabaya,Bank Transfer,Completed,410875,2,821750,2023-07,7,Q3
+ORD-2895,2023-09-25,Sports,Jakarta,COD,Completed,458483,2,916966,2023-09,9,Q3
+ORD-2896,2023-08-13,Electronics,Semarang,E-Wallet,Completed,951084,2,1902168,2023-08,8,Q3
+ORD-2897,2023-03-10,Sports,Jakarta,Bank Transfer,Completed,962404,5,4812020,2023-03,3,Q1
+ORD-2898,2023-05-10,Beauty & Health,Makassar,Credit Card,Cancelled,339054,1,0,2023-05,5,Q2
+ORD-2899,2023-10-14,Sports,Bandung,COD,Completed,312159,2,624318,2023-10,10,Q4
+ORD-2900,2023-07-22,Fashion,Bandung,E-Wallet,Completed,157522,2,315044,2023-07,7,Q3
+ORD-2901,2023-01-02,Fashion,Bandung,Credit Card,Completed,612436,3,1837308,2023-01,1,Q1
+ORD-2902,2023-10-05,Sports,Jakarta,Credit Card,Completed,782184,3,2346552,2023-10,10,Q4
+ORD-2903,2023-01-13,Fashion,Surabaya,E-Wallet,Completed,333728,5,1668640,2023-01,1,Q1
+ORD-2904,2023-09-30,Sports,Jakarta,Credit Card,Cancelled,799454,2,0,2023-09,9,Q3
+ORD-2905,2023-03-15,Beauty & Health,Bandung,COD,Completed,362279,2,724558,2023-03,3,Q1
+ORD-2906,2023-12-16,Beauty & Health,Surabaya,Credit Card,Cancelled,370786,2,0,2023-12,12,Q4
+ORD-2907,2023-05-15,Fashion,Medan,E-Wallet,Completed,363938,1,363938,2023-05,5,Q2
+ORD-2908,2023-04-30,Beauty & Health,Jakarta,Bank Transfer,Completed,244757,1,244757,2023-04,4,Q2
+ORD-2909,2023-02-24,Fashion,Jakarta,Bank Transfer,Completed,130514,4,522056,2023-02,2,Q1
+ORD-2910,2023-04-22,Electronics,Surabaya,COD,Completed,3529671,1,3529671,2023-04,4,Q2
+ORD-2911,2023-11-16,Fashion,Semarang,Bank Transfer,Cancelled,426653,4,0,2023-11,11,Q4
+ORD-2912,2023-12-30,Electronics,Medan,Bank Transfer,Completed,1359461,5,6797305,2023-12,12,Q4
+ORD-2913,2023-05-15,Books & Stationery,Surabaya,Credit Card,Completed,222224,1,222224,2023-05,5,Q2
+ORD-2914,2023-06-13,Books & Stationery,Surabaya,Credit Card,Completed,221337,1,221337,2023-06,6,Q2
+ORD-2915,2023-09-21,Fashion,Jakarta,Credit Card,Returned,619592,4,0,2023-09,9,Q3
+ORD-2916,2023-11-20,Home & Living,Makassar,E-Wallet,Completed,786839,2,1573678,2023-11,11,Q4
+ORD-2917,2023-08-05,Fashion,Bandung,Credit Card,Completed,623892,3,1871676,2023-08,8,Q3
+ORD-2918,2023-05-23,Home & Living,Jakarta,Credit Card,Completed,346280,1,346280,2023-05,5,Q2
+ORD-2919,2023-05-31,Sports,Bandung,Bank Transfer,Completed,917489,4,3669956,2023-05,5,Q2
+ORD-2920,2023-09-11,Books & Stationery,Jakarta,E-Wallet,Completed,203875,5,1019375,2023-09,9,Q3
+ORD-2921,2023-01-02,Fashion,Makassar,E-Wallet,Cancelled,240470,2,0,2023-01,1,Q1
+ORD-2922,2023-08-15,Home & Living,Jakarta,Credit Card,Completed,243906,5,1219530,2023-08,8,Q3
+ORD-2923,2023-05-10,Fashion,Bandung,Credit Card,Completed,614710,5,3073550,2023-05,5,Q2
+ORD-2924,2023-10-17,Books & Stationery,Jakarta,COD,Completed,103744,5,518720,2023-10,10,Q4
+ORD-2925,2023-02-03,Electronics,Medan,Credit Card,Completed,3362675,2,6725350,2023-02,2,Q1
+ORD-2926,2023-08-03,Beauty & Health,Medan,COD,Completed,91485,1,91485,2023-08,8,Q3
+ORD-2927,2023-06-25,Home & Living,Bandung,COD,Returned,189717,2,0,2023-06,6,Q2
+ORD-2928,2023-08-23,Home & Living,Bandung,E-Wallet,Cancelled,501109,3,0,2023-08,8,Q3
+ORD-2929,2023-01-24,Electronics,Semarang,Credit Card,Cancelled,1466144,1,0,2023-01,1,Q1
+ORD-2930,2023-07-31,Books & Stationery,Jakarta,E-Wallet,Cancelled,178569,4,0,2023-07,7,Q3
+ORD-2931,2023-07-24,Electronics,Jakarta,E-Wallet,Completed,2446692,4,9786768,2023-07,7,Q3
+ORD-2932,2023-07-24,Beauty & Health,Jakarta,E-Wallet,Completed,117894,3,353682,2023-07,7,Q3
+ORD-2933,2023-08-09,Electronics,Makassar,Bank Transfer,Completed,1237884,4,4951536,2023-08,8,Q3
+ORD-2934,2023-09-04,Fashion,Surabaya,Credit Card,Completed,319024,1,319024,2023-09,9,Q3
+ORD-2935,2023-10-21,Beauty & Health,Medan,Credit Card,Completed,156817,3,470451,2023-10,10,Q4
+ORD-2936,2023-04-09,Fashion,Medan,Bank Transfer,Completed,521111,2,1042222,2023-04,4,Q2
+ORD-2937,2023-10-29,Electronics,Jakarta,E-Wallet,Completed,1998210,4,7992840,2023-10,10,Q4
+ORD-2938,2023-07-01,Electronics,Jakarta,Bank Transfer,Cancelled,1030295,4,0,2023-07,7,Q3
+ORD-2939,2023-01-29,Fashion,Jakarta,Bank Transfer,Completed,367171,1,367171,2023-01,1,Q1
+ORD-2940,2023-01-22,Home & Living,Surabaya,Bank Transfer,Returned,238586,1,0,2023-01,1,Q1
+ORD-2941,2023-05-02,Sports,Jakarta,E-Wallet,Completed,318307,1,318307,2023-05,5,Q2
+ORD-2942,2023-10-14,Electronics,Jakarta,COD,Completed,1468829,3,4406487,2023-10,10,Q4
+ORD-2943,2023-09-16,Fashion,Yogyakarta,Credit Card,Completed,554763,2,1109526,2023-09,9,Q3
+ORD-2944,2023-10-15,Electronics,Makassar,Bank Transfer,Completed,3523837,3,10571511,2023-10,10,Q4
+ORD-2945,2023-07-08,Electronics,Jakarta,Credit Card,Completed,3228773,5,16143865,2023-07,7,Q3
+ORD-2946,2023-06-10,Home & Living,Jakarta,E-Wallet,Completed,408854,2,817708,2023-06,6,Q2
+ORD-2947,2023-02-23,Beauty & Health,Jakarta,E-Wallet,Completed,188080,2,376160,2023-02,2,Q1
+ORD-2948,2023-04-30,Electronics,Medan,COD,Completed,2397467,2,4794934,2023-04,4,Q2
+ORD-2949,2023-06-08,Electronics,Yogyakarta,Credit Card,Completed,2915559,5,14577795,2023-06,6,Q2
+ORD-2950,2023-02-02,Electronics,Jakarta,COD,Completed,3730118,3,11190354,2023-02,2,Q1
+ORD-2951,2023-03-22,Sports,Jakarta,Credit Card,Completed,320519,3,961557,2023-03,3,Q1
+ORD-2952,2023-08-07,Books & Stationery,Medan,E-Wallet,Completed,56865,1,56865,2023-08,8,Q3
+ORD-2953,2023-09-26,Electronics,Bandung,Credit Card,Completed,2833067,2,5666134,2023-09,9,Q3
+ORD-2954,2023-12-31,Electronics,Jakarta,COD,Completed,3246677,1,3246677,2023-12,12,Q4
+ORD-2955,2023-12-07,Sports,Bandung,Bank Transfer,Completed,920932,2,1841864,2023-12,12,Q4
+ORD-2956,2023-08-23,Books & Stationery,Jakarta,E-Wallet,Completed,176408,1,176408,2023-08,8,Q3
+ORD-2957,2023-06-03,Fashion,Surabaya,COD,Completed,602007,1,602007,2023-06,6,Q2
+ORD-2958,2023-08-21,Electronics,Medan,Credit Card,Completed,2283014,3,6849042,2023-08,8,Q3
+ORD-2959,2023-10-14,Electronics,Yogyakarta,Credit Card,Completed,3491444,4,13965776,2023-10,10,Q4
+ORD-2960,2023-02-13,Beauty & Health,Surabaya,COD,Completed,438412,1,438412,2023-02,2,Q1
+ORD-2961,2023-05-30,Fashion,Semarang,Bank Transfer,Completed,548578,1,548578,2023-05,5,Q2
+ORD-2962,2023-11-03,Electronics,Surabaya,Credit Card,Completed,1679275,2,3358550,2023-11,11,Q4
+ORD-2963,2023-05-21,Beauty & Health,Medan,Bank Transfer,Completed,160637,4,642548,2023-05,5,Q2
+ORD-2964,2023-07-28,Electronics,Surabaya,E-Wallet,Completed,2394360,3,7183080,2023-07,7,Q3
+ORD-2965,2023-08-03,Home & Living,Semarang,Credit Card,Completed,492110,1,492110,2023-08,8,Q3
+ORD-2966,2023-03-09,Fashion,Semarang,Credit Card,Completed,563879,5,2819395,2023-03,3,Q1
+ORD-2967,2023-05-13,Electronics,Jakarta,Credit Card,Completed,1050095,3,3150285,2023-05,5,Q2
+ORD-2968,2023-05-03,Beauty & Health,Semarang,Bank Transfer,Completed,182786,1,182786,2023-05,5,Q2
+ORD-2969,2023-01-10,Fashion,Yogyakarta,COD,Completed,500899,4,2003596,2023-01,1,Q1
+ORD-2970,2023-01-09,Books & Stationery,Medan,COD,Completed,65547,3,196641,2023-01,1,Q1
+ORD-2971,2023-10-31,Beauty & Health,Jakarta,E-Wallet,Returned,205475,4,0,2023-10,10,Q4
+ORD-2972,2023-04-10,Fashion,Yogyakarta,Credit Card,Returned,318577,2,0,2023-04,4,Q2
+ORD-2973,2023-07-09,Home & Living,Yogyakarta,COD,Completed,610815,1,610815,2023-07,7,Q3
+ORD-2974,2023-04-20,Fashion,Jakarta,Bank Transfer,Completed,204066,1,204066,2023-04,4,Q2
+ORD-2975,2023-12-10,Sports,Makassar,Credit Card,Completed,932907,1,932907,2023-12,12,Q4
+ORD-2976,2023-04-05,Fashion,Jakarta,COD,Completed,348771,4,1395084,2023-04,4,Q2
+ORD-2977,2023-06-06,Beauty & Health,Jakarta,E-Wallet,Cancelled,420127,2,0,2023-06,6,Q2
+ORD-2978,2023-11-15,Electronics,Bandung,E-Wallet,Returned,2153609,2,0,2023-11,11,Q4
+ORD-2979,2023-11-04,Fashion,Bandung,E-Wallet,Completed,262520,1,262520,2023-11,11,Q4
+ORD-2980,2023-03-09,Sports,Bandung,Credit Card,Completed,329136,1,329136,2023-03,3,Q1
+ORD-2981,2023-10-20,Sports,Jakarta,Credit Card,Completed,213145,3,639435,2023-10,10,Q4
+ORD-2982,2023-06-17,Electronics,Makassar,E-Wallet,Completed,2346472,1,2346472,2023-06,6,Q2
+ORD-2983,2023-06-26,Electronics,Jakarta,Credit Card,Cancelled,1071470,3,0,2023-06,6,Q2
+ORD-2984,2023-02-18,Sports,Jakarta,Bank Transfer,Cancelled,539051,3,0,2023-02,2,Q1
+ORD-2985,2023-01-30,Books & Stationery,Jakarta,E-Wallet,Completed,159461,3,478383,2023-01,1,Q1
+ORD-2986,2023-09-23,Electronics,Bandung,E-Wallet,Completed,1577057,1,1577057,2023-09,9,Q3
+ORD-2987,2023-07-01,Fashion,Semarang,Bank Transfer,Completed,212612,1,212612,2023-07,7,Q3
+ORD-2988,2023-06-09,Fashion,Bandung,E-Wallet,Completed,512360,2,1024720,2023-06,6,Q2
+ORD-2989,2023-09-24,Sports,Yogyakarta,COD,Cancelled,1005304,1,0,2023-09,9,Q3
+ORD-2990,2023-10-07,Electronics,Jakarta,E-Wallet,Completed,1051321,1,1051321,2023-10,10,Q4
+ORD-2991,2023-02-28,Electronics,Bandung,Credit Card,Completed,1216770,1,1216770,2023-02,2,Q1
+ORD-2992,2023-08-11,Home & Living,Surabaya,Credit Card,Completed,847008,5,4235040,2023-08,8,Q3
+ORD-2993,2023-02-19,Electronics,Surabaya,Bank Transfer,Cancelled,863352,1,0,2023-02,2,Q1
+ORD-2994,2023-10-02,Beauty & Health,Jakarta,Credit Card,Completed,441947,2,883894,2023-10,10,Q4
+ORD-2995,2023-08-28,Fashion,Medan,Credit Card,Cancelled,127322,2,0,2023-08,8,Q3
+ORD-2996,2023-12-16,Fashion,Surabaya,Credit Card,Cancelled,561834,2,0,2023-12,12,Q4
+ORD-2997,2023-01-26,Fashion,Medan,Bank Transfer,Returned,278662,1,0,2023-01,1,Q1
+ORD-2998,2023-01-21,Beauty & Health,Surabaya,COD,Completed,427891,5,2139455,2023-01,1,Q1
+ORD-2999,2023-04-13,Electronics,Jakarta,Credit Card,Completed,1700835,1,1700835,2023-04,4,Q2
