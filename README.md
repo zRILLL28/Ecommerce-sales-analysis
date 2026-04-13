@@ -59,7 +59,7 @@ ecommerce-sales-analysis/
 ![City & Payment](Screenshots/city_payment.png)
 
 ### Order Status & Quarterly Revenue
-![Status & Quarterly](fScreenshots/status_quarterly.png)
+![Status & Quarterly](Screenshots/status_quarterly.png)
 
 ---
 
