@@ -28,7 +28,7 @@ ecommerce-sales-analysis/
 │   ├── monthly_revenue.png      # Monthly revenue trend
 │   ├── category_analysis.png    # Revenue & orders by category
 │   ├── city_payment.png         # City revenue & payment method
-│   └── status_quarterly.png     # Order status & quarterly revenue
+│   ├── status_quarterly.png     # Order status & quarterly revenue
 │   └── PowerBI.png              # Visualizations with PowerBI
 |
 └── README.md
