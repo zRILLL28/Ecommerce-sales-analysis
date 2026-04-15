@@ -22,6 +22,7 @@ ecommerce-sales-analysis/
 │
 ├── ecommerce_sales_2023.csv          # Dataset (synthetic, 2000 transactions)
 ├── ecommerce_sales_analysis.ipynb    # Full analysis notebook
+├── Ecomemerce.pbix                   # Visualizations
 │
 ├── Screenshots/
 │   ├── monthly_revenue.png      # Monthly revenue trend
