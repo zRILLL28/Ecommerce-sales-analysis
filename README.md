@@ -24,11 +24,11 @@ ecommerce-sales-analysis/
 ├── ecommerce_sales_analysis.ipynb    # Full analysis notebook
 │
 ├── Screenshots/
-│   ├── fig1_monthly_revenue.png      # Monthly revenue trend
-│   ├── fig2_category_analysis.png    # Revenue & orders by category
-│   ├── fig3_city_payment.png         # City revenue & payment method
-│   └── fig4_status_quarterly.png     # Order status & quarterly revenue
-│
+│   ├── monthly_revenue.png      # Monthly revenue trend
+│   ├── category_analysis.png    # Revenue & orders by category
+│   ├── city_payment.png         # City revenue & payment method
+│   └── status_quarterly.png     # Order status & quarterly revenue
+│   └── PowerBI.png              # Visualizations with PowerBI
 └── README.md
 ```
 
@@ -49,6 +49,9 @@ ecommerce-sales-analysis/
 
 ## 📈 Visualizations
 
+### PowerBI Visualizations
+![PowerBI](Screenshots/PowerBI.png)
+
 ### Monthly Revenue Trend
 ![Monthly Revenue](Screenshots/monthly_revenue.png)
 
@@ -67,6 +70,7 @@ ecommerce-sales-analysis/
 
 | Tool | Purpose |
 |------|---------|
+| PowerBI | Visualization |
 | Python 3.10 | Core language |
 | Pandas | Data manipulation & aggregation |
 | NumPy | Numerical operations |
